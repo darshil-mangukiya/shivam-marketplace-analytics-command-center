@@ -1,0 +1,3 @@
+dataset_period,fulfillment_type,product_count,order_count,sales_index,units_index,avg_fee_pct_of_gross,avg_refund_pct_of_gross,avg_net_to_gross_pct,margin_risk_score,revenue_quality_score
+12m,Merchant Fulfilled,152,65934,100.0,100.0,12.4,4.5,94.8,5.4,87.8
+12m,FBA,152,54066,85.2,82.1,27.3,4.5,79.8,11.0,69.1

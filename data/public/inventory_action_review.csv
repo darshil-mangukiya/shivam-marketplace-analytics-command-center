@@ -1,0 +1,761 @@
+public_product_id,marketplace,brand_group,category_group,product_group,inventory_band,units_index,sales_index,margin_risk_band,revenue_quality_band,restock_priority,recommended_action,action_priority,action_reason
+P0753,Amazon,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,100.0,84.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0566,Amazon,Pantene,Hair Care,Shampoo,Very Low / 1-2,98.0,98.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1196,Amazon,Watsons,Oral Care,Floss Picks,Very Low / 1-2,97.1,53.8,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0534,Amazon,Nexcare,Skin Care,General Product,Low / 3-5,95.5,81.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1249,Amazon,Watsons,Oral Care,Floss Picks,Out of Stock / 0,95.3,35.4,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0690,Amazon,Protex,Body Care,General Product,Very Low / 1-2,94.7,40.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0573,Amazon,Pantene,Hair Care,Shampoo,Very Low / 1-2,94.3,100.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1200,Amazon,Watsons,Oral Care,Dental Floss,Low / 3-5,94.1,34.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1109,Amazon,Vaseline,Body Care,Body Wash,Very Low / 1-2,93.9,99.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0082,Amazon,Biore,Skin Care,Sunscreen,Very High / 51+,93.9,74.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0546,Amazon,Ora2,Oral Care,Toothpaste,Out of Stock / 0,93.5,98.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1035,Amazon,Sunsilk,Hair Care,Shampoo,High / 16-50,93.3,39.3,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1032,Amazon,Sunsilk,Hair Care,Shampoo,High / 16-50,92.9,39.3,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0230,Amazon,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,92.7,98.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0547,Amazon,Oral-B,Oral Care,Dental Floss,Low / 3-5,92.7,97.8,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0565,Amazon,Pair,Skin Care,General Product,Out of Stock / 0,92.4,93.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1072,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,92.4,34.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0889,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,Very High / 51+,92.4,29.4,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0488,Amazon,Listerine,Oral Care,Mouthwash,Out of Stock / 0,92.2,97.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0906,Amazon,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,92.2,97.6,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1150,Amazon,Vaseline,Body Care,Deodorant & Body Spray,Out of Stock / 0,92.2,68.3,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1162,Amazon,Vita Keratin,Hair Care,General Product,Out of Stock / 0,92.0,92.6,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0034,Amazon,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,91.8,68.0,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0781,Amazon,Senka,Skin Care,Face Cleanser,Out of Stock / 0,91.6,97.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0610,Amazon,Pantene,Hair Care,Hair Oil & Serum,Out of Stock / 0,91.6,96.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0705,Amazon,Protex,Body Care,General Product,Very Low / 1-2,91.4,43.5,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0602,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,91.2,97.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1176,Amazon,Wangprom,Health & Wellness,General Product,Out of Stock / 0,90.8,62.7,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0270,Amazon,Dove,Hair Care,Hair Oil & Serum,Very High / 51+,90.6,48.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0427,Amazon,Kaowmanee,Skin Care,General Product,Out of Stock / 0,90.4,34.5,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0795,Amazon,Senka,Skin Care,Face Cleanser,Out of Stock / 0,90.0,95.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0170,Amazon,Colgate,Oral Care,Toothpaste,Low / 3-5,90.0,47.6,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1164,Amazon,Wangprom,Health & Wellness,Herbal Inhaler,Out of Stock / 0,89.8,38.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0581,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Very Low / 1-2,89.6,94.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1190,Amazon,Watsons,Oral Care,Dental Floss,Low / 3-5,89.4,49.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0720,Amazon,Protex,Body Care,General Product,Very Low / 1-2,89.4,37.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0022,Amazon,Ambi Pur,Home & Kitchen,Air Freshener,Low / 3-5,89.2,94.6,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0890,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,89.2,47.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0797,Amazon,Sensodyne,Oral Care,Toothpaste,Low / 3-5,89.0,94.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0763,Amazon,Sasi,Lip,Lip Care,Medium / 6-15,89.0,47.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1070,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,Medium / 6-15,89.0,33.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1218,Amazon,Watsons,Oral Care,Floss Picks,Low / 3-5,89.0,33.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0246,Amazon,Dove,Body Care,Deodorant & Body Spray,Medium / 6-15,88.8,71.6,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1041,Amazon,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,88.8,37.7,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0917,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Low / 3-5,88.8,28.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0932,Amazon,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,Very High / 51+,88.8,28.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0604,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,88.6,89.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0175,Amazon,Colgate,Oral Care,Toothpaste,Medium / 6-15,88.6,75.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0475,Amazon,Listerine,Oral Care,Mouthwash,Low / 3-5,88.6,37.6,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1120,Amazon,Vaseline,Skin Care,Body Scrub,Very Low / 1-2,88.4,74.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1039,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,88.4,44.3,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0868,Amazon,SHIVAMAX,Home & Kitchen,General Product,Medium / 6-15,88.4,39.7,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0915,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,88.2,27.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1099,Amazon,Tros,Body Care,Deodorant & Body Spray,Out of Stock / 0,88.0,46.7,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1071,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,88.0,32.4,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0780,Amazon,Senka,Skin Care,Face Cleanser,Very Low / 1-2,87.6,93.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0261,Amazon,Dove,Hair Care,General Product,Very High / 51+,87.6,46.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0257,Amazon,Dove,Hair Care,General Product,Low / 3-5,87.3,41.7,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1251,Amazon,Watsons,Oral Care,Floss Picks,Out of Stock / 0,87.3,32.4,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0543,Amazon,Ora2,Oral Care,Toothpaste,Out of Stock / 0,87.1,92.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0605,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,87.1,92.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0840,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Out of Stock / 0,87.1,46.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0758,Amazon,Sasi,Lip,Sunscreen,Very Low / 1-2,86.9,46.0,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1131,Amazon,Vaseline,Skin Care,Sunscreen,Out of Stock / 0,86.7,91.5,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0598,Amazon,Pantene,Hair Care,General Product,Out of Stock / 0,86.7,45.6,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0931,Amazon,SHIVAMAX,Electronics & Travel Accessories,General Product,Out of Stock / 0,86.5,54.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1042,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,86.3,91.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0342,Amazon,Fino,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,85.9,91.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0437,Amazon,L'Oreal Paris,Skin Care,Face Cleanser,Very High / 51+,85.9,72.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1214,Amazon,Watsons,Oral Care,Floss Picks,Very Low / 1-2,85.9,31.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0617,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,85.7,91.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0168,Amazon,Colgate,Oral Care,Toothpaste,Low / 3-5,85.7,90.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0235,Amazon,Counterpain,Health & Wellness,Pain Relief,Low / 3-5,85.7,81.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0212,Amazon,Colgate,Oral Care,Toothpaste,Out of Stock / 0,85.7,49.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1254,Amazon,Watsons,Oral Care,Dental Floss,Out of Stock / 0,85.7,45.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0225,Amazon,Colgate,Oral Care,Toothpaste,Out of Stock / 0,85.7,43.0,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0264,Amazon,Dove,Body Care,Deodorant & Body Spray,High / 16-50,85.5,70.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1003,Amazon,Snake Brand,Body Care,General Product,Out of Stock / 0,85.3,40.7,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0922,Amazon,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,85.1,87.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0039,Amazon,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,85.1,60.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1112,Amazon,Vaseline,Body Care,Deodorant & Body Spray,Very Low / 1-2,85.1,45.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0531,Amazon,NEXCARE,Skin Care,General Product,Medium / 6-15,84.9,44.8,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1121,Amazon,Vaseline,Body Care,Body Wash,Very Low / 1-2,84.7,89.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0042,Amazon,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,84.5,89.6,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0783,Amazon,Senka,Skin Care,Face Cleanser,Out of Stock / 0,84.5,89.6,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0172,Amazon,Colgate,Oral Care,Toothpaste,Very Low / 1-2,84.5,89.4,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0024,Amazon,AR,Skin Care,General Product,Out of Stock / 0,84.5,44.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0770,Amazon,Sasi,Skin Care,General Product,Medium / 6-15,84.5,40.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1048,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,84.3,89.1,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0777,Amazon,Senka,Skin Care,Face Cleanser,Low / 3-5,84.3,89.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0747,Amazon,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,84.3,71.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0178,Amazon,Colgate,Oral Care,Toothpaste,Low / 3-5,84.3,59.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1029,Amazon,Sunsilk,Hair Care,Shampoo,High / 16-50,84.3,35.8,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0562,Amazon,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,84.1,89.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1156,Amazon,Vaseline,Body Care,Body Lotion,Out of Stock / 0,84.1,88.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1237,Amazon,Watsons,Oral Care,Interdental Brush,Out of Stock / 0,84.1,80.1,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1107,Amazon,Vaseline,Body Care,General Product,Very Low / 1-2,84.1,62.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1033,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,84.1,44.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0557,Amazon,Oral-B,Oral Care,Dental Floss,High / 16-50,84.1,42.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0590,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,83.9,88.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1043,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,83.7,84.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0944,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,Out of Stock / 0,83.7,44.3,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0252,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,83.5,88.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1075,Amazon,Tresemme,Hair Care,Shampoo,Very Low / 1-2,83.5,88.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1052,Amazon,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,83.3,35.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0278,Amazon,Dove,Hair Care,Shampoo,Out of Stock / 0,83.1,43.8,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0259,Amazon,Dove,Hair Care,General Product,Very High / 51+,83.1,41.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0927,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Medium / 6-15,83.1,22.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1157,Amazon,Vaseline,Skin Care,Face Cleanser,Out of Stock / 0,82.7,83.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0595,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,82.7,44.0,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0279,Amazon,Dove,Body Care,General Product,Out of Stock / 0,82.4,87.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1185,Amazon,Watsons,Oral Care,Floss Picks,Low / 3-5,82.4,45.8,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1044,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,82.2,85.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1105,Amazon,Vaseline,Body Care,Body Wash,Low / 3-5,82.0,87.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0262,Amazon,Dove,Hair Care,Hair Oil & Serum,Out of Stock / 0,81.8,43.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0536,Amazon,NOVOLIFE,Health & Wellness,Herbal Inhaler,Very Low / 1-2,81.8,26.0,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0041,Amazon,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,81.6,86.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0029,Amazon,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,81.4,86.5,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P1100,Amazon,Tros,Body Care,Deodorant & Body Spray,Very Low / 1-2,81.4,43.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0555,Amazon,Oral-B,Oral Care,Dental Floss,Medium / 6-15,81.4,42.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1146,Amazon,Vaseline,Body Care,General Product,Out of Stock / 0,81.2,86.3,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0594,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,81.2,85.9,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0233,Amazon,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,81.2,38.5,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0679,Amazon,Poy Sian,Health & Wellness,Herbal Inhaler,Medium / 6-15,81.0,34.4,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0554,Amazon,Oral-B,Oral Care,Dental Floss,Low / 3-5,80.8,86.2,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0563,Amazon,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,80.6,68.6,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0253,Amazon,Dove,Hair Care,General Product,Out of Stock / 0,80.6,42.7,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1114,Amazon,Vaseline,Body Care,Deodorant & Body Spray,Low / 3-5,80.2,59.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1038,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,80.2,34.2,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0813,Amazon,Sensodyne,Oral Care,Toothpaste,Out of Stock / 0,80.0,85.0,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0260,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,80.0,84.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0609,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,80.0,84.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0706,Amazon,Protex,Body Care,General Product,Out of Stock / 0,79.8,37.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0528,Amazon,NEXCARE,Skin Care,General Product,Out of Stock / 0,79.6,63.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1026,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,Low / 3-5,79.6,32.9,Low Risk,Watch,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0744,Amazon,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,79.4,67.4,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0271,Amazon,Dove,Hair Care,General Product,Out of Stock / 0,79.0,41.6,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0156,Amazon,Colgate,Oral Care,Toothpaste,Very High / 51+,78.8,74.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0308,Amazon,Dove,Hair Care,General Product,Out of Stock / 0,78.8,41.9,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0343,Amazon,Fino,Hair Care,Hair Oil & Serum,Out of Stock / 0,78.0,77.7,Low Risk,Healthy,Monitor,Restock Review,High,High indexed unit movement with low inventory or restock priority.
+P0218,Amazon,Colgate,Oral Care,Toothpaste,Out of Stock / 0,77.6,70.0,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0476,Amazon,Listerine,Oral Care,Mouthwash,Out of Stock / 0,76.9,44.2,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P1248,Amazon,Watsons,Skin Care,Lip Care,Out of Stock / 0,75.3,39.8,Low Risk,Healthy,Monitor,Fee Review,High,High sales-index product with elevated fee percentage.
+P0528,Website,NEXCARE,Skin Care,General Product,Out of Stock / 0,21.0,16.1,Low Risk,Strong,Monitor,Refund Review,High,Meaningful sales-index product with elevated refund percentage.
+P0781,JioMart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,16.5,16.9,Low Risk,Strong,Monitor,Refund Review,High,Meaningful sales-index product with elevated refund percentage.
+P1069,Amazon,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,95.7,91.4,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1067,Amazon,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,93.9,89.5,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0529,Amazon,NEXCARE,Skin Care,General Product,Medium / 6-15,91.0,96.3,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0586,Amazon,Pantene,Hair Care,General Product,Medium / 6-15,86.5,91.7,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1080,Amazon,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,86.3,91.5,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0263,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,84.1,89.0,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0553,Amazon,Oral-B,Oral Care,Toothpaste,Medium / 6-15,83.7,88.7,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0548,Amazon,Oral-B,Oral Care,Toothpaste,Medium / 6-15,81.2,81.8,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1085,Amazon,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,80.4,80.8,Low Risk,Healthy,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0263,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,47.1,48.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0889,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Very High / 51+,47.1,14.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0225,Flipkart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,45.1,22.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0581,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Very Low / 1-2,44.1,45.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0931,Flipkart,SHIVAMAX,Electronics & Travel Accessories,General Product,Out of Stock / 0,43.5,26.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0271,Flipkart,Dove,Hair Care,General Product,Out of Stock / 0,43.1,22.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0039,Flipkart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,42.7,29.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1044,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,42.4,43.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1114,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,Low / 3-5,42.2,30.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1038,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,42.2,17.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0780,Flipkart,Senka,Skin Care,Face Cleanser,Very Low / 1-2,42.0,43.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0270,Flipkart,Dove,Hair Care,Hair Oil & Serum,Very High / 51+,42.0,21.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0553,Flipkart,Oral-B,Oral Care,Toothpaste,Medium / 6-15,41.8,43.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1070,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,Medium / 6-15,41.8,15.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0264,Flipkart,Dove,Body Care,Deodorant & Body Spray,High / 16-50,41.6,33.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0554,Flipkart,Oral-B,Oral Care,Dental Floss,Low / 3-5,41.4,43.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0548,Flipkart,Oral-B,Oral Care,Toothpaste,Medium / 6-15,41.4,40.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0890,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,41.2,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0168,Flipkart,Colgate,Oral Care,Toothpaste,Low / 3-5,41.0,42.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1150,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,Out of Stock / 0,41.0,29.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1249,Flipkart,Watsons,Oral Care,Floss Picks,Out of Stock / 0,41.0,14.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0927,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Medium / 6-15,41.0,10.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1121,Flipkart,Vaseline,Body Care,Body Wash,Very Low / 1-2,40.8,42.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0546,Flipkart,Ora2,Oral Care,Toothpaste,Out of Stock / 0,40.8,42.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0529,Flipkart,NEXCARE,Skin Care,General Product,Medium / 6-15,40.8,42.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1105,Flipkart,Vaseline,Body Care,Body Wash,Low / 3-5,40.8,42.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0034,Flipkart,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,40.6,29.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0781,Flipkart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,40.4,41.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0534,Flipkart,Nexcare,Skin Care,General Product,Low / 3-5,40.4,33.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1107,Flipkart,Vaseline,Body Care,General Product,Very Low / 1-2,40.4,29.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1071,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,40.4,14.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0573,Flipkart,Pantene,Hair Care,Shampoo,Very Low / 1-2,40.2,41.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1080,Flipkart,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,40.0,41.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1185,Flipkart,Watsons,Oral Care,Floss Picks,Low / 3-5,40.0,21.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0555,Flipkart,Oral-B,Oral Care,Dental Floss,Medium / 6-15,40.0,20.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0705,Flipkart,Protex,Body Care,General Product,Very Low / 1-2,40.0,18.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0868,Flipkart,SHIVAMAX,Home & Kitchen,General Product,Medium / 6-15,40.0,17.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0042,Flipkart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,39.8,41.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0029,Flipkart,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,39.8,41.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0922,Flipkart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,39.8,40.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0797,Flipkart,Sensodyne,Oral Care,Toothpaste,Low / 3-5,39.6,41.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1043,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,39.6,39.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1190,Flipkart,Watsons,Oral Care,Dental Floss,Low / 3-5,39.6,21.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0175,Flipkart,Colgate,Oral Care,Toothpaste,Medium / 6-15,39.4,32.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0233,Flipkart,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,39.4,18.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1029,Flipkart,Sunsilk,Hair Care,Shampoo,High / 16-50,39.4,16.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0720,Flipkart,Protex,Body Care,General Product,Very Low / 1-2,39.2,16.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0536,Flipkart,NOVOLIFE,Health & Wellness,Herbal Inhaler,Very Low / 1-2,39.2,12.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0566,Flipkart,Pantene,Hair Care,Shampoo,Very Low / 1-2,39.0,38.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1067,Flipkart,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,39.0,36.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0744,Flipkart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,39.0,32.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0261,Flipkart,Dove,Hair Care,General Product,Very High / 51+,39.0,20.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0813,Flipkart,Sensodyne,Oral Care,Toothpaste,Out of Stock / 0,38.8,40.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1237,Flipkart,Watsons,Oral Care,Interdental Brush,Out of Stock / 0,38.8,36.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0178,Flipkart,Colgate,Oral Care,Toothpaste,Low / 3-5,38.8,26.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1251,Flipkart,Watsons,Oral Care,Floss Picks,Out of Stock / 0,38.8,14.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0260,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,38.6,40.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0590,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,38.6,40.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0604,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,38.6,38.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0563,Flipkart,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,38.6,31.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0279,Flipkart,Dove,Body Care,General Product,Out of Stock / 0,38.4,40.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0610,Flipkart,Pantene,Hair Care,Hair Oil & Serum,Out of Stock / 0,38.4,40.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0562,Flipkart,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,38.2,40.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0586,Flipkart,Pantene,Hair Care,General Product,Medium / 6-15,38.2,39.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1120,Flipkart,Vaseline,Skin Care,Body Scrub,Very Low / 1-2,38.2,31.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0840,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Out of Stock / 0,38.2,19.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1039,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,38.2,18.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0770,Flipkart,Sasi,Skin Care,General Product,Medium / 6-15,38.2,17.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1214,Flipkart,Watsons,Oral Care,Floss Picks,Very Low / 1-2,38.2,13.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0252,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,38.0,39.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1048,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,38.0,39.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0437,Flipkart,L'Oreal Paris,Skin Care,Face Cleanser,Very High / 51+,38.0,31.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0747,Flipkart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,38.0,31.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1254,Flipkart,Watsons,Oral Care,Dental Floss,Out of Stock / 0,38.0,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0932,Flipkart,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,Very High / 51+,38.0,11.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0609,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,37.8,39.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0906,Flipkart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,37.8,39.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1157,Flipkart,Vaseline,Skin Care,Face Cleanser,Out of Stock / 0,37.8,37.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1112,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,Very Low / 1-2,37.8,19.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1035,Flipkart,Sunsilk,Hair Care,Shampoo,High / 16-50,37.8,15.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0024,Flipkart,AR,Skin Care,General Product,Out of Stock / 0,37.6,19.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0557,Flipkart,Oral-B,Oral Care,Dental Floss,High / 16-50,37.6,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0543,Flipkart,Ora2,Oral Care,Toothpaste,Out of Stock / 0,37.3,38.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0172,Flipkart,Colgate,Oral Care,Toothpaste,Very Low / 1-2,37.3,38.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0218,Flipkart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,37.3,33.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1248,Flipkart,Watsons,Skin Care,Lip Care,Out of Stock / 0,37.3,19.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0257,Flipkart,Dove,Hair Care,General Product,Low / 3-5,37.3,17.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1218,Flipkart,Watsons,Oral Care,Floss Picks,Low / 3-5,37.1,13.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0342,Flipkart,Fino,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,36.9,38.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0230,Flipkart,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,36.9,38.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0235,Flipkart,Counterpain,Health & Wellness,Pain Relief,Low / 3-5,36.9,34.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0531,Flipkart,NEXCARE,Skin Care,General Product,Medium / 6-15,36.9,19.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1041,Flipkart,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,36.9,15.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0022,Flipkart,Ambi Pur,Home & Kitchen,Air Freshener,Low / 3-5,36.7,38.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0565,Flipkart,Pair,Skin Care,General Product,Out of Stock / 0,36.7,36.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1033,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,36.7,19.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0594,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,36.5,38.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1075,Flipkart,Tresemme,Hair Care,Shampoo,Very Low / 1-2,36.5,37.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0753,Flipkart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,36.5,30.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1099,Flipkart,Tros,Body Care,Deodorant & Body Spray,Out of Stock / 0,36.5,18.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1003,Flipkart,Snake Brand,Body Care,General Product,Out of Stock / 0,36.5,17.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1032,Flipkart,Sunsilk,Hair Care,Shampoo,High / 16-50,36.5,15.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0915,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,36.5,11.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1146,Flipkart,Vaseline,Body Care,General Product,Out of Stock / 0,36.3,37.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1085,Flipkart,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,36.3,35.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0082,Flipkart,Biore,Skin Care,Sunscreen,Very High / 51+,36.3,28.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0763,Flipkart,Sasi,Lip,Lip Care,Medium / 6-15,36.3,18.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0944,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Out of Stock / 0,36.3,18.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0278,Meesho,Dove,Hair Care,Shampoo,Out of Stock / 0,36.3,17.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0706,Flipkart,Protex,Body Care,General Product,Out of Stock / 0,36.3,17.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0795,Flipkart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,36.1,37.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0783,Flipkart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,36.1,37.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0604,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,36.1,33.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0595,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,35.9,18.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0595,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,35.9,17.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0915,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,35.9,10.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0602,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,35.7,37.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1156,Flipkart,Vaseline,Body Care,Body Lotion,Out of Stock / 0,35.7,37.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0528,Flipkart,NEXCARE,Skin Care,General Product,Out of Stock / 0,35.7,27.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0475,Flipkart,Listerine,Oral Care,Mouthwash,Low / 3-5,35.7,14.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1131,Flipkart,Vaseline,Skin Care,Sunscreen,Out of Stock / 0,35.5,37.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0777,Flipkart,Senka,Skin Care,Face Cleanser,Low / 3-5,35.5,36.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0212,Flipkart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,35.5,20.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0476,Flipkart,Listerine,Oral Care,Mouthwash,Out of Stock / 0,35.5,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0308,Flipkart,Dove,Hair Care,General Product,Out of Stock / 0,35.5,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0259,Flipkart,Dove,Hair Care,General Product,Very High / 51+,35.5,17.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1200,Flipkart,Watsons,Oral Care,Dental Floss,Low / 3-5,35.5,12.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1042,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,35.1,36.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0617,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,35.1,36.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0246,Flipkart,Dove,Body Care,Deodorant & Body Spray,Medium / 6-15,35.1,27.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1162,Flipkart,Vita Keratin,Hair Care,General Product,Out of Stock / 0,34.9,34.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0690,Flipkart,Protex,Body Care,General Product,Very Low / 1-2,34.7,14.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1072,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,34.7,12.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0917,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Low / 3-5,34.7,10.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0041,Flipkart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,34.5,36.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1069,Flipkart,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,34.5,32.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0156,Flipkart,Colgate,Oral Care,Toothpaste,Very High / 51+,34.5,32.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0170,Flipkart,Colgate,Oral Care,Toothpaste,Low / 3-5,34.5,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0944,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,Out of Stock / 0,34.5,17.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0547,Flipkart,Oral-B,Oral Care,Dental Floss,Low / 3-5,34.3,35.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1196,Flipkart,Watsons,Oral Care,Floss Picks,Very Low / 1-2,34.3,18.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0488,Flipkart,Listerine,Oral Care,Mouthwash,Out of Stock / 0,34.1,35.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1109,Flipkart,Vaseline,Body Care,Body Wash,Very Low / 1-2,34.1,34.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0253,Flipkart,Dove,Hair Care,General Product,Out of Stock / 0,33.9,17.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1026,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Low / 3-5,33.9,13.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0553,Meesho,Oral-B,Oral Care,Toothpaste,Medium / 6-15,33.7,33.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0343,Flipkart,Fino,Hair Care,Hair Oil & Serum,Out of Stock / 0,33.7,32.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0758,Meesho,Sasi,Lip,Sunscreen,Very Low / 1-2,33.7,16.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1052,Flipkart,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,33.7,14.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1042,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,33.5,33.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0262,Flipkart,Dove,Hair Care,Hair Oil & Serum,Out of Stock / 0,33.3,17.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0475,Meesho,Listerine,Oral Care,Mouthwash,Low / 3-5,33.1,13.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0172,Meesho,Colgate,Oral Care,Toothpaste,Very Low / 1-2,32.9,32.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0024,Meesho,AR,Skin Care,General Product,Out of Stock / 0,32.9,16.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1164,Flipkart,Wangprom,Health & Wellness,Herbal Inhaler,Out of Stock / 0,32.9,13.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0780,Meesho,Senka,Skin Care,Face Cleanser,Very Low / 1-2,32.7,32.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0602,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,32.7,32.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0278,Flipkart,Dove,Hair Care,Shampoo,Out of Stock / 0,32.7,16.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0598,Flipkart,Pantene,Hair Care,General Product,Out of Stock / 0,32.7,16.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0605,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,32.4,33.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0566,Meesho,Pantene,Hair Care,Shampoo,Very Low / 1-2,32.4,30.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1185,Meesho,Watsons,Oral Care,Floss Picks,Low / 3-5,32.4,16.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1190,Meesho,Watsons,Oral Care,Dental Floss,Low / 3-5,32.4,16.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0679,Flipkart,Poy Sian,Health & Wellness,Herbal Inhaler,Medium / 6-15,32.4,13.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0034,Meesho,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,32.2,22.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0758,Flipkart,Sasi,Lip,Sunscreen,Very Low / 1-2,32.2,16.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0427,Flipkart,Kaowmanee,Skin Care,General Product,Out of Stock / 0,32.2,12.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1003,Meesho,Snake Brand,Body Care,General Product,Out of Stock / 0,32.0,14.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1029,Meesho,Sunsilk,Hair Care,Shampoo,High / 16-50,32.0,12.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0342,Meesho,Fino,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,31.8,31.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0022,Meesho,Ambi Pur,Home & Kitchen,Air Freshener,Low / 3-5,31.8,31.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0279,Meesho,Dove,Body Care,General Product,Out of Stock / 0,31.8,31.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0218,Meesho,Colgate,Oral Care,Toothpaste,Out of Stock / 0,31.8,26.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0590,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,31.6,31.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0175,Meesho,Colgate,Oral Care,Toothpaste,Medium / 6-15,31.6,24.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1249,Meesho,Watsons,Oral Care,Floss Picks,Out of Stock / 0,31.6,10.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1251,Meesho,Watsons,Oral Care,Floss Picks,Out of Stock / 0,31.6,10.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0252,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,31.2,30.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0531,Meesho,NEXCARE,Skin Care,General Product,Medium / 6-15,31.2,15.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0557,Meesho,Oral-B,Oral Care,Dental Floss,High / 16-50,31.2,14.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0253,Meesho,Dove,Hair Care,General Product,Out of Stock / 0,31.0,15.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1041,Meesho,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,31.0,12.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0783,Meesho,Senka,Skin Care,Face Cleanser,Out of Stock / 0,30.8,30.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0594,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,30.8,30.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0581,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Very Low / 1-2,30.8,30.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0813,Meesho,Sensodyne,Oral Care,Toothpaste,Out of Stock / 0,30.8,30.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1043,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,30.8,29.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0529,Meesho,NEXCARE,Skin Care,General Product,Medium / 6-15,30.6,30.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0528,Meesho,NEXCARE,Skin Care,General Product,Out of Stock / 0,30.6,22.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1100,Flipkart,Tros,Body Care,Deodorant & Body Spray,Very Low / 1-2,30.6,15.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0690,Meesho,Protex,Body Care,General Product,Very Low / 1-2,30.6,12.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0777,Meesho,Senka,Skin Care,Face Cleanser,Low / 3-5,30.4,30.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0225,Meesho,Colgate,Oral Care,Toothpaste,Out of Stock / 0,30.4,14.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0536,Meesho,NOVOLIFE,Health & Wellness,Herbal Inhaler,Very Low / 1-2,30.4,9.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0554,Meesho,Oral-B,Oral Care,Dental Floss,Low / 3-5,30.2,29.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0617,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,30.2,29.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0230,Meesho,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,30.2,29.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1107,Meesho,Vaseline,Body Care,General Product,Very Low / 1-2,30.2,20.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1176,Flipkart,Wangprom,Health & Wellness,General Product,Out of Stock / 0,30.2,20.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1085,Meesho,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,30.0,28.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1248,Meesho,Watsons,Skin Care,Lip Care,Out of Stock / 0,30.0,14.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0308,Meesho,Dove,Hair Care,General Product,Out of Stock / 0,30.0,14.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0548,Meesho,Oral-B,Oral Care,Toothpaste,Medium / 6-15,29.8,27.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0257,Meesho,Dove,Hair Care,General Product,Low / 3-5,29.8,13.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1218,Meesho,Watsons,Oral Care,Floss Picks,Low / 3-5,29.8,10.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1157,Meesho,Vaseline,Skin Care,Face Cleanser,Out of Stock / 0,29.6,27.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0343,Meesho,Fino,Hair Care,Hair Oil & Serum,Out of Stock / 0,29.6,27.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0235,Meesho,Counterpain,Health & Wellness,Pain Relief,Low / 3-5,29.6,26.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0922,Meesho,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,29.4,28.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1033,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,29.4,14.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1039,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,29.4,13.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1038,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,29.4,11.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0041,Meesho,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,29.2,28.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1080,Meesho,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,29.2,28.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1067,Meesho,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,29.2,25.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0476,Meesho,Listerine,Oral Care,Mouthwash,Out of Stock / 0,29.2,15.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0720,Meesho,Protex,Body Care,General Product,Very Low / 1-2,29.2,11.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0264,Meesho,Dove,Body Care,Deodorant & Body Spray,High / 16-50,29.0,22.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0890,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,29.0,14.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0427,Meesho,Kaowmanee,Skin Care,General Product,Out of Stock / 0,29.0,10.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0781,Meesho,Senka,Skin Care,Face Cleanser,Out of Stock / 0,28.8,28.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1100,Meesho,Tros,Body Care,Deodorant & Body Spray,Very Low / 1-2,28.8,14.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1120,Meesho,Vaseline,Skin Care,Body Scrub,Very Low / 1-2,28.6,22.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0082,Meesho,Biore,Skin Care,Sunscreen,Very High / 51+,28.6,21.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0840,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Out of Stock / 0,28.6,14.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0610,Meesho,Pantene,Hair Care,Hair Oil & Serum,Out of Stock / 0,28.4,28.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0906,Meesho,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,28.4,27.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0168,Meesho,Colgate,Oral Care,Toothpaste,Low / 3-5,28.4,27.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1069,Meesho,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,28.4,25.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0271,Meesho,Dove,Hair Care,General Product,Out of Stock / 0,28.4,14.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0259,Meesho,Dove,Hair Care,General Product,Very High / 51+,28.4,13.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1052,Meesho,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,28.4,11.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1035,Meesho,Sunsilk,Hair Care,Shampoo,High / 16-50,28.4,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0437,Meesho,L'Oreal Paris,Skin Care,Face Cleanser,Very High / 51+,28.2,22.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1032,Meesho,Sunsilk,Hair Care,Shampoo,High / 16-50,28.2,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1072,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,28.2,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0156,Meesho,Colgate,Oral Care,Toothpaste,Very High / 51+,28.0,24.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0555,Meesho,Oral-B,Oral Care,Dental Floss,Medium / 6-15,28.0,13.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1112,Meesho,Vaseline,Body Care,Deodorant & Body Spray,Very Low / 1-2,28.0,13.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0706,Meesho,Protex,Body Care,General Product,Out of Stock / 0,28.0,12.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0029,Meesho,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,27.8,27.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0586,Meesho,Pantene,Hair Care,General Product,Medium / 6-15,27.8,27.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1121,Meesho,Vaseline,Body Care,Body Wash,Very Low / 1-2,27.8,27.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1114,Meesho,Vaseline,Body Care,Deodorant & Body Spray,Low / 3-5,27.8,19.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1150,Meesho,Vaseline,Body Care,Deodorant & Body Spray,Out of Stock / 0,27.8,19.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0261,Meesho,Dove,Hair Care,General Product,Very High / 51+,27.8,13.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0868,Meesho,SHIVAMAX,Home & Kitchen,General Product,Medium / 6-15,27.8,11.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0932,Meesho,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,Very High / 51+,27.8,8.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0042,Meesho,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,27.6,27.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0562,Meesho,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,27.6,26.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0795,Meesho,Senka,Skin Care,Face Cleanser,Out of Stock / 0,27.3,27.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0598,Meesho,Pantene,Hair Care,General Product,Out of Stock / 0,27.3,13.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1026,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Low / 3-5,27.3,10.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0917,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Low / 3-5,27.3,8.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1237,Meesho,Watsons,Oral Care,Interdental Brush,Out of Stock / 0,27.1,24.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0534,Meesho,Nexcare,Skin Care,General Product,Low / 3-5,27.1,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1196,Meesho,Watsons,Oral Care,Floss Picks,Very Low / 1-2,27.1,14.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0763,Meesho,Sasi,Lip,Lip Care,Medium / 6-15,27.1,13.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1070,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,Medium / 6-15,27.1,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1156,Meesho,Vaseline,Body Care,Body Lotion,Out of Stock / 0,26.9,26.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0747,Meesho,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,26.9,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0705,Meesho,Protex,Body Care,General Product,Very Low / 1-2,26.9,12.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1164,Meesho,Wangprom,Health & Wellness,Herbal Inhaler,Out of Stock / 0,26.9,10.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1146,Meesho,Vaseline,Body Care,General Product,Out of Stock / 0,26.7,26.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0260,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,26.7,26.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1048,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,26.7,26.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1200,Meesho,Watsons,Oral Care,Dental Floss,Low / 3-5,26.7,9.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0609,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,26.5,26.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1162,Meesho,Vita Keratin,Hair Care,General Product,Out of Stock / 0,26.5,24.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1075,Meesho,Tresemme,Hair Care,Shampoo,Very Low / 1-2,26.3,25.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0565,Meesho,Pair,Skin Care,General Product,Out of Stock / 0,26.3,24.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0744,Meesho,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,26.3,20.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0262,Meesho,Dove,Hair Care,Hair Oil & Serum,Out of Stock / 0,26.3,13.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0233,Meesho,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,26.3,11.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0679,Meesho,Poy Sian,Health & Wellness,Herbal Inhaler,Medium / 6-15,26.3,10.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1214,Meesho,Watsons,Oral Care,Floss Picks,Very Low / 1-2,26.3,9.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0927,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Medium / 6-15,26.3,6.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1121,Website,Vaseline,Body Care,Body Wash,Very Low / 1-2,26.1,26.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0563,Meesho,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,26.1,20.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0543,Meesho,Ora2,Oral Care,Toothpaste,Out of Stock / 0,25.9,25.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0178,Meesho,Colgate,Oral Care,Toothpaste,Low / 3-5,25.9,17.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1176,Meesho,Wangprom,Health & Wellness,General Product,Out of Stock / 0,25.9,16.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0170,Meesho,Colgate,Oral Care,Toothpaste,Low / 3-5,25.9,12.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1109,Meesho,Vaseline,Body Care,Body Wash,Very Low / 1-2,25.7,25.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1131,Meesho,Vaseline,Skin Care,Sunscreen,Out of Stock / 0,25.7,25.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0039,Meesho,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,25.5,16.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1099,Meesho,Tros,Body Care,Deodorant & Body Spray,Out of Stock / 0,25.5,12.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1044,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,25.3,24.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0753,Meesho,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,25.3,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1254,Meesho,Watsons,Oral Care,Dental Floss,Out of Stock / 0,25.3,12.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0889,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,Very High / 51+,25.3,7.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1114,Website,Vaseline,Body Care,Deodorant & Body Spray,Low / 3-5,25.1,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1156,Website,Vaseline,Body Care,Body Lotion,Out of Stock / 0,24.9,25.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1146,Website,Vaseline,Body Care,General Product,Out of Stock / 0,24.7,25.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0488,Meesho,Listerine,Oral Care,Mouthwash,Out of Stock / 0,24.7,24.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0605,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,24.7,24.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0573,Meesho,Pantene,Hair Care,Shampoo,Very Low / 1-2,24.7,24.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0270,Meesho,Dove,Hair Care,Hair Oil & Serum,Very High / 51+,24.7,12.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0546,Meesho,Ora2,Oral Care,Toothpaste,Out of Stock / 0,24.5,24.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0797,Meesho,Sensodyne,Oral Care,Toothpaste,Low / 3-5,24.5,24.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0252,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,24.3,24.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0235,JioMart,Counterpain,Health & Wellness,Pain Relief,Low / 3-5,24.3,22.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0555,JioMart,Oral-B,Oral Care,Dental Floss,Medium / 6-15,24.3,12.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1003,Website,Snake Brand,Body Care,General Product,Out of Stock / 0,24.3,11.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1071,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,24.3,8.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0581,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Very Low / 1-2,24.1,24.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0747,JioMart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,24.1,19.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0246,Meesho,Dove,Body Care,Deodorant & Body Spray,Medium / 6-15,24.1,18.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0212,Meesho,Colgate,Oral Care,Toothpaste,Out of Stock / 0,24.1,12.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0917,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Low / 3-5,24.1,7.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0594,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,23.9,24.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0770,Meesho,Sasi,Skin Care,General Product,Medium / 6-15,23.9,10.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1120,Website,Vaseline,Skin Care,Body Scrub,Very Low / 1-2,23.5,19.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1105,Meesho,Vaseline,Body Care,Body Wash,Low / 3-5,23.3,23.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0598,JioMart,Pantene,Hair Care,General Product,Out of Stock / 0,23.3,11.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0783,Website,Senka,Skin Care,Face Cleanser,Out of Stock / 0,23.1,23.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0554,Website,Oral-B,Oral Care,Dental Floss,Low / 3-5,23.1,23.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0279,JioMart,Dove,Body Care,General Product,Out of Stock / 0,23.1,23.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0343,JioMart,Fino,Hair Care,Hair Oil & Serum,Out of Stock / 0,23.1,22.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0024,Website,AR,Skin Care,General Product,Out of Stock / 0,23.1,11.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1039,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,23.1,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1157,JioMart,Vaseline,Skin Care,Face Cleanser,Out of Stock / 0,22.9,21.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1069,JioMart,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,22.9,20.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0609,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,22.7,23.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0263,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,22.7,22.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0271,JioMart,Dove,Hair Care,General Product,Out of Stock / 0,22.7,11.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1041,Website,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,22.7,9.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0529,Website,NEXCARE,Skin Care,General Product,Medium / 6-15,22.4,23.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0906,JioMart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,22.4,22.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1043,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,22.4,21.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0264,Website,Dove,Body Care,Deodorant & Body Spray,High / 16-50,22.4,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0927,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Medium / 6-15,22.4,5.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0922,Website,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,22.2,22.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0753,JioMart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,22.2,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0039,Website,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,22.2,15.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0931,Meesho,SHIVAMAX,Electronics & Travel Accessories,General Product,Out of Stock / 0,22.2,13.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1196,Website,Watsons,Oral Care,Floss Picks,Very Low / 1-2,22.2,12.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1032,Website,Sunsilk,Hair Care,Shampoo,High / 16-50,22.2,9.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0536,Website,NOVOLIFE,Health & Wellness,Herbal Inhaler,Very Low / 1-2,22.2,6.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0915,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,22.2,6.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0744,JioMart,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,22.0,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0212,Website,Colgate,Oral Care,Toothpaste,Out of Stock / 0,22.0,12.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1248,Website,Watsons,Skin Care,Lip Care,Out of Stock / 0,22.0,11.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1254,JioMart,Watsons,Oral Care,Dental Floss,Out of Stock / 0,22.0,11.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0944,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Out of Stock / 0,22.0,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0547,Website,Oral-B,Oral Care,Dental Floss,Low / 3-5,21.8,22.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0260,Website,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,21.8,22.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0488,Website,Listerine,Oral Care,Mouthwash,Out of Stock / 0,21.8,22.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1105,Website,Vaseline,Body Care,Body Wash,Low / 3-5,21.8,22.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0547,Meesho,Oral-B,Oral Care,Dental Floss,Low / 3-5,21.8,21.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1176,JioMart,Wangprom,Health & Wellness,General Product,Out of Stock / 0,21.8,14.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0547,JioMart,Oral-B,Oral Care,Dental Floss,Low / 3-5,21.6,21.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0604,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,21.6,20.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1033,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,21.6,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0170,JioMart,Colgate,Oral Care,Toothpaste,Low / 3-5,21.6,11.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0278,JioMart,Dove,Hair Care,Shampoo,Out of Stock / 0,21.6,11.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0770,JioMart,Sasi,Skin Care,General Product,Medium / 6-15,21.6,9.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0041,JioMart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,21.4,21.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1069,Website,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,21.4,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1120,JioMart,Vaseline,Skin Care,Body Scrub,Very Low / 1-2,21.4,17.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1107,JioMart,Vaseline,Body Care,General Product,Very Low / 1-2,21.4,15.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0308,JioMart,Dove,Hair Care,General Product,Out of Stock / 0,21.4,10.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0252,Website,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,21.2,22.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0042,JioMart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,21.2,21.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0553,JioMart,Oral-B,Oral Care,Toothpaste,Medium / 6-15,21.2,21.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1105,JioMart,Vaseline,Body Care,Body Wash,Low / 3-5,21.2,21.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1044,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,21.2,21.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0604,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,21.2,20.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0218,JioMart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,21.2,18.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0780,Website,Senka,Skin Care,Face Cleanser,Very Low / 1-2,21.0,21.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0586,JioMart,Pantene,Hair Care,General Product,Medium / 6-15,21.0,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0594,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,21.0,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1237,Website,Watsons,Oral Care,Interdental Brush,Out of Stock / 0,21.0,19.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0758,Website,Sasi,Lip,Sunscreen,Very Low / 1-2,21.0,10.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1249,JioMart,Watsons,Oral Care,Floss Picks,Out of Stock / 0,21.0,7.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0915,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,21.0,6.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1075,Website,Tresemme,Hair Care,Shampoo,Very Low / 1-2,20.8,21.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0602,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,20.8,21.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0795,JioMart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,20.8,21.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0170,Website,Colgate,Oral Care,Toothpaste,Low / 3-5,20.8,10.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0705,Website,Protex,Body Care,General Product,Very Low / 1-2,20.8,9.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1029,JioMart,Sunsilk,Hair Care,Shampoo,High / 16-50,20.8,8.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0427,Website,Kaowmanee,Skin Care,General Product,Out of Stock / 0,20.8,7.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1109,Website,Vaseline,Body Care,Body Wash,Very Low / 1-2,20.6,21.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1042,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,20.6,21.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0041,Website,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,20.6,21.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0263,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,20.6,21.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1085,JioMart,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,20.6,20.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0235,Website,Counterpain,Health & Wellness,Pain Relief,Low / 3-5,20.6,19.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0753,Website,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,20.6,16.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0563,JioMart,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,20.6,16.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1176,Website,Wangprom,Health & Wellness,General Product,Out of Stock / 0,20.6,13.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0225,Website,Colgate,Oral Care,Toothpaste,Out of Stock / 0,20.6,9.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0475,JioMart,Listerine,Oral Care,Mouthwash,Low / 3-5,20.6,8.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1026,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Low / 3-5,20.6,8.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0279,Website,Dove,Body Care,General Product,Out of Stock / 0,20.4,21.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0781,Website,Senka,Skin Care,Face Cleanser,Out of Stock / 0,20.4,20.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0172,JioMart,Colgate,Oral Care,Toothpaste,Very Low / 1-2,20.4,20.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1146,JioMart,Vaseline,Body Care,General Product,Out of Stock / 0,20.4,20.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0175,Website,Colgate,Oral Care,Toothpaste,Medium / 6-15,20.4,16.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0262,Website,Dove,Hair Care,Hair Oil & Serum,Out of Stock / 0,20.4,10.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0890,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,20.4,10.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0257,Website,Dove,Hair Care,General Product,Low / 3-5,20.4,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1052,JioMart,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,20.4,8.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1048,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,20.2,20.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0777,JioMart,Senka,Skin Care,Face Cleanser,Low / 3-5,20.2,20.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0218,Website,Colgate,Oral Care,Toothpaste,Out of Stock / 0,20.2,17.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0437,JioMart,L'Oreal Paris,Skin Care,Face Cleanser,Very High / 51+,20.2,16.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0178,JioMart,Colgate,Oral Care,Toothpaste,Low / 3-5,20.2,13.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0720,JioMart,Protex,Body Care,General Product,Very Low / 1-2,20.2,8.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1164,JioMart,Wangprom,Health & Wellness,Herbal Inhaler,Out of Stock / 0,20.2,8.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1251,Website,Watsons,Oral Care,Floss Picks,Out of Stock / 0,20.2,7.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0917,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Low / 3-5,20.2,6.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0168,JioMart,Colgate,Oral Care,Toothpaste,Low / 3-5,20.0,20.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0529,JioMart,NEXCARE,Skin Care,General Product,Medium / 6-15,20.0,20.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0534,Website,Nexcare,Skin Care,General Product,Low / 3-5,20.0,16.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1150,JioMart,Vaseline,Body Care,Deodorant & Body Spray,Out of Stock / 0,20.0,14.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0178,Website,Colgate,Oral Care,Toothpaste,Low / 3-5,20.0,13.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0476,Website,Listerine,Oral Care,Mouthwash,Out of Stock / 0,20.0,11.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0557,JioMart,Oral-B,Oral Care,Dental Floss,High / 16-50,20.0,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0342,Website,Fino,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,19.8,20.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0573,Website,Pantene,Hair Care,Shampoo,Very Low / 1-2,19.8,20.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1131,JioMart,Vaseline,Skin Care,Sunscreen,Out of Stock / 0,19.8,20.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0528,JioMart,NEXCARE,Skin Care,General Product,Out of Stock / 0,19.8,15.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0931,Website,SHIVAMAX,Electronics & Travel Accessories,General Product,Out of Stock / 0,19.8,12.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0259,Website,Dove,Hair Care,General Product,Very High / 51+,19.8,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0546,JioMart,Ora2,Oral Care,Toothpaste,Out of Stock / 0,19.6,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0758,JioMart,Sasi,Lip,Sunscreen,Very Low / 1-2,19.6,10.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0840,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Out of Stock / 0,19.6,10.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0233,Website,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,19.6,9.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0705,JioMart,Protex,Body Care,General Product,Very Low / 1-2,19.6,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0868,JioMart,SHIVAMAX,Home & Kitchen,General Product,Medium / 6-15,19.6,8.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1038,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,19.6,8.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1035,JioMart,Sunsilk,Hair Care,Shampoo,High / 16-50,19.6,7.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0932,JioMart,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,Very High / 51+,19.6,6.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0777,Website,Senka,Skin Care,Face Cleanser,Low / 3-5,19.4,20.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0263,Website,Dove,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,19.4,19.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0617,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,19.4,19.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1043,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,19.4,19.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0548,JioMart,Oral-B,Oral Care,Toothpaste,Medium / 6-15,19.4,18.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1237,JioMart,Watsons,Oral Care,Interdental Brush,Out of Stock / 0,19.4,17.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0747,Website,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,19.4,15.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0476,JioMart,Listerine,Oral Care,Mouthwash,Out of Stock / 0,19.4,10.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0308,Website,Dove,Hair Care,General Product,Out of Stock / 0,19.4,10.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1099,JioMart,Tros,Body Care,Deodorant & Body Spray,Out of Stock / 0,19.4,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0557,Website,Oral-B,Oral Care,Dental Floss,High / 16-50,19.4,9.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0233,JioMart,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,19.4,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1035,Website,Sunsilk,Hair Care,Shampoo,High / 16-50,19.4,8.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0720,Website,Protex,Body Care,General Product,Very Low / 1-2,19.4,7.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1052,Website,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,19.4,7.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0168,Website,Colgate,Oral Care,Toothpaste,Low / 3-5,19.2,19.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0230,Website,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,19.2,19.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0543,JioMart,Ora2,Oral Care,Toothpaste,Out of Stock / 0,19.2,19.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0780,JioMart,Senka,Skin Care,Face Cleanser,Very Low / 1-2,19.2,19.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0342,JioMart,Fino,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,19.2,19.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0543,Website,Ora2,Oral Care,Toothpaste,Out of Stock / 0,19.2,19.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0610,JioMart,Pantene,Hair Care,Hair Oil & Serum,Out of Stock / 0,19.2,19.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0039,JioMart,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,19.2,13.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1185,Website,Watsons,Oral Care,Floss Picks,Low / 3-5,19.2,10.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1185,JioMart,Watsons,Oral Care,Floss Picks,Low / 3-5,19.2,10.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0259,JioMart,Dove,Hair Care,General Product,Very High / 51+,19.2,9.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1032,JioMart,Sunsilk,Hair Care,Shampoo,High / 16-50,19.2,7.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1072,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,19.2,6.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1251,JioMart,Watsons,Oral Care,Floss Picks,Out of Stock / 0,19.2,6.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0889,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,Very High / 51+,19.2,5.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0546,Website,Ora2,Oral Care,Toothpaste,Out of Stock / 0,19.0,19.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0562,Website,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,19.0,19.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0565,Website,Pair,Skin Care,General Product,Out of Stock / 0,19.0,18.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0565,JioMart,Pair,Skin Care,General Product,Out of Stock / 0,19.0,18.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0156,JioMart,Colgate,Oral Care,Toothpaste,Very High / 51+,19.0,17.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0744,Website,Rexona,Body Care,Deodorant & Body Spray,Out of Stock / 0,19.0,15.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0890,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,Medium / 6-15,19.0,9.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0944,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,Out of Stock / 0,19.0,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0024,JioMart,AR,Skin Care,General Product,Out of Stock / 0,19.0,9.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1164,Website,Wangprom,Health & Wellness,Herbal Inhaler,Out of Stock / 0,19.0,7.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1072,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,19.0,6.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1218,JioMart,Watsons,Oral Care,Floss Picks,Low / 3-5,19.0,6.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0554,JioMart,Oral-B,Oral Care,Dental Floss,Low / 3-5,18.8,19.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0230,JioMart,Counterpain,Health & Wellness,Pain Relief,Out of Stock / 0,18.8,19.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0813,JioMart,Sensodyne,Oral Care,Toothpaste,Out of Stock / 0,18.8,19.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0022,JioMart,Ambi Pur,Home & Kitchen,Air Freshener,Low / 3-5,18.8,18.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0566,Website,Pantene,Hair Care,Shampoo,Very Low / 1-2,18.8,18.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0246,Website,Dove,Body Care,Deodorant & Body Spray,Medium / 6-15,18.8,14.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0034,Website,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.8,13.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0034,JioMart,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.8,13.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1100,Website,Tros,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.8,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1248,JioMart,Watsons,Skin Care,Lip Care,Out of Stock / 0,18.8,9.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0706,JioMart,Protex,Body Care,General Product,Out of Stock / 0,18.8,8.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0257,JioMart,Dove,Hair Care,General Product,Low / 3-5,18.8,8.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0475,Website,Listerine,Oral Care,Mouthwash,Low / 3-5,18.8,7.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1071,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,18.8,6.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0042,Website,Axe,Body Care,Deodorant & Body Spray,Out of Stock / 0,18.6,19.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0581,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Very Low / 1-2,18.6,19.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1044,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.6,18.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0343,Website,Fino,Hair Care,Hair Oil & Serum,Out of Stock / 0,18.6,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0534,JioMart,Nexcare,Skin Care,General Product,Low / 3-5,18.6,15.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0264,JioMart,Dove,Body Care,Deodorant & Body Spray,High / 16-50,18.6,14.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0595,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.6,9.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0253,JioMart,Dove,Hair Care,General Product,Out of Stock / 0,18.6,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0225,JioMart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,18.6,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1038,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.6,7.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1041,JioMart,Sunsilk,Hair Care,Shampoo,Out of Stock / 0,18.6,7.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1131,Website,Vaseline,Skin Care,Sunscreen,Out of Stock / 0,18.4,19.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0590,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.4,18.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0260,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,Low / 3-5,18.4,18.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0562,JioMart,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,18.4,18.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0609,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.4,18.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1162,Website,Vita Keratin,Hair Care,General Product,Out of Stock / 0,18.4,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0246,JioMart,Dove,Body Care,Deodorant & Body Spray,Medium / 6-15,18.4,14.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0270,Website,Dove,Hair Care,Hair Oil & Serum,Very High / 51+,18.4,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0261,JioMart,Dove,Hair Care,General Product,Very High / 51+,18.4,9.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0763,JioMart,Sasi,Lip,Lip Care,Medium / 6-15,18.4,9.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1214,Website,Watsons,Oral Care,Floss Picks,Very Low / 1-2,18.4,6.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0797,Website,Sensodyne,Oral Care,Toothpaste,Low / 3-5,18.2,18.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0813,Website,Sensodyne,Oral Care,Toothpaste,Out of Stock / 0,18.2,18.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1080,Website,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,18.2,18.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0488,JioMart,Listerine,Oral Care,Mouthwash,Out of Stock / 0,18.2,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0566,JioMart,Pantene,Hair Care,Shampoo,Very Low / 1-2,18.2,17.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0931,JioMart,SHIVAMAX,Electronics & Travel Accessories,General Product,Out of Stock / 0,18.2,11.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1196,JioMart,Watsons,Oral Care,Floss Picks,Very Low / 1-2,18.2,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1039,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.2,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0868,Website,SHIVAMAX,Home & Kitchen,General Product,Medium / 6-15,18.2,8.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0029,JioMart,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.0,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0172,Website,Colgate,Oral Care,Toothpaste,Very Low / 1-2,18.0,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0610,Website,Pantene,Hair Care,Hair Oil & Serum,Out of Stock / 0,18.0,18.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0029,Website,Axe,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.0,18.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0605,Website,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.0,18.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0602,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,18.0,18.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1190,Website,Watsons,Oral Care,Dental Floss,Low / 3-5,18.0,9.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1112,Website,Vaseline,Body Care,Deodorant & Body Spray,Very Low / 1-2,18.0,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0271,Website,Dove,Hair Care,General Product,Out of Stock / 0,18.0,9.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0598,Website,Pantene,Hair Care,General Product,Out of Stock / 0,18.0,9.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0840,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Out of Stock / 0,18.0,9.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0427,JioMart,Kaowmanee,Skin Care,General Product,Out of Stock / 0,18.0,6.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1070,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,Medium / 6-15,18.0,6.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1156,JioMart,Vaseline,Body Care,Body Lotion,Out of Stock / 0,17.8,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0548,Website,Oral-B,Oral Care,Toothpaste,Medium / 6-15,17.8,17.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0437,Website,L'Oreal Paris,Skin Care,Face Cleanser,Very High / 51+,17.8,14.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1099,Website,Tros,Body Care,Deodorant & Body Spray,Out of Stock / 0,17.8,9.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1100,JioMart,Tros,Body Care,Deodorant & Body Spray,Very Low / 1-2,17.8,9.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0590,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.6,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0617,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.6,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1042,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.6,17.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0270,JioMart,Dove,Hair Care,Hair Oil & Serum,Very High / 51+,17.6,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1026,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Low / 3-5,17.6,7.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1070,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,Medium / 6-15,17.6,6.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1071,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,High / 16-50,17.6,6.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1200,Website,Watsons,Oral Care,Dental Floss,Low / 3-5,17.6,6.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0795,Website,Senka,Skin Care,Face Cleanser,Out of Stock / 0,17.3,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0906,Website,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.3,18.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0553,Website,Oral-B,Oral Care,Toothpaste,Medium / 6-15,17.3,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1048,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.3,17.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1190,JioMart,Watsons,Oral Care,Dental Floss,Low / 3-5,17.3,9.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0531,Website,NEXCARE,Skin Care,General Product,Medium / 6-15,17.3,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1003,JioMart,Snake Brand,Body Care,General Product,Out of Stock / 0,17.3,7.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0932,Website,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,Very High / 51+,17.3,5.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0536,JioMart,NOVOLIFE,Health & Wellness,Herbal Inhaler,Very Low / 1-2,17.3,5.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0605,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.1,17.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1109,JioMart,Vaseline,Body Care,Body Wash,Very Low / 1-2,17.1,17.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0922,JioMart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,17.1,17.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1150,Website,Vaseline,Body Care,Deodorant & Body Spray,Out of Stock / 0,17.1,12.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0212,JioMart,Colgate,Oral Care,Toothpaste,Out of Stock / 0,17.1,9.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1254,Website,Watsons,Oral Care,Dental Floss,Out of Stock / 0,17.1,8.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0679,Website,Poy Sian,Health & Wellness,Herbal Inhaler,Medium / 6-15,17.1,7.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1029,Website,Sunsilk,Hair Care,Shampoo,High / 16-50,17.1,7.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1200,JioMart,Watsons,Oral Care,Dental Floss,Low / 3-5,17.1,6.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1214,JioMart,Watsons,Oral Care,Floss Picks,Very Low / 1-2,17.1,6.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1218,Website,Watsons,Oral Care,Floss Picks,Low / 3-5,17.1,6.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0586,Website,Pantene,Hair Care,General Product,Medium / 6-15,16.9,17.3,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1085,Website,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,16.9,16.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0563,Website,Oral-B,Oral Care,Toothpaste,Out of Stock / 0,16.9,14.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0595,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,16.9,8.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1112,JioMart,Vaseline,Body Care,Deodorant & Body Spray,Very Low / 1-2,16.9,8.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1033,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,Out of Stock / 0,16.9,8.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0770,Website,Sasi,Skin Care,General Product,Medium / 6-15,16.9,7.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0573,JioMart,Pantene,Hair Care,Shampoo,Very Low / 1-2,16.7,17.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0690,JioMart,Protex,Body Care,General Product,Very Low / 1-2,16.7,6.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1249,Website,Watsons,Oral Care,Floss Picks,Out of Stock / 0,16.7,6.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0889,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,Very High / 51+,16.7,5.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0927,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,Medium / 6-15,16.7,4.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1157,Website,Vaseline,Skin Care,Face Cleanser,Out of Stock / 0,16.5,16.2,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1114,JioMart,Vaseline,Body Care,Deodorant & Body Spray,Low / 3-5,16.5,11.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0261,Website,Dove,Hair Care,General Product,Very High / 51+,16.5,8.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0082,JioMart,Biore,Skin Care,Sunscreen,Very High / 51+,16.3,12.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1107,Website,Vaseline,Body Care,General Product,Very Low / 1-2,16.3,11.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0262,JioMart,Dove,Hair Care,Hair Oil & Serum,Out of Stock / 0,16.3,8.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1121,JioMart,Vaseline,Body Care,Body Wash,Very Low / 1-2,16.1,16.4,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1162,JioMart,Vita Keratin,Hair Care,General Product,Out of Stock / 0,16.1,15.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1067,Website,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,16.1,14.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0706,Website,Protex,Body Care,General Product,Out of Stock / 0,16.1,7.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0156,Website,Colgate,Oral Care,Toothpaste,Very High / 51+,15.9,14.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0175,JioMart,Colgate,Oral Care,Toothpaste,Medium / 6-15,15.9,12.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0082,Website,Biore,Skin Care,Sunscreen,Very High / 51+,15.7,11.9,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0022,Website,Ambi Pur,Home & Kitchen,Air Freshener,Low / 3-5,15.5,16.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0783,JioMart,Senka,Skin Care,Face Cleanser,Out of Stock / 0,15.5,16.0,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1080,JioMart,Tresemme,Hair Care,Hair Conditioner & Treatment,Medium / 6-15,15.5,15.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1075,JioMart,Tresemme,Hair Care,Shampoo,Very Low / 1-2,15.5,15.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0797,JioMart,Sensodyne,Oral Care,Toothpaste,Low / 3-5,15.3,15.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0253,Website,Dove,Hair Care,General Product,Out of Stock / 0,15.3,7.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0531,JioMart,NEXCARE,Skin Care,General Product,Medium / 6-15,15.1,7.7,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P1067,JioMart,Tiger Balm,Health & Wellness,Pain Relief,Medium / 6-15,14.7,13.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0555,Website,Oral-B,Oral Care,Dental Floss,Medium / 6-15,14.7,7.5,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0679,JioMart,Poy Sian,Health & Wellness,Herbal Inhaler,Medium / 6-15,14.1,5.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0278,Website,Dove,Hair Care,Shampoo,Out of Stock / 0,13.9,7.1,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0690,Website,Protex,Body Care,General Product,Very Low / 1-2,13.5,5.6,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.
+P0763,Website,Sasi,Lip,Lip Care,Medium / 6-15,13.3,6.8,Low Risk,Strong,Monitor,Monitor,Low,No action threshold triggered; continue monitoring.

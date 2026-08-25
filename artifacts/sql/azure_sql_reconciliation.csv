@@ -1,0 +1,11 @@
+table_name,schema,transformed_rows,live_azure_sql_rows,row_count_match,duplicate_key_count_pretransform,null_key_count_pretransform
+dim_product,analytics,153,153,True,0,0
+dim_marketplace,analytics,6,6,True,0,0
+dim_month,analytics,14,14,True,0,0
+dim_fulfillment,analytics,3,3,True,0,0
+fact_marketplace_activity,analytics,65,65,True,0,0
+fact_product_performance,analytics,760,760,True,0,0
+fact_inventory_action,analytics,760,760,True,0,0
+fact_performance_variance,analytics,45,45,True,0,0
+audit_validation,audit,34,34,True,0,0
+audit_dataset_profile,audit,15,15,True,0,0

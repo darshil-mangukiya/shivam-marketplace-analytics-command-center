@@ -1,0 +1,34 @@
+# Data contract: data/public/validation_summary.csv
+dataset: validation_summary
+version: 1
+description: Pipeline/app validation check results.
+grain: one row per check_name
+primary_key: [check_name]
+privacy_classification: public
+public: true
+fields:
+  check_name:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  check_status:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+    allowed_values: ["PASS", "WARN", "FAIL"]
+  check_value:
+    type: string
+    required: true
+    nullable: true
+    privacy: public
+  expected_value:
+    type: string
+    required: true
+    nullable: true
+    privacy: public
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  unknown_value: reject

@@ -1,0 +1,9 @@
+# Optional database drivers for shared/sqlserver_loader.py.
+# Drivers are imported lazily and are separate from the CSV-backed app.
+#
+# Install with:
+#   pip install -r requirements-sqlserver-optional.txt
+# A platform SQL Server ODBC driver is also required.
+
+pyodbc==5.1.0
+mssql-python==1.12.0

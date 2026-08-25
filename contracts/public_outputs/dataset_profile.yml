@@ -1,0 +1,34 @@
+# Data contract: data/public/dataset_profile.csv
+dataset: dataset_profile
+version: 1
+description: Row-count profile of every public output for a given pipeline run.
+grain: one row per public_output_name
+primary_key: [public_output_name]
+privacy_classification: public
+public: true
+fields:
+  public_output_name:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  row_count:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    privacy: public
+  dataset_period:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  dataset_label:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn

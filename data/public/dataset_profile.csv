@@ -1,0 +1,16 @@
+public_output_name,row_count,dataset_period,dataset_label
+anonymized_master,141000,12m,12M / 120K Orders
+marketplace_summary,65,12m,12M / 120K Orders
+marketplace_channel_performance,5,12m,12M / 120K Orders
+product_performance,760,12m,12M / 120K Orders
+category_performance,140,12m,12M / 120K Orders
+brand_performance,205,12m,12M / 120K Orders
+fee_refund_summary,760,12m,12M / 120K Orders
+fulfillment_comparison,2,12m,12M / 120K Orders
+profitability_summary,320,12m,12M / 120K Orders
+margin_risk_review,760,12m,12M / 120K Orders
+inventory_action_review,760,12m,12M / 120K Orders
+product_action_review,760,12m,12M / 120K Orders
+mart_marketplace_variance_drivers,45,12m,12M / 120K Orders
+mart_product_variance_contributors,6840,12m,12M / 120K Orders
+mart_performance_driver_summary,9,12m,12M / 120K Orders

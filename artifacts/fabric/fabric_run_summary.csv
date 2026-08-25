@@ -1,0 +1,9 @@
+item_name,item_type,run_purpose,run_start,run_end_or_duration,status,rows_read,rows_written,notes
+CopyJob_1,Copy job,Initial Bronze load (all 10 tables),2026-08-23 11:32:23,~26s,Succeeded,1855,1855,10/10 jobs succeeded; per-table counts match Azure SQL source exactly
+CopyJob_1,Copy job,Idempotency re-run (all 10 tables),2026-08-23 11:43:42,~24s,Succeeded,1855,1855,Identical per-table row counts to first run; overwrite semantics confirmed idempotent
+PL_AzureSQL_to_OneLake,Pipeline,CopyData_AuditValidation - baseline run,2026-08-23 11:38:30,23s,Succeeded,34,34,Native Copy Data activity; audit.audit_validation -> bronze_audit_validation (Overwrite)
+PL_AzureSQL_to_OneLake,Pipeline,CopyData_AuditValidation - controlled failure (invalid table name),2026-08-23 11:40:14,22s,Failed,-,-,"Error SqlOperationFailed: Invalid object name 'audit.audit_validation_NONEXISTENT_TEST', SqlErrorNumber=208"
+PL_AzureSQL_to_OneLake,Pipeline,CopyData_AuditValidation - automatic retry (still-broken config),2026-08-23 11:41:07,22s,Failed,-,-,Native Fabric retry (Retry=2/interval=30s) fired automatically; failed identically since object genuinely does not exist
+PL_AzureSQL_to_OneLake,Pipeline,CopyData_AuditValidation - recovery run (config corrected),2026-08-23 11:42:43,25s,Succeeded,34,34,Table name corrected back to audit.audit_validation; identical row count to baseline run proves recovery + idempotency
+NB_Silver_Gold_Transform,Notebook,Bronze discovery + Silver build + Gold build - run 1,2026-08-23 11:47-11:56 (approx),n/a,Succeeded,n/a,n/a,All 10 Silver and 5 Gold Delta tables built; 0 null-key drops; 0 duplicate drops
+NB_Silver_Gold_Transform,Notebook,Full notebook re-run (idempotency check),2026-08-23 11:57-11:58 (approx),n/a,Succeeded,n/a,n/a,All Silver/Gold row counts identical to run 1; overwrite mode confirmed idempotent

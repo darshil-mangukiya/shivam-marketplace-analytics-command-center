@@ -1,0 +1,88 @@
+# Data contract: data/public/product_performance.csv
+dataset: product_performance
+version: 1
+description: Product x marketplace aggregated public performance rows.
+grain: one row per (public_product_id, marketplace, brand_group, category_group, fulfillment_type, listing_price_band, inventory_band, margin_band_public, profitability_band_public)
+primary_key: [public_product_id, marketplace]
+privacy_classification: public
+public: true
+fields:
+  public_product_id:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  marketplace:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  brand_group:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  category_group:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  sales_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  units_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  margin_risk_score:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    max: 100
+    privacy: public
+  revenue_quality_score:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    max: 100
+    privacy: public
+  recommended_action:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+    allowed_values:
+      - "Margin Risk Review"
+      - "Refund Review"
+      - "Fee Review"
+      - "Restock Review"
+      - "Promotion Review"
+      - "Revenue Quality Review"
+      - "Pricing Review"
+      - "Slow Mover Review"
+      - "Monitor"
+  action_priority:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+    allowed_values: ["High", "Medium", "Low"]
+forbidden_fields:
+  - sku
+  - asin
+  - order_id
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  unknown_value: warn
+  forbidden_field_present: reject

@@ -1,0 +1,6 @@
+dataset_period,marketplace,channel,product_count,order_count_index,sales_index,units_index,avg_fee_pct_of_gross,avg_refund_pct_of_gross,avg_promotion_pct_of_gross,avg_net_to_gross_pct,avg_margin_risk_score,avg_revenue_quality_score,high_priority_action_count
+12m,Amazon,Marketplace,152,100.0,100.0,100.0,27.3,4.5,4.0,79.8,11.0,69.1,152
+12m,Flipkart,Marketplace,152,43.9,43.0,43.8,15.6,4.6,4.0,91.2,6.5,85.0,116
+12m,JioMart,Marketplace,152,22.4,21.6,22.4,11.6,4.3,4.0,95.3,5.1,88.9,116
+12m,Meesho,Marketplace,152,33.2,30.8,33.2,13.6,4.5,4.0,93.4,5.8,87.1,116
+12m,Website,Marketplace,152,22.4,21.9,22.5,5.5,4.3,4.0,103.2,3.2,93.0,116

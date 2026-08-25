@@ -1,0 +1,28 @@
+# Private data — ignore everything inside, keep only the placeholder READMEs
+data/private_raw/*
+!data/private_raw/README_PRIVATE.md
+data/private_mapping/*
+!data/private_mapping/README_PRIVATE.md
+
+# Raw / private source file patterns (defense in depth)
+*.xlsx
+*.xls
+raw_*.csv
+amazon_*.csv
+settlement_*.txt
+*transaction*.csv
+*listing*.csv
+*order*.csv
+*settlement*.csv
+
+# Environments & caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+
+# Misc
+*.zip
+.DS_Store

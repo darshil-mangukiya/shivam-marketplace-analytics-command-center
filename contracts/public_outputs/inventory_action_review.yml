@@ -1,0 +1,57 @@
+# Data contract: data/public/inventory_action_review.csv
+dataset: inventory_action_review
+version: 1
+description: Product-level inventory/restock recommendation review.
+grain: one row per (public_product_id, marketplace)
+primary_key: [public_product_id, marketplace]
+privacy_classification: public
+public: true
+fields:
+  public_product_id:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  marketplace:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  inventory_band:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  units_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  recommended_action:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  action_priority:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+    allowed_values: ["High", "Medium", "Low"]
+  action_reason:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+forbidden_fields:
+  - sku
+  - asin
+  - order_id
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  unknown_value: warn
+  forbidden_field_present: reject

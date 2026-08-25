@@ -1,0 +1,761 @@
+public_product_id,marketplace,brand_group,category_group,product_group,fee_pct_of_gross,refund_pct_of_gross,promotion_pct_of_gross,net_to_gross_pct,revenue_quality_score,revenue_quality_band,fee_review_flag,refund_review_flag,promotion_review_flag
+P0573,Amazon,Pantene,Hair Care,Shampoo,24.0,4.7,3.9,81.7,73.8,Healthy,Monitor,Monitor,Monitor
+P1109,Amazon,Vaseline,Body Care,Body Wash,23.8,3.2,3.8,82.9,75.4,Healthy,Monitor,Monitor,Monitor
+P0566,Amazon,Pantene,Hair Care,Shampoo,24.7,5.3,4.1,80.6,73.4,Healthy,Monitor,Monitor,Monitor
+P0546,Amazon,Ora2,Oral Care,Toothpaste,23.8,2.9,3.7,84.0,76.2,Healthy,Monitor,Monitor,Monitor
+P0230,Amazon,Counterpain,Health & Wellness,Pain Relief,24.1,5.4,4.0,80.7,73.8,Healthy,Monitor,Monitor,Monitor
+P0547,Amazon,Oral-B,Oral Care,Dental Floss,24.1,5.0,3.9,82.0,74.6,Healthy,Monitor,Monitor,Monitor
+P0488,Amazon,Listerine,Oral Care,Mouthwash,24.1,5.6,3.8,81.0,73.1,Healthy,Monitor,Monitor,Monitor
+P0906,Amazon,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,24.0,4.3,3.9,81.8,74.0,Healthy,Monitor,Monitor,Monitor
+P0602,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.7,5.9,3.8,81.5,73.9,Healthy,Monitor,Monitor,Monitor
+P0781,Amazon,Senka,Skin Care,Face Cleanser,24.1,3.8,4.1,82.6,74.7,Healthy,Monitor,Monitor,Monitor
+P0610,Amazon,Pantene,Hair Care,Hair Oil & Serum,24.0,5.2,3.8,81.8,73.6,Healthy,Monitor,Monitor,Monitor
+P0529,Amazon,NEXCARE,Skin Care,General Product,23.7,3.2,3.8,83.9,76.0,Healthy,Monitor,Monitor,Monitor
+P0795,Amazon,Senka,Skin Care,Face Cleanser,23.7,3.9,4.3,82.8,74.9,Healthy,Monitor,Monitor,Monitor
+P0581,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.8,3.7,3.5,82.7,75.1,Healthy,Monitor,Monitor,Monitor
+P0022,Amazon,Ambi Pur,Home & Kitchen,Air Freshener,23.8,3.6,4.3,82.5,74.7,Healthy,Monitor,Monitor,Monitor
+P0797,Amazon,Sensodyne,Oral Care,Toothpaste,24.1,5.3,4.3,81.1,73.7,Healthy,Monitor,Monitor,Monitor
+P0565,Amazon,Pair,Skin Care,General Product,24.6,5.5,4.1,81.1,72.6,Healthy,Monitor,Monitor,Monitor
+P0780,Amazon,Senka,Skin Care,Face Cleanser,23.6,4.0,3.7,83.4,75.1,Healthy,Monitor,Monitor,Monitor
+P0543,Amazon,Ora2,Oral Care,Toothpaste,23.8,5.0,3.6,82.1,74.1,Healthy,Monitor,Monitor,Monitor
+P1162,Amazon,Vita Keratin,Hair Care,General Product,24.3,4.5,3.8,82.2,74.0,Healthy,Monitor,Monitor,Monitor
+P0605,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.7,3.5,4.0,83.9,75.7,Healthy,Monitor,Monitor,Monitor
+P0586,Amazon,Pantene,Hair Care,General Product,23.7,3.6,4.1,82.8,74.6,Healthy,Monitor,Monitor,Monitor
+P1131,Amazon,Vaseline,Skin Care,Sunscreen,23.5,3.0,4.0,83.5,75.6,Healthy,Monitor,Monitor,Monitor
+P1080,Amazon,Tresemme,Hair Care,Hair Conditioner & Treatment,23.8,3.7,3.8,83.0,75.3,Healthy,Monitor,Monitor,Monitor
+P1069,Amazon,Tiger Balm,Health & Wellness,Pain Relief,24.8,4.7,3.9,81.6,73.4,Healthy,Monitor,Monitor,Monitor
+P0342,Amazon,Fino,Hair Care,Hair Conditioner & Treatment,23.9,5.5,3.7,81.9,74.9,Healthy,Monitor,Monitor,Monitor
+P0617,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.9,6.4,4.0,80.9,73.4,Healthy,Monitor,Monitor,Monitor
+P1042,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,24.2,5.8,4.2,80.1,72.7,Healthy,Monitor,Monitor,Monitor
+P0168,Amazon,Colgate,Oral Care,Toothpaste,23.6,3.2,4.2,82.1,74.8,Healthy,Monitor,Monitor,Monitor
+P1121,Amazon,Vaseline,Body Care,Body Wash,23.8,4.8,4.0,81.2,73.9,Healthy,Monitor,Monitor,Monitor
+P0042,Amazon,Axe,Body Care,Deodorant & Body Spray,24.0,3.6,3.7,82.7,74.7,Healthy,Monitor,Monitor,Monitor
+P0783,Amazon,Senka,Skin Care,Face Cleanser,23.9,3.5,3.9,83.0,75.0,Healthy,Monitor,Monitor,Monitor
+P1067,Amazon,Tiger Balm,Health & Wellness,Pain Relief,24.8,2.5,4.1,82.3,74.5,Healthy,Monitor,Monitor,Monitor
+P0172,Amazon,Colgate,Oral Care,Toothpaste,24.2,6.3,4.4,79.8,72.4,Healthy,Monitor,Monitor,Monitor
+P0604,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,24.6,4.1,4.0,82.1,74.4,Healthy,Monitor,Monitor,Monitor
+P0562,Amazon,Oral-B,Oral Care,Toothpaste,23.7,3.8,4.1,82.9,74.6,Healthy,Monitor,Monitor,Monitor
+P1048,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,23.7,3.6,4.0,82.7,74.8,Healthy,Monitor,Monitor,Monitor
+P0777,Amazon,Senka,Skin Care,Face Cleanser,23.9,3.6,4.0,82.3,74.9,Healthy,Monitor,Monitor,Monitor
+P0263,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,24.2,5.7,4.0,80.7,73.4,Healthy,Monitor,Monitor,Monitor
+P1156,Amazon,Vaseline,Body Care,Body Lotion,24.0,4.6,3.6,82.5,74.6,Healthy,Monitor,Monitor,Monitor
+P0590,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.8,3.5,3.8,83.5,75.2,Healthy,Monitor,Monitor,Monitor
+P0553,Amazon,Oral-B,Oral Care,Toothpaste,24.0,3.2,3.9,83.6,75.6,Healthy,Monitor,Monitor,Monitor
+P0252,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,23.8,5.6,4.2,81.1,73.2,Healthy,Monitor,Monitor,Monitor
+P1075,Amazon,Tresemme,Hair Care,Shampoo,23.8,5.1,4.2,81.2,73.6,Healthy,Monitor,Monitor,Monitor
+P0922,Amazon,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,24.3,5.6,3.8,80.9,73.1,Healthy,Monitor,Monitor,Monitor
+P0279,Amazon,Dove,Body Care,General Product,23.9,4.1,4.1,82.2,74.2,Healthy,Monitor,Monitor,Monitor
+P1105,Amazon,Vaseline,Body Care,Body Wash,23.8,5.0,4.4,81.6,74.2,Healthy,Monitor,Monitor,Monitor
+P0041,Amazon,Axe,Body Care,Deodorant & Body Spray,24.1,4.0,4.2,82.0,74.5,Healthy,Monitor,Monitor,Monitor
+P0029,Amazon,Axe,Body Care,Deodorant & Body Spray,23.6,4.9,4.1,81.7,74.1,Healthy,Monitor,Monitor,Monitor
+P1146,Amazon,Vaseline,Body Care,General Product,23.8,3.0,3.8,84.4,75.9,Healthy,Monitor,Monitor,Monitor
+P0554,Amazon,Oral-B,Oral Care,Dental Floss,23.8,3.0,4.0,83.5,75.2,Healthy,Monitor,Monitor,Monitor
+P0594,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.9,5.5,4.2,80.6,72.6,Healthy,Monitor,Monitor,Monitor
+P1044,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,24.2,3.8,3.8,82.7,75.0,Healthy,Monitor,Monitor,Monitor
+P0813,Amazon,Sensodyne,Oral Care,Toothpaste,23.9,4.6,3.9,82.3,73.8,Healthy,Monitor,Monitor,Monitor
+P0753,Amazon,Rexona,Body Care,Deodorant & Body Spray,25.7,4.7,3.8,81.1,72.8,Healthy,Review,Monitor,Monitor
+P0260,Amazon,Dove,Hair Care,Hair Conditioner & Treatment,23.8,2.6,3.8,84.5,76.5,Healthy,Monitor,Monitor,Monitor
+P0609,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,23.6,4.4,4.0,82.9,75.3,Healthy,Monitor,Monitor,Monitor
+P1043,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,24.5,5.8,3.6,80.9,73.3,Healthy,Monitor,Monitor,Monitor
+P1157,Amazon,Vaseline,Skin Care,Face Cleanser,24.3,3.9,3.9,81.8,73.8,Healthy,Monitor,Monitor,Monitor
+P0548,Amazon,Oral-B,Oral Care,Toothpaste,24.1,4.2,4.0,82.0,74.2,Healthy,Monitor,Monitor,Monitor
+P0235,Amazon,Counterpain,Health & Wellness,Pain Relief,24.7,3.1,3.8,82.7,75.1,Healthy,Monitor,Monitor,Monitor
+P0534,Amazon,Nexcare,Skin Care,General Product,25.7,4.5,4.1,81.1,73.1,Healthy,Review,Monitor,Monitor
+P1085,Amazon,Tresemme,Hair Care,Hair Conditioner & Treatment,24.0,3.2,4.2,82.9,75.3,Healthy,Monitor,Monitor,Monitor
+P1237,Amazon,Watsons,Oral Care,Interdental Brush,25.0,5.5,3.7,81.3,73.6,Healthy,Review,Monitor,Monitor
+P0343,Amazon,Fino,Hair Care,Hair Oil & Serum,24.2,4.8,4.1,82.1,74.6,Healthy,Monitor,Monitor,Monitor
+P0175,Amazon,Colgate,Oral Care,Toothpaste,25.7,3.7,3.9,81.7,72.7,Healthy,Review,Monitor,Monitor
+P1120,Amazon,Vaseline,Skin Care,Body Scrub,26.0,2.8,4.0,82.3,74.0,Healthy,Review,Monitor,Monitor
+P0156,Amazon,Colgate,Oral Care,Toothpaste,25.0,5.0,4.3,80.4,72.6,Healthy,Review,Monitor,Monitor
+P0082,Amazon,Biore,Skin Care,Sunscreen,26.6,5.7,4.2,78.9,70.9,Healthy,Review,Monitor,Monitor
+P0437,Amazon,L'Oreal Paris,Skin Care,Face Cleanser,26.0,4.5,4.1,80.5,71.9,Healthy,Review,Monitor,Monitor
+P0246,Amazon,Dove,Body Care,Deodorant & Body Spray,26.7,5.6,4.4,79.0,70.8,Healthy,Review,Monitor,Monitor
+P0747,Amazon,Rexona,Body Care,Deodorant & Body Spray,25.8,3.5,4.0,81.7,74.0,Healthy,Review,Monitor,Monitor
+P0264,Amazon,Dove,Body Care,Deodorant & Body Spray,26.3,5.0,4.3,79.5,70.9,Healthy,Review,Monitor,Monitor
+P0218,Amazon,Colgate,Oral Care,Toothpaste,25.5,5.3,4.3,80.4,72.2,Healthy,Review,Monitor,Monitor
+P0563,Amazon,Oral-B,Oral Care,Toothpaste,25.8,5.0,4.4,79.5,71.8,Healthy,Review,Monitor,Monitor
+P1150,Amazon,Vaseline,Body Care,Deodorant & Body Spray,27.3,2.6,3.8,81.4,72.6,Healthy,Review,Monitor,Monitor
+P0034,Amazon,Axe,Body Care,Deodorant & Body Spray,27.6,5.3,4.2,77.6,69.7,Healthy,Review,Monitor,Monitor
+P0744,Amazon,Rexona,Body Care,Deodorant & Body Spray,26.0,5.3,4.1,79.8,72.0,Healthy,Review,Monitor,Monitor
+P0528,Amazon,NEXCARE,Skin Care,General Product,26.8,4.3,3.9,81.1,72.4,Healthy,Review,Monitor,Monitor
+P1176,Amazon,Wangprom,Health & Wellness,General Product,28.4,4.6,4.3,79.0,70.3,Healthy,Review,Monitor,Monitor
+P1107,Amazon,Vaseline,Body Care,General Product,27.5,6.3,4.0,78.6,70.4,Healthy,Review,Monitor,Monitor
+P0039,Amazon,Axe,Body Care,Deodorant & Body Spray,28.4,6.9,4.2,77.2,68.7,Healthy,Review,Monitor,Monitor
+P0178,Amazon,Colgate,Oral Care,Toothpaste,27.9,4.0,3.9,79.7,70.6,Healthy,Review,Monitor,Monitor
+P1114,Amazon,Vaseline,Body Care,Deodorant & Body Spray,27.6,4.5,4.1,79.7,71.4,Healthy,Review,Monitor,Monitor
+P0931,Amazon,SHIVAMAX,Electronics & Travel Accessories,General Product,30.0,4.9,4.0,77.4,68.7,Healthy,Review,Monitor,Monitor
+P1196,Amazon,Watsons,Oral Care,Floss Picks,31.5,4.5,3.9,76.5,67.0,Healthy,Review,Monitor,Monitor
+P1190,Amazon,Watsons,Oral Care,Dental Floss,32.2,3.6,4.2,76.4,67.1,Healthy,Review,Monitor,Monitor
+P0212,Amazon,Colgate,Oral Care,Toothpaste,31.5,5.0,3.7,76.9,67.6,Healthy,Review,Monitor,Monitor
+P0263,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,15.2,3.4,4.0,92.3,86.4,Strong,Monitor,Monitor,Monitor
+P0270,Amazon,Dove,Hair Care,Hair Oil & Serum,32.0,2.6,4.1,77.9,67.9,Healthy,Review,Monitor,Monitor
+P0170,Amazon,Colgate,Oral Care,Toothpaste,32.3,4.8,4.0,76.4,67.3,Healthy,Review,Monitor,Monitor
+P0890,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,32.5,5.7,3.6,74.5,65.2,Healthy,Review,Monitor,Monitor
+P0763,Amazon,Sasi,Lip,Lip Care,32.3,3.6,4.1,77.5,67.7,Healthy,Review,Monitor,Monitor
+P1099,Amazon,Tros,Body Care,Deodorant & Body Spray,33.3,4.0,4.0,75.4,65.6,Healthy,Review,Monitor,Monitor
+P0261,Amazon,Dove,Hair Care,General Product,33.0,5.9,3.9,74.8,66.0,Healthy,Review,Monitor,Monitor
+P0840,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,32.4,3.9,4.3,76.7,66.7,Healthy,Review,Monitor,Monitor
+P0758,Amazon,Sasi,Lip,Sunscreen,32.0,3.2,4.3,76.9,66.5,Healthy,Review,Monitor,Monitor
+P1185,Amazon,Watsons,Oral Care,Floss Picks,32.0,6.7,4.0,74.0,64.6,Watch,Review,Monitor,Monitor
+P0581,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.1,4.3,4.0,90.2,84.3,Strong,Monitor,Monitor,Monitor
+P0598,Amazon,Pantene,Hair Care,General Product,32.6,4.2,3.8,76.5,66.5,Healthy,Review,Monitor,Monitor
+P1254,Amazon,Watsons,Oral Care,Dental Floss,32.4,3.2,4.0,76.7,66.6,Healthy,Review,Monitor,Monitor
+P1112,Amazon,Vaseline,Body Care,Deodorant & Body Spray,31.9,3.0,3.9,78.1,68.3,Healthy,Review,Monitor,Monitor
+P0024,Amazon,AR,Skin Care,General Product,33.6,6.5,4.2,73.1,63.4,Watch,Review,Monitor,Monitor
+P0531,Amazon,NEXCARE,Skin Care,General Product,32.4,2.9,3.9,77.9,67.8,Healthy,Review,Monitor,Monitor
+P1033,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,32.3,4.7,4.1,75.7,65.7,Healthy,Review,Monitor,Monitor
+P1039,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,33.5,4.4,4.1,75.7,65.4,Healthy,Review,Monitor,Monitor
+P0944,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,32.7,5.2,3.8,75.8,65.2,Healthy,Review,Monitor,Monitor
+P0476,Amazon,Listerine,Oral Care,Mouthwash,30.8,4.2,3.8,78.6,68.9,Healthy,Review,Monitor,Monitor
+P0595,Amazon,Pantene,Hair Care,Hair Conditioner & Treatment,32.2,4.6,4.2,76.2,67.1,Healthy,Review,Monitor,Monitor
+P0278,Amazon,Dove,Hair Care,Shampoo,33.3,8.1,4.5,72.1,63.5,Watch,Review,Monitor,Monitor
+P0780,Flipkart,Senka,Skin Care,Face Cleanser,15.1,4.3,4.4,91.0,84.4,Strong,Monitor,Monitor,Monitor
+P0553,Flipkart,Oral-B,Oral Care,Toothpaste,15.4,6.2,3.8,89.4,83.7,Strong,Monitor,Monitor,Monitor
+P0705,Amazon,Protex,Body Care,General Product,34.3,4.9,3.4,75.1,64.9,Watch,Review,Monitor,Monitor
+P0262,Amazon,Dove,Hair Care,Hair Oil & Serum,32.3,4.9,4.2,76.5,66.8,Healthy,Review,Monitor,Monitor
+P1100,Amazon,Tros,Body Care,Deodorant & Body Spray,32.7,4.9,4.1,76.1,65.5,Healthy,Review,Monitor,Monitor
+P1044,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,15.2,2.7,4.3,91.0,85.2,Strong,Monitor,Monitor,Monitor
+P0554,Flipkart,Oral-B,Oral Care,Dental Floss,15.3,4.9,3.8,90.9,84.4,Strong,Monitor,Monitor,Monitor
+P0225,Amazon,Colgate,Oral Care,Toothpaste,33.8,4.7,4.0,75.2,65.1,Healthy,Review,Monitor,Monitor
+P0555,Amazon,Oral-B,Oral Care,Dental Floss,32.6,4.4,3.9,76.2,66.4,Healthy,Review,Monitor,Monitor
+P0253,Amazon,Dove,Hair Care,General Product,32.7,6.2,3.9,74.6,65.0,Healthy,Review,Monitor,Monitor
+P1121,Flipkart,Vaseline,Body Care,Body Wash,15.5,6.0,3.8,89.3,84.3,Strong,Monitor,Monitor,Monitor
+P0168,Flipkart,Colgate,Oral Care,Toothpaste,15.2,4.7,4.1,90.6,85.5,Strong,Monitor,Monitor,Monitor
+P0546,Flipkart,Ora2,Oral Care,Toothpaste,15.2,2.9,4.8,91.4,85.0,Strong,Monitor,Monitor,Monitor
+P0557,Amazon,Oral-B,Oral Care,Dental Floss,32.8,3.8,4.3,77.1,67.7,Healthy,Review,Monitor,Monitor
+P0529,Flipkart,NEXCARE,Skin Care,General Product,15.2,3.5,4.1,91.4,85.5,Strong,Monitor,Monitor,Monitor
+P1105,Flipkart,Vaseline,Body Care,Body Wash,15.0,4.9,4.1,89.3,83.9,Strong,Monitor,Monitor,Monitor
+P0308,Amazon,Dove,Hair Care,General Product,32.3,4.7,3.9,76.3,66.9,Healthy,Review,Monitor,Monitor
+P0573,Flipkart,Pantene,Hair Care,Shampoo,15.1,3.8,3.4,91.9,86.4,Strong,Monitor,Monitor,Monitor
+P0257,Amazon,Dove,Hair Care,General Product,33.5,3.4,3.8,76.9,66.1,Healthy,Review,Monitor,Monitor
+P0781,Flipkart,Senka,Skin Care,Face Cleanser,14.8,4.7,4.3,90.2,84.7,Strong,Monitor,Monitor,Monitor
+P0271,Amazon,Dove,Hair Care,General Product,32.2,5.1,3.9,76.5,66.6,Healthy,Review,Monitor,Monitor
+P1080,Flipkart,Tresemme,Hair Care,Hair Conditioner & Treatment,15.2,5.0,3.8,90.6,84.4,Strong,Monitor,Monitor,Monitor
+P0259,Amazon,Dove,Hair Care,General Product,33.6,4.5,4.0,75.9,65.4,Healthy,Review,Monitor,Monitor
+P0042,Flipkart,Axe,Body Care,Deodorant & Body Spray,15.1,3.8,4.4,90.3,84.7,Strong,Monitor,Monitor,Monitor
+P0029,Flipkart,Axe,Body Care,Deodorant & Body Spray,15.1,3.4,3.3,92.8,85.8,Strong,Monitor,Monitor,Monitor
+P0797,Flipkart,Sensodyne,Oral Care,Toothpaste,15.7,9.0,4.0,86.1,80.5,Strong,Monitor,Monitor,Monitor
+P0548,Flipkart,Oral-B,Oral Care,Toothpaste,15.0,3.0,4.4,92.1,87.1,Strong,Monitor,Monitor,Monitor
+P1003,Amazon,Snake Brand,Body Care,General Product,34.5,3.7,4.1,75.3,64.9,Watch,Review,Monitor,Monitor
+P0770,Amazon,Sasi,Skin Care,General Product,34.2,3.3,3.9,75.9,64.8,Watch,Review,Monitor,Monitor
+P0813,Flipkart,Sensodyne,Oral Care,Toothpaste,15.3,6.2,3.7,89.8,84.5,Strong,Monitor,Monitor,Monitor
+P0922,Flipkart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,15.2,4.4,3.8,90.2,84.1,Strong,Monitor,Monitor,Monitor
+P0690,Amazon,Protex,Body Care,General Product,36.4,5.6,4.2,72.6,61.5,Watch,Review,Monitor,Monitor
+P0260,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,15.6,6.6,4.1,87.7,81.7,Strong,Monitor,Monitor,Monitor
+P0590,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.6,9.0,4.1,85.9,81.5,Strong,Monitor,Monitor,Monitor
+P0279,Flipkart,Dove,Body Care,General Product,15.4,5.8,4.4,87.5,81.0,Strong,Monitor,Monitor,Monitor
+P0610,Flipkart,Pantene,Hair Care,Hair Oil & Serum,15.4,8.9,3.7,86.8,81.6,Strong,Monitor,Monitor,Monitor
+P0562,Flipkart,Oral-B,Oral Care,Toothpaste,15.2,2.6,3.8,92.3,86.3,Strong,Monitor,Monitor,Monitor
+P1248,Amazon,Watsons,Skin Care,Lip Care,32.5,4.4,3.8,76.5,67.1,Healthy,Review,Monitor,Monitor
+P0586,Flipkart,Pantene,Hair Care,General Product,15.2,6.9,3.8,88.7,83.3,Strong,Monitor,Monitor,Monitor
+P0868,Amazon,SHIVAMAX,Home & Kitchen,General Product,35.7,6.1,4.2,72.7,61.6,Watch,Review,Monitor,Monitor
+P0252,Flipkart,Dove,Hair Care,Hair Conditioner & Treatment,15.0,3.5,4.2,91.3,85.1,Strong,Monitor,Monitor,Monitor
+P0609,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.0,4.3,4.5,91.6,84.8,Strong,Monitor,Monitor,Monitor
+P1035,Amazon,Sunsilk,Hair Care,Shampoo,36.7,3.6,4.0,74.5,63.4,Watch,Review,Monitor,Monitor
+P1032,Amazon,Sunsilk,Hair Care,Shampoo,37.2,4.2,3.9,73.6,61.7,Watch,Review,Monitor,Monitor
+P1043,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,15.1,3.6,4.2,92.0,85.3,Strong,Monitor,Monitor,Monitor
+P1048,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,15.2,2.6,3.5,93.1,88.1,Strong,Monitor,Monitor,Monitor
+P0906,Flipkart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,15.2,4.5,3.8,91.2,85.4,Strong,Monitor,Monitor,Monitor
+P0543,Flipkart,Ora2,Oral Care,Toothpaste,15.2,3.6,3.8,92.0,86.9,Strong,Monitor,Monitor,Monitor
+P0172,Flipkart,Colgate,Oral Care,Toothpaste,15.2,5.0,4.2,89.5,83.3,Strong,Monitor,Monitor,Monitor
+P0233,Amazon,Counterpain,Health & Wellness,Pain Relief,33.6,4.3,3.7,75.8,66.1,Healthy,Review,Monitor,Monitor
+P0342,Flipkart,Fino,Hair Care,Hair Conditioner & Treatment,15.1,4.0,4.9,89.8,83.6,Strong,Monitor,Monitor,Monitor
+P0566,Flipkart,Pantene,Hair Care,Shampoo,15.5,6.9,3.7,89.4,84.3,Strong,Monitor,Monitor,Monitor
+P0230,Flipkart,Counterpain,Health & Wellness,Pain Relief,15.2,4.5,3.8,90.8,85.7,Strong,Monitor,Monitor,Monitor
+P0022,Flipkart,Ambi Pur,Home & Kitchen,Air Freshener,15.0,5.1,3.5,90.9,84.2,Strong,Monitor,Monitor,Monitor
+P1164,Amazon,Wangprom,Health & Wellness,Herbal Inhaler,36.4,4.0,4.0,74.0,63.7,Watch,Review,Monitor,Monitor
+P0604,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.2,4.9,4.1,89.8,83.1,Strong,Monitor,Monitor,Monitor
+P0594,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.1,2.3,4.2,93.2,87.3,Strong,Monitor,Monitor,Monitor
+P0720,Amazon,Protex,Body Care,General Product,36.5,3.9,4.0,74.6,63.2,Watch,Review,Monitor,Monitor
+P0706,Amazon,Protex,Body Care,General Product,34.0,3.4,3.9,76.4,66.4,Healthy,Review,Monitor,Monitor
+P1075,Flipkart,Tresemme,Hair Care,Shampoo,14.9,2.6,4.6,91.9,86.7,Strong,Monitor,Monitor,Monitor
+P1041,Amazon,Sunsilk,Hair Care,Shampoo,36.3,5.1,4.3,73.0,62.2,Watch,Review,Monitor,Monitor
+P1146,Flipkart,Vaseline,Body Care,General Product,15.0,2.3,4.2,93.5,87.1,Strong,Monitor,Monitor,Monitor
+P0475,Amazon,Listerine,Oral Care,Mouthwash,36.3,3.1,3.7,74.7,63.4,Watch,Review,Monitor,Monitor
+P0795,Flipkart,Senka,Skin Care,Face Cleanser,15.1,3.8,3.8,91.8,86.1,Strong,Monitor,Monitor,Monitor
+P0783,Flipkart,Senka,Skin Care,Face Cleanser,15.0,2.2,4.3,93.1,87.6,Strong,Monitor,Monitor,Monitor
+P0602,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.1,2.9,3.8,92.4,86.8,Strong,Monitor,Monitor,Monitor
+P1157,Flipkart,Vaseline,Skin Care,Face Cleanser,15.5,7.2,3.7,88.0,82.1,Strong,Monitor,Monitor,Monitor
+P1156,Flipkart,Vaseline,Body Care,Body Lotion,15.1,2.5,4.4,91.4,85.7,Strong,Monitor,Monitor,Monitor
+P1131,Flipkart,Vaseline,Skin Care,Sunscreen,15.4,6.1,4.5,89.0,82.7,Strong,Monitor,Monitor,Monitor
+P1237,Flipkart,Watsons,Oral Care,Interdental Brush,15.1,1.8,3.9,93.9,88.3,Strong,Monitor,Monitor,Monitor
+P0777,Flipkart,Senka,Skin Care,Face Cleanser,15.2,2.8,3.7,92.0,86.1,Strong,Monitor,Monitor,Monitor
+P1067,Flipkart,Tiger Balm,Health & Wellness,Pain Relief,14.9,1.2,4.2,93.3,87.7,Strong,Monitor,Monitor,Monitor
+P1042,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,14.9,1.4,3.9,94.9,88.4,Strong,Monitor,Monitor,Monitor
+P0617,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.3,6.3,4.3,89.5,83.1,Strong,Monitor,Monitor,Monitor
+P0565,Flipkart,Pair,Skin Care,General Product,15.6,6.7,4.0,87.9,82.9,Strong,Monitor,Monitor,Monitor
+P0041,Flipkart,Axe,Body Care,Deodorant & Body Spray,15.2,4.2,4.5,89.6,83.9,Strong,Monitor,Monitor,Monitor
+P1029,Amazon,Sunsilk,Hair Care,Shampoo,36.5,5.2,3.7,72.5,62.5,Watch,Review,Monitor,Monitor
+P0547,Flipkart,Oral-B,Oral Care,Dental Floss,15.2,4.5,4.1,91.6,85.4,Strong,Monitor,Monitor,Monitor
+P1085,Flipkart,Tresemme,Hair Care,Hair Conditioner & Treatment,15.0,3.2,4.0,92.8,86.3,Strong,Monitor,Monitor,Monitor
+P1249,Amazon,Watsons,Oral Care,Floss Picks,39.1,4.3,3.6,72.1,60.6,Watch,Review,Monitor,Monitor
+P0488,Flipkart,Listerine,Oral Care,Mouthwash,15.2,5.0,3.5,91.2,85.3,Strong,Monitor,Monitor,Monitor
+P1052,Amazon,Sunsilk,Hair Care,Shampoo,37.0,4.4,3.9,72.6,61.4,Watch,Review,Monitor,Monitor
+P1200,Amazon,Watsons,Oral Care,Dental Floss,40.4,5.9,4.2,68.9,58.0,Watch,Review,Monitor,Monitor
+P1109,Flipkart,Vaseline,Body Care,Body Wash,15.4,4.8,4.5,90.0,84.2,Strong,Monitor,Monitor,Monitor
+P0235,Flipkart,Counterpain,Health & Wellness,Pain Relief,15.5,5.6,3.7,91.8,84.6,Strong,Monitor,Monitor,Monitor
+P0427,Amazon,Kaowmanee,Skin Care,General Product,38.8,6.3,4.1,70.8,60.0,Watch,Review,Monitor,Monitor
+P0679,Amazon,Poy Sian,Health & Wellness,Herbal Inhaler,36.2,2.6,3.6,75.7,64.5,Watch,Review,Monitor,Monitor
+P1162,Flipkart,Vita Keratin,Hair Care,General Product,15.6,7.2,4.0,88.0,83.4,Strong,Monitor,Monitor,Monitor
+P1072,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,39.7,5.0,4.3,70.6,59.3,Watch,Review,Monitor,Monitor
+P1038,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,36.7,4.7,4.4,72.0,60.9,Watch,Review,Monitor,Monitor
+P0264,Flipkart,Dove,Body Care,Deodorant & Body Spray,15.5,5.2,3.8,89.9,83.8,Strong,Monitor,Monitor,Monitor
+P0605,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.4,6.7,3.8,88.4,84.0,Strong,Monitor,Monitor,Monitor
+P0604,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,12.9,1.7,4.1,95.3,90.2,Strong,Monitor,Monitor,Monitor
+P0534,Flipkart,Nexcare,Skin Care,General Product,15.6,5.6,4.1,88.9,82.9,Strong,Monitor,Monitor,Monitor
+P0218,Flipkart,Colgate,Oral Care,Toothpaste,15.4,4.9,4.1,90.6,85.0,Strong,Monitor,Monitor,Monitor
+P0553,Meesho,Oral-B,Oral Care,Toothpaste,13.2,4.3,4.2,92.7,87.0,Strong,Monitor,Monitor,Monitor
+P1070,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,39.9,6.2,4.2,69.4,58.4,Watch,Review,Monitor,Monitor
+P1218,Amazon,Watsons,Oral Care,Floss Picks,39.2,4.9,3.7,71.4,60.1,Watch,Review,Monitor,Monitor
+P1042,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,13.3,5.2,3.9,92.6,85.0,Strong,Monitor,Monitor,Monitor
+P1026,Amazon,Sunsilk,Hair Care,Hair Conditioner & Treatment,37.0,3.7,3.9,73.6,61.8,Watch,Review,Monitor,Monitor
+P0175,Flipkart,Colgate,Oral Care,Toothpaste,15.4,3.2,3.7,91.9,85.3,Strong,Monitor,Monitor,Monitor
+P0343,Flipkart,Fino,Hair Care,Hair Oil & Serum,15.5,3.4,3.7,92.1,85.3,Strong,Monitor,Monitor,Monitor
+P0744,Flipkart,Rexona,Body Care,Deodorant & Body Spray,15.5,5.2,4.1,89.9,83.1,Strong,Monitor,Monitor,Monitor
+P0172,Meesho,Colgate,Oral Care,Toothpaste,13.2,3.7,4.5,92.6,86.9,Strong,Monitor,Monitor,Monitor
+P0780,Meesho,Senka,Skin Care,Face Cleanser,13.1,4.7,4.1,92.2,86.4,Strong,Monitor,Monitor,Monitor
+P1071,Amazon,Tiger Balm,Health & Wellness,Herbal Inhaler,40.4,6.2,3.8,69.8,58.4,Watch,Review,Monitor,Monitor
+P1251,Amazon,Watsons,Oral Care,Floss Picks,39.2,3.8,4.1,70.6,58.9,Watch,Review,Monitor,Monitor
+P1069,Flipkart,Tiger Balm,Health & Wellness,Pain Relief,15.7,9.6,4.2,85.2,80.3,Strong,Monitor,Monitor,Monitor
+P0602,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,13.1,2.1,3.9,95.4,90.1,Strong,Monitor,Monitor,Monitor
+P0156,Flipkart,Colgate,Oral Care,Toothpaste,15.9,5.3,3.8,89.7,84.5,Strong,Monitor,Monitor,Monitor
+P1214,Amazon,Watsons,Oral Care,Floss Picks,39.4,3.3,4.3,72.5,60.9,Watch,Review,Monitor,Monitor
+P0563,Flipkart,Oral-B,Oral Care,Toothpaste,15.4,4.2,3.8,92.6,86.0,Strong,Monitor,Monitor,Monitor
+P1120,Flipkart,Vaseline,Skin Care,Body Scrub,15.7,8.3,3.9,87.9,82.1,Strong,Monitor,Monitor,Monitor
+P0437,Flipkart,L'Oreal Paris,Skin Care,Face Cleanser,15.3,3.8,4.4,90.8,85.0,Strong,Monitor,Monitor,Monitor
+P0747,Flipkart,Rexona,Body Care,Deodorant & Body Spray,15.3,3.3,3.8,92.5,86.6,Strong,Monitor,Monitor,Monitor
+P0342,Meesho,Fino,Hair Care,Hair Conditioner & Treatment,13.6,8.1,3.5,91.3,83.6,Strong,Monitor,Monitor,Monitor
+P0022,Meesho,Ambi Pur,Home & Kitchen,Air Freshener,13.2,6.2,4.0,92.5,85.9,Strong,Monitor,Monitor,Monitor
+P0279,Meesho,Dove,Body Care,General Product,13.4,2.6,3.9,94.6,88.8,Strong,Monitor,Monitor,Monitor
+P0590,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,13.2,4.4,4.0,93.2,86.3,Strong,Monitor,Monitor,Monitor
+P0252,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,13.4,5.6,3.7,91.5,85.1,Strong,Monitor,Monitor,Monitor
+P1114,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,15.7,2.3,4.2,94.3,87.8,Strong,Monitor,Monitor,Monitor
+P0753,Flipkart,Rexona,Body Care,Deodorant & Body Spray,15.9,8.2,4.5,85.4,80.4,Strong,Monitor,Monitor,Monitor
+P0783,Meesho,Senka,Skin Care,Face Cleanser,13.6,5.2,3.9,92.6,87.4,Strong,Monitor,Monitor,Monitor
+P0566,Meesho,Pantene,Hair Care,Shampoo,13.2,5.3,4.0,92.8,85.7,Strong,Monitor,Monitor,Monitor
+P0594,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,12.9,1.9,4.1,94.9,89.5,Strong,Monitor,Monitor,Monitor
+P0581,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,12.9,2.3,4.3,94.7,88.2,Strong,Monitor,Monitor,Monitor
+P0813,Meesho,Sensodyne,Oral Care,Toothpaste,13.3,8.1,4.0,89.2,83.9,Strong,Monitor,Monitor,Monitor
+P0529,Meesho,NEXCARE,Skin Care,General Product,13.0,2.4,4.4,93.7,89.1,Strong,Monitor,Monitor,Monitor
+P0777,Meesho,Senka,Skin Care,Face Cleanser,13.1,3.8,4.6,92.9,87.0,Strong,Monitor,Monitor,Monitor
+P0554,Meesho,Oral-B,Oral Care,Dental Floss,13.5,6.2,3.6,91.4,85.5,Strong,Monitor,Monitor,Monitor
+P1150,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,15.4,1.2,4.5,95.0,88.6,Strong,Monitor,Monitor,Monitor
+P0617,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,13.3,6.4,3.9,91.2,85.5,Strong,Monitor,Monitor,Monitor
+P0230,Meesho,Counterpain,Health & Wellness,Pain Relief,13.3,4.8,4.2,91.1,86.2,Strong,Monitor,Monitor,Monitor
+P0034,Flipkart,Axe,Body Care,Deodorant & Body Spray,15.8,4.1,4.0,91.6,85.6,Strong,Monitor,Monitor,Monitor
+P1107,Flipkart,Vaseline,Body Care,General Product,15.4,4.1,3.9,91.5,85.4,Strong,Monitor,Monitor,Monitor
+P0889,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,44.1,5.6,4.1,67.1,55.2,Watch,Review,Monitor,Monitor
+P0039,Flipkart,Axe,Body Care,Deodorant & Body Spray,15.5,3.9,4.0,92.2,85.9,Strong,Monitor,Monitor,Monitor
+P1043,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,13.2,4.8,4.1,92.8,86.3,Strong,Monitor,Monitor,Monitor
+P0041,Meesho,Axe,Body Care,Deodorant & Body Spray,13.6,9.5,4.1,88.4,82.7,Strong,Monitor,Monitor,Monitor
+P1080,Meesho,Tresemme,Hair Care,Hair Conditioner & Treatment,12.8,2.3,3.6,95.1,90.1,Strong,Monitor,Monitor,Monitor
+P0082,Flipkart,Biore,Skin Care,Sunscreen,15.6,4.4,4.7,90.8,84.4,Strong,Monitor,Monitor,Monitor
+P0781,Meesho,Senka,Skin Care,Face Cleanser,13.4,3.0,3.8,93.7,88.0,Strong,Monitor,Monitor,Monitor
+P0917,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,44.8,5.5,4.0,67.1,54.4,Watch,Review,Monitor,Monitor
+P0932,Amazon,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,43.5,2.8,4.0,69.5,56.4,Watch,Review,Monitor,Monitor
+P0922,Meesho,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,13.4,4.2,4.4,91.1,85.9,Strong,Monitor,Monitor,Monitor
+P1085,Meesho,Tresemme,Hair Care,Hair Conditioner & Treatment,13.3,0.9,4.2,96.0,90.3,Strong,Monitor,Monitor,Monitor
+P0610,Meesho,Pantene,Hair Care,Hair Oil & Serum,13.2,5.3,4.2,91.7,86.5,Strong,Monitor,Monitor,Monitor
+P0915,Amazon,SHIVAMAX,Health & Wellness,Herbal Inhaler,43.9,5.5,3.6,68.2,55.1,Watch,Review,Monitor,Monitor
+P0548,Meesho,Oral-B,Oral Care,Toothpaste,12.7,1.8,4.5,95.4,89.3,Strong,Monitor,Monitor,Monitor
+P0906,Meesho,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,13.3,5.6,3.5,91.1,84.9,Strong,Monitor,Monitor,Monitor
+P0246,Flipkart,Dove,Body Care,Deodorant & Body Spray,15.2,1.4,3.9,95.1,89.0,Strong,Monitor,Monitor,Monitor
+P0168,Meesho,Colgate,Oral Care,Toothpaste,13.5,3.3,3.7,92.3,86.3,Strong,Monitor,Monitor,Monitor
+P0528,Flipkart,NEXCARE,Skin Care,General Product,15.3,3.8,3.6,91.9,86.2,Strong,Monitor,Monitor,Monitor
+P1157,Meesho,Vaseline,Skin Care,Face Cleanser,13.6,8.8,4.3,89.0,83.2,Strong,Monitor,Monitor,Monitor
+P0029,Meesho,Axe,Body Care,Deodorant & Body Spray,13.3,4.8,3.4,92.8,87.0,Strong,Monitor,Monitor,Monitor
+P0343,Meesho,Fino,Hair Care,Hair Oil & Serum,13.2,3.6,3.7,94.0,88.2,Strong,Monitor,Monitor,Monitor
+P0586,Meesho,Pantene,Hair Care,General Product,12.8,3.7,4.2,94.5,88.5,Strong,Monitor,Monitor,Monitor
+P0042,Meesho,Axe,Body Care,Deodorant & Body Spray,12.8,2.8,3.9,94.5,89.7,Strong,Monitor,Monitor,Monitor
+P1121,Meesho,Vaseline,Body Care,Body Wash,13.5,5.8,4.0,91.4,84.9,Strong,Monitor,Monitor,Monitor
+P0795,Meesho,Senka,Skin Care,Face Cleanser,13.4,3.6,4.4,93.1,86.5,Strong,Monitor,Monitor,Monitor
+P0931,Flipkart,SHIVAMAX,Electronics & Travel Accessories,General Product,15.8,8.3,4.3,87.4,81.9,Strong,Monitor,Monitor,Monitor
+P0562,Meesho,Oral-B,Oral Care,Toothpaste,13.5,6.8,3.9,89.6,84.4,Strong,Monitor,Monitor,Monitor
+P0178,Flipkart,Colgate,Oral Care,Toothpaste,15.6,5.6,4.2,89.3,84.2,Strong,Monitor,Monitor,Monitor
+P0218,Meesho,Colgate,Oral Care,Toothpaste,13.5,5.3,4.0,93.0,87.0,Strong,Monitor,Monitor,Monitor
+P1121,Website,Vaseline,Body Care,Body Wash,5.5,5.2,4.0,102.3,91.8,Strong,Monitor,Monitor,Monitor
+P1146,Meesho,Vaseline,Body Care,General Product,13.5,4.7,3.9,92.5,86.0,Strong,Monitor,Monitor,Monitor
+P1156,Meesho,Vaseline,Body Care,Body Lotion,13.3,3.6,3.9,94.0,88.5,Strong,Monitor,Monitor,Monitor
+P0235,Meesho,Counterpain,Health & Wellness,Pain Relief,13.2,6.1,3.7,91.0,84.8,Strong,Monitor,Monitor,Monitor
+P0260,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,13.1,2.2,4.5,96.0,89.5,Strong,Monitor,Monitor,Monitor
+P1048,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,13.3,4.3,3.4,93.1,87.1,Strong,Monitor,Monitor,Monitor
+P0536,Amazon,NOVOLIFE,Health & Wellness,Herbal Inhaler,43.0,4.3,4.0,69.5,57.1,Watch,Review,Monitor,Monitor
+P0609,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,13.2,2.8,4.0,94.1,87.9,Strong,Monitor,Monitor,Monitor
+P1067,Meesho,Tiger Balm,Health & Wellness,Pain Relief,13.6,6.1,4.1,91.5,83.9,Strong,Monitor,Monitor,Monitor
+P1075,Meesho,Tresemme,Hair Care,Shampoo,13.5,7.0,3.8,90.7,83.6,Strong,Monitor,Monitor,Monitor
+P1156,Website,Vaseline,Body Care,Body Lotion,4.7,2.0,4.0,104.7,94.5,Strong,Monitor,Monitor,Monitor
+P1146,Website,Vaseline,Body Care,General Product,4.6,2.2,4.0,103.7,95.5,Strong,Monitor,Monitor,Monitor
+P1069,Meesho,Tiger Balm,Health & Wellness,Pain Relief,13.8,6.8,3.6,91.1,84.0,Strong,Monitor,Monitor,Monitor
+P0543,Meesho,Ora2,Oral Care,Toothpaste,13.9,7.9,3.9,88.8,83.0,Strong,Monitor,Monitor,Monitor
+P1109,Meesho,Vaseline,Body Care,Body Wash,13.6,7.5,3.9,90.6,86.0,Strong,Monitor,Monitor,Monitor
+P1131,Meesho,Vaseline,Skin Care,Sunscreen,13.4,7.6,4.5,89.6,84.1,Strong,Monitor,Monitor,Monitor
+P0175,Meesho,Colgate,Oral Care,Toothpaste,13.5,3.5,4.0,94.6,88.3,Strong,Monitor,Monitor,Monitor
+P0252,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,10.8,1.7,4.2,96.2,90.1,Strong,Monitor,Monitor,Monitor
+P0156,Meesho,Colgate,Oral Care,Toothpaste,13.2,1.8,4.8,93.8,89.3,Strong,Monitor,Monitor,Monitor
+P1162,Meesho,Vita Keratin,Hair Care,General Product,13.4,4.4,3.7,93.4,87.2,Strong,Monitor,Monitor,Monitor
+P0565,Meesho,Pair,Skin Care,General Product,13.5,7.0,4.5,89.1,84.8,Strong,Monitor,Monitor,Monitor
+P0581,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.1,5.3,3.9,94.4,87.5,Strong,Monitor,Monitor,Monitor
+P0488,Meesho,Listerine,Oral Care,Mouthwash,13.6,6.3,4.1,91.0,84.8,Strong,Monitor,Monitor,Monitor
+P0605,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,12.9,2.7,3.9,94.1,88.6,Strong,Monitor,Monitor,Monitor
+P1044,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,13.5,3.2,4.2,94.2,87.9,Strong,Monitor,Monitor,Monitor
+P1237,Meesho,Watsons,Oral Care,Interdental Brush,13.2,1.8,3.8,95.3,89.4,Strong,Monitor,Monitor,Monitor
+P0573,Meesho,Pantene,Hair Care,Shampoo,13.2,4.1,4.7,92.3,87.2,Strong,Monitor,Monitor,Monitor
+P0594,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.2,4.8,3.9,100.5,91.4,Strong,Monitor,Monitor,Monitor
+P0546,Meesho,Ora2,Oral Care,Toothpaste,13.1,4.3,3.8,93.9,87.2,Strong,Monitor,Monitor,Monitor
+P0797,Meesho,Sensodyne,Oral Care,Toothpaste,13.4,5.4,4.1,92.4,84.9,Strong,Monitor,Monitor,Monitor
+P0783,Website,Senka,Skin Care,Face Cleanser,5.3,8.0,3.7,99.4,93.7,Strong,Monitor,Monitor,Monitor
+P0554,Website,Oral-B,Oral Care,Dental Floss,5.4,5.4,4.8,99.5,92.3,Strong,Monitor,Monitor,Monitor
+P0279,JioMart,Dove,Body Care,General Product,10.9,2.4,4.6,95.4,89.4,Strong,Monitor,Monitor,Monitor
+P0609,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.1,6.0,4.6,99.8,89.9,Strong,Monitor,Monitor,Monitor
+P0529,Website,NEXCARE,Skin Care,General Product,5.6,8.2,4.5,97.2,87.0,Strong,Monitor,Monitor,Monitor
+P1105,Meesho,Vaseline,Body Care,Body Wash,13.2,2.8,4.3,95.1,88.7,Strong,Monitor,Monitor,Monitor
+P0528,Meesho,NEXCARE,Skin Care,General Product,13.9,5.1,3.8,93.9,85.6,Strong,Monitor,Monitor,Monitor
+P0906,JioMart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,11.1,4.3,4.5,94.0,87.4,Strong,Monitor,Monitor,Monitor
+P0547,Website,Oral-B,Oral Care,Dental Floss,5.3,6.5,4.2,99.7,90.4,Strong,Monitor,Monitor,Monitor
+P1120,Meesho,Vaseline,Skin Care,Body Scrub,13.2,3.9,4.0,94.7,88.2,Strong,Monitor,Monitor,Monitor
+P0922,Website,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,5.3,4.3,3.9,102.1,92.2,Strong,Monitor,Monitor,Monitor
+P0260,Website,Dove,Hair Care,Hair Conditioner & Treatment,5.2,2.7,4.2,103.7,93.8,Strong,Monitor,Monitor,Monitor
+P0488,Website,Listerine,Oral Care,Mouthwash,5.1,2.5,3.9,104.6,94.9,Strong,Monitor,Monitor,Monitor
+P0271,Flipkart,Dove,Hair Care,General Product,16.4,6.2,4.0,90.5,83.3,Strong,Monitor,Monitor,Monitor
+P0263,Meesho,Dove,Hair Care,Hair Conditioner & Treatment,13.4,7.0,3.9,91.7,85.1,Strong,Monitor,Monitor,Monitor
+P1105,Website,Vaseline,Body Care,Body Wash,5.2,3.9,4.3,102.6,93.0,Strong,Monitor,Monitor,Monitor
+P0225,Flipkart,Colgate,Oral Care,Toothpaste,15.8,4.1,4.1,93.5,86.4,Strong,Monitor,Monitor,Monitor
+P0034,Meesho,Axe,Body Care,Deodorant & Body Spray,13.8,3.0,4.1,94.9,88.2,Strong,Monitor,Monitor,Monitor
+P0264,Meesho,Dove,Body Care,Deodorant & Body Spray,13.5,3.2,4.3,94.3,88.1,Strong,Monitor,Monitor,Monitor
+P0235,JioMart,Counterpain,Health & Wellness,Pain Relief,11.7,6.3,3.5,92.3,87.0,Strong,Monitor,Monitor,Monitor
+P0343,JioMart,Fino,Hair Care,Hair Oil & Serum,11.5,6.9,4.8,91.3,85.8,Strong,Monitor,Monitor,Monitor
+P0927,Amazon,SHIVAMAX,Home & Kitchen,Adhesive Hooks,50.0,3.6,4.2,63.5,49.1,Watch,Review,Monitor,Monitor
+P0437,Meesho,L'Oreal Paris,Skin Care,Face Cleanser,13.5,4.8,3.7,94.2,87.2,Strong,Monitor,Monitor,Monitor
+P0252,Website,Dove,Hair Care,Hair Conditioner & Treatment,5.1,5.4,3.8,100.7,90.6,Strong,Monitor,Monitor,Monitor
+P0270,Flipkart,Dove,Hair Care,Hair Oil & Serum,15.7,2.3,4.1,95.6,88.3,Strong,Monitor,Monitor,Monitor
+P1157,JioMart,Vaseline,Skin Care,Face Cleanser,11.9,6.2,4.0,93.5,87.0,Strong,Monitor,Monitor,Monitor
+P0547,JioMart,Oral-B,Oral Care,Dental Floss,11.0,1.8,3.6,97.4,92.7,Strong,Monitor,Monitor,Monitor
+P0780,Website,Senka,Skin Care,Face Cleanser,4.8,3.6,3.9,103.9,93.5,Strong,Monitor,Monitor,Monitor
+P1043,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,11.0,4.0,4.0,95.1,90.3,Strong,Monitor,Monitor,Monitor
+P0041,JioMart,Axe,Body Care,Deodorant & Body Spray,11.0,4.4,4.6,93.4,88.0,Strong,Monitor,Monitor,Monitor
+P1185,Flipkart,Watsons,Oral Care,Floss Picks,15.9,5.8,4.0,91.7,84.6,Strong,Monitor,Monitor,Monitor
+P0042,JioMart,Axe,Body Care,Deodorant & Body Spray,11.1,3.2,3.7,96.7,91.0,Strong,Monitor,Monitor,Monitor
+P1190,Flipkart,Watsons,Oral Care,Dental Floss,15.9,3.0,3.8,94.3,87.5,Strong,Monitor,Monitor,Monitor
+P0547,Meesho,Oral-B,Oral Care,Dental Floss,13.4,7.4,3.3,90.3,83.4,Strong,Monitor,Monitor,Monitor
+P0553,JioMart,Oral-B,Oral Care,Toothpaste,11.3,4.3,4.3,94.7,88.0,Strong,Monitor,Monitor,Monitor
+P1105,JioMart,Vaseline,Body Care,Body Wash,11.5,4.3,4.0,95.6,90.0,Strong,Monitor,Monitor,Monitor
+P0890,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,15.9,3.7,4.5,93.0,86.6,Strong,Monitor,Monitor,Monitor
+P0534,Meesho,Nexcare,Skin Care,General Product,13.4,3.4,4.2,93.7,87.3,Strong,Monitor,Monitor,Monitor
+P0747,Meesho,Rexona,Body Care,Deodorant & Body Spray,13.6,7.1,3.9,91.4,85.1,Strong,Monitor,Monitor,Monitor
+P0586,JioMart,Pantene,Hair Care,General Product,11.7,5.1,4.1,93.3,88.6,Strong,Monitor,Monitor,Monitor
+P0594,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.1,3.6,3.9,95.2,88.7,Strong,Monitor,Monitor,Monitor
+P1075,Website,Tresemme,Hair Care,Shampoo,5.4,4.2,4.4,103.0,92.7,Strong,Monitor,Monitor,Monitor
+P1109,Website,Vaseline,Body Care,Body Wash,5.0,8.1,4.4,98.5,89.2,Strong,Monitor,Monitor,Monitor
+P0602,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.0,2.5,3.9,103.4,95.2,Strong,Monitor,Monitor,Monitor
+P0795,JioMart,Senka,Skin Care,Face Cleanser,11.3,5.1,4.0,93.7,87.6,Strong,Monitor,Monitor,Monitor
+P1042,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,4.9,4.6,4.2,102.6,93.5,Strong,Monitor,Monitor,Monitor
+P1044,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,11.4,4.5,3.7,94.8,89.0,Strong,Monitor,Monitor,Monitor
+P0082,Meesho,Biore,Skin Care,Sunscreen,12.9,0.8,4.0,96.8,90.6,Strong,Monitor,Monitor,Monitor
+P0041,Website,Axe,Body Care,Deodorant & Body Spray,5.1,0.9,3.8,104.8,97.3,Strong,Monitor,Monitor,Monitor
+P0263,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,10.9,5.3,3.9,92.8,86.3,Strong,Monitor,Monitor,Monitor
+P0279,Website,Dove,Body Care,General Product,5.2,2.1,4.0,105.1,95.3,Strong,Monitor,Monitor,Monitor
+P0604,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,10.7,1.3,5.0,97.0,91.3,Strong,Monitor,Monitor,Monitor
+P0781,Website,Senka,Skin Care,Face Cleanser,5.2,2.2,3.9,102.9,95.2,Strong,Monitor,Monitor,Monitor
+P0555,Flipkart,Oral-B,Oral Care,Dental Floss,16.3,5.9,4.3,90.1,83.9,Strong,Monitor,Monitor,Monitor
+P1107,Meesho,Vaseline,Body Care,General Product,13.7,6.4,4.2,90.4,84.8,Strong,Monitor,Monitor,Monitor
+P0744,Meesho,Rexona,Body Care,Deodorant & Body Spray,13.3,5.8,3.6,93.2,86.0,Strong,Monitor,Monitor,Monitor
+P1069,JioMart,Tiger Balm,Health & Wellness,Pain Relief,11.4,1.6,3.1,98.6,92.4,Strong,Monitor,Monitor,Monitor
+P0172,JioMart,Colgate,Oral Care,Toothpaste,11.4,6.3,4.4,92.1,84.6,Strong,Monitor,Monitor,Monitor
+P0563,Meesho,Oral-B,Oral Care,Toothpaste,13.6,5.9,3.8,92.4,87.5,Strong,Monitor,Monitor,Monitor
+P0604,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.1,1.4,4.0,105.1,96.6,Strong,Monitor,Monitor,Monitor
+P1146,JioMart,Vaseline,Body Care,General Product,11.4,4.6,3.8,94.4,88.2,Strong,Monitor,Monitor,Monitor
+P1048,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,11.4,1.6,3.5,97.3,91.2,Strong,Monitor,Monitor,Monitor
+P0168,JioMart,Colgate,Oral Care,Toothpaste,11.1,2.9,3.9,96.9,90.2,Strong,Monitor,Monitor,Monitor
+P0529,JioMart,NEXCARE,Skin Care,General Product,11.1,7.0,3.8,92.8,89.3,Strong,Monitor,Monitor,Monitor
+P1176,Flipkart,Wangprom,Health & Wellness,General Product,15.3,3.6,3.9,92.6,86.7,Strong,Monitor,Monitor,Monitor
+P0777,JioMart,Senka,Skin Care,Face Cleanser,10.9,2.7,3.7,98.7,91.1,Strong,Monitor,Monitor,Monitor
+P0261,Flipkart,Dove,Hair Care,General Product,16.2,5.4,4.0,90.6,83.6,Strong,Monitor,Monitor,Monitor
+P0342,Website,Fino,Hair Care,Hair Conditioner & Treatment,5.5,7.9,3.6,98.8,88.9,Strong,Monitor,Monitor,Monitor
+P0573,Website,Pantene,Hair Care,Shampoo,5.0,2.5,3.6,102.9,96.0,Strong,Monitor,Monitor,Monitor
+P1131,JioMart,Vaseline,Skin Care,Sunscreen,11.0,3.6,3.9,94.1,88.7,Strong,Monitor,Monitor,Monitor
+P0777,Website,Senka,Skin Care,Face Cleanser,5.6,9.2,3.6,97.6,86.3,Strong,Monitor,Monitor,Monitor
+P0212,Flipkart,Colgate,Oral Care,Toothpaste,15.8,6.8,4.5,89.1,83.3,Strong,Monitor,Monitor,Monitor
+P1085,JioMart,Tresemme,Hair Care,Hair Conditioner & Treatment,11.6,8.4,4.2,90.7,85.5,Strong,Monitor,Monitor,Monitor
+P0263,Website,Dove,Hair Care,Hair Conditioner & Treatment,5.3,3.0,4.2,103.6,95.0,Strong,Monitor,Monitor,Monitor
+P0617,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.5,6.2,4.5,99.9,92.3,Strong,Monitor,Monitor,Monitor
+P0168,Website,Colgate,Oral Care,Toothpaste,5.0,4.4,4.0,101.8,93.8,Strong,Monitor,Monitor,Monitor
+P1254,Flipkart,Watsons,Oral Care,Dental Floss,16.0,5.1,3.9,91.6,85.4,Strong,Monitor,Monitor,Monitor
+P0476,Flipkart,Listerine,Oral Care,Mouthwash,16.0,5.2,4.2,90.9,84.2,Strong,Monitor,Monitor,Monitor
+P0753,Meesho,Rexona,Body Care,Deodorant & Body Spray,13.7,3.4,4.2,93.8,87.4,Strong,Monitor,Monitor,Monitor
+P1069,Website,Tiger Balm,Health & Wellness,Pain Relief,5.2,4.8,4.3,100.5,92.9,Strong,Monitor,Monitor,Monitor
+P0546,JioMart,Ora2,Oral Care,Toothpaste,11.0,0.9,4.0,96.9,91.3,Strong,Monitor,Monitor,Monitor
+P0230,Website,Counterpain,Health & Wellness,Pain Relief,5.4,2.9,3.9,104.4,95.6,Strong,Monitor,Monitor,Monitor
+P0840,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,16.7,7.7,4.2,88.9,82.3,Strong,Monitor,Monitor,Monitor
+P1112,Flipkart,Vaseline,Body Care,Deodorant & Body Spray,15.9,3.5,4.3,93.5,86.2,Strong,Monitor,Monitor,Monitor
+P0543,JioMart,Ora2,Oral Care,Toothpaste,11.4,5.0,4.0,93.3,86.1,Strong,Monitor,Monitor,Monitor
+P0780,JioMart,Senka,Skin Care,Face Cleanser,11.4,7.1,4.4,92.3,84.9,Strong,Monitor,Monitor,Monitor
+P0024,Flipkart,AR,Skin Care,General Product,16.2,5.0,3.7,91.8,84.6,Strong,Monitor,Monitor,Monitor
+P0747,JioMart,Rexona,Body Care,Deodorant & Body Spray,11.6,7.7,4.2,92.7,85.8,Strong,Monitor,Monitor,Monitor
+P0342,JioMart,Fino,Hair Care,Hair Conditioner & Treatment,11.1,4.0,5.5,93.5,90.0,Strong,Monitor,Monitor,Monitor
+P0543,Website,Ora2,Oral Care,Toothpaste,5.7,5.1,4.1,100.3,91.4,Strong,Monitor,Monitor,Monitor
+P0546,Website,Ora2,Oral Care,Toothpaste,5.1,1.8,4.0,105.0,97.2,Strong,Monitor,Monitor,Monitor
+P0562,Website,Oral-B,Oral Care,Toothpaste,5.5,4.1,4.6,101.2,90.9,Strong,Monitor,Monitor,Monitor
+P1248,Flipkart,Watsons,Skin Care,Lip Care,15.9,3.0,3.8,93.5,87.4,Strong,Monitor,Monitor,Monitor
+P1237,Website,Watsons,Oral Care,Interdental Brush,5.2,3.6,4.6,102.8,94.6,Strong,Monitor,Monitor,Monitor
+P0610,JioMart,Pantene,Hair Care,Hair Oil & Serum,11.0,3.6,4.5,95.3,89.5,Strong,Monitor,Monitor,Monitor
+P0554,JioMart,Oral-B,Oral Care,Dental Floss,11.1,3.3,4.4,95.9,89.3,Strong,Monitor,Monitor,Monitor
+P1120,Website,Vaseline,Skin Care,Body Scrub,5.5,3.0,3.9,103.9,94.6,Strong,Monitor,Monitor,Monitor
+P0230,JioMart,Counterpain,Health & Wellness,Pain Relief,11.2,4.4,4.5,93.9,87.7,Strong,Monitor,Monitor,Monitor
+P0813,JioMart,Sensodyne,Oral Care,Toothpaste,11.1,3.2,3.5,95.8,89.5,Strong,Monitor,Monitor,Monitor
+P0531,Flipkart,NEXCARE,Skin Care,General Product,15.9,4.9,4.2,91.4,84.3,Strong,Monitor,Monitor,Monitor
+P1114,Meesho,Vaseline,Body Care,Deodorant & Body Spray,13.6,3.6,3.6,93.9,88.3,Strong,Monitor,Monitor,Monitor
+P1150,Meesho,Vaseline,Body Care,Deodorant & Body Spray,13.6,3.6,4.0,95.4,88.6,Strong,Monitor,Monitor,Monitor
+P0042,Website,Axe,Body Care,Deodorant & Body Spray,5.2,4.9,3.6,102.2,92.9,Strong,Monitor,Monitor,Monitor
+P0581,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.5,4.5,3.8,101.4,92.7,Strong,Monitor,Monitor,Monitor
+P1033,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,16.2,5.0,4.0,93.0,86.3,Strong,Monitor,Monitor,Monitor
+P0235,Website,Counterpain,Health & Wellness,Pain Relief,5.3,4.8,4.8,102.8,92.7,Strong,Monitor,Monitor,Monitor
+P1043,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,5.4,4.9,3.3,102.4,91.9,Strong,Monitor,Monitor,Monitor
+P1131,Website,Vaseline,Skin Care,Sunscreen,4.9,3.5,4.3,103.2,92.3,Strong,Monitor,Monitor,Monitor
+P1099,Flipkart,Tros,Body Care,Deodorant & Body Spray,15.7,4.6,3.8,92.0,85.1,Strong,Monitor,Monitor,Monitor
+P0763,Flipkart,Sasi,Lip,Lip Care,16.4,5.7,3.5,90.2,83.5,Strong,Monitor,Monitor,Monitor
+P0944,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,16.0,5.4,3.6,92.3,86.5,Strong,Monitor,Monitor,Monitor
+P0022,JioMart,Ambi Pur,Home & Kitchen,Air Freshener,11.0,3.2,4.4,96.0,89.0,Strong,Monitor,Monitor,Monitor
+P0590,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.3,8.1,4.1,98.8,87.2,Strong,Monitor,Monitor,Monitor
+P1039,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,15.8,3.6,3.7,93.3,85.8,Strong,Monitor,Monitor,Monitor
+P0548,JioMart,Oral-B,Oral Care,Toothpaste,11.3,2.8,3.7,96.1,89.6,Strong,Monitor,Monitor,Monitor
+P0260,JioMart,Dove,Hair Care,Hair Conditioner & Treatment,11.3,4.5,4.1,94.7,88.0,Strong,Monitor,Monitor,Monitor
+P0562,JioMart,Oral-B,Oral Care,Toothpaste,11.2,2.4,4.2,96.8,90.5,Strong,Monitor,Monitor,Monitor
+P0609,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.6,4.6,3.9,93.5,87.6,Strong,Monitor,Monitor,Monitor
+P0595,Flipkart,Pantene,Hair Care,Hair Conditioner & Treatment,15.9,6.1,4.0,91.1,84.7,Strong,Monitor,Monitor,Monitor
+P1196,Flipkart,Watsons,Oral Care,Floss Picks,16.6,6.3,4.3,90.7,83.9,Strong,Monitor,Monitor,Monitor
+P0797,Website,Sensodyne,Oral Care,Toothpaste,5.6,3.4,3.3,103.5,93.4,Strong,Monitor,Monitor,Monitor
+P0813,Website,Sensodyne,Oral Care,Toothpaste,5.3,4.0,4.2,102.3,93.6,Strong,Monitor,Monitor,Monitor
+P1080,Website,Tresemme,Hair Care,Hair Conditioner & Treatment,5.1,2.8,3.1,105.1,95.2,Strong,Monitor,Monitor,Monitor
+P0705,Flipkart,Protex,Body Care,General Product,16.5,1.6,4.3,94.7,87.9,Strong,Monitor,Monitor,Monitor
+P1044,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,5.2,2.7,4.3,102.9,94.7,Strong,Monitor,Monitor,Monitor
+P0557,Flipkart,Oral-B,Oral Care,Dental Floss,16.3,4.7,3.7,92.4,84.7,Strong,Monitor,Monitor,Monitor
+P0308,Flipkart,Dove,Hair Care,General Product,16.2,5.7,4.0,91.4,83.7,Strong,Monitor,Monitor,Monitor
+P0488,JioMart,Listerine,Oral Care,Mouthwash,11.2,2.3,4.9,94.1,89.2,Strong,Monitor,Monitor,Monitor
+P0029,JioMart,Axe,Body Care,Deodorant & Body Spray,10.7,0.0,3.2,99.8,94.8,Strong,Monitor,Monitor,Monitor
+P0172,Website,Colgate,Oral Care,Toothpaste,5.4,3.1,4.2,101.7,94.2,Strong,Monitor,Monitor,Monitor
+P0610,Website,Pantene,Hair Care,Hair Oil & Serum,4.8,2.7,3.6,104.1,95.0,Strong,Monitor,Monitor,Monitor
+P0233,Flipkart,Counterpain,Health & Wellness,Pain Relief,16.3,5.8,4.2,90.8,82.5,Strong,Monitor,Monitor,Monitor
+P0566,Website,Pantene,Hair Care,Shampoo,5.2,0.6,4.2,105.3,96.9,Strong,Monitor,Monitor,Monitor
+P0029,Website,Axe,Body Care,Deodorant & Body Spray,5.3,5.0,3.6,101.0,93.2,Strong,Monitor,Monitor,Monitor
+P0605,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.2,2.8,3.5,104.4,95.0,Strong,Monitor,Monitor,Monitor
+P0218,JioMart,Colgate,Oral Care,Toothpaste,11.4,5.0,4.2,94.3,87.4,Strong,Monitor,Monitor,Monitor
+P0565,Website,Pair,Skin Care,General Product,5.3,2.6,3.4,105.4,96.5,Strong,Monitor,Monitor,Monitor
+P0602,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.0,4.3,3.8,94.9,88.0,Strong,Monitor,Monitor,Monitor
+P0565,JioMart,Pair,Skin Care,General Product,11.0,0.9,4.3,97.7,92.4,Strong,Monitor,Monitor,Monitor
+P0246,Meesho,Dove,Body Care,Deodorant & Body Spray,13.8,4.2,3.6,93.6,87.8,Strong,Monitor,Monitor,Monitor
+P0264,Website,Dove,Body Care,Deodorant & Body Spray,5.3,5.6,4.0,102.4,91.6,Strong,Monitor,Monitor,Monitor
+P0744,JioMart,Rexona,Body Care,Deodorant & Body Spray,11.4,5.2,3.7,94.1,86.9,Strong,Monitor,Monitor,Monitor
+P0343,Website,Fino,Hair Care,Hair Oil & Serum,5.5,5.1,4.3,100.8,91.5,Strong,Monitor,Monitor,Monitor
+P1162,Website,Vita Keratin,Hair Care,General Product,5.6,5.7,4.3,99.1,91.2,Strong,Monitor,Monitor,Monitor
+P1156,JioMart,Vaseline,Body Care,Body Lotion,11.2,5.1,4.2,93.5,88.5,Strong,Monitor,Monitor,Monitor
+P0590,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,10.8,7.0,3.5,92.9,87.0,Strong,Monitor,Monitor,Monitor
+P0795,Website,Senka,Skin Care,Face Cleanser,4.9,3.8,3.4,103.2,93.4,Strong,Monitor,Monitor,Monitor
+P0906,Website,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,5.1,3.0,4.4,103.1,94.2,Strong,Monitor,Monitor,Monitor
+P0170,Flipkart,Colgate,Oral Care,Toothpaste,15.9,3.9,3.9,93.0,85.2,Strong,Monitor,Monitor,Monitor
+P1114,Website,Vaseline,Body Care,Deodorant & Body Spray,4.9,1.9,4.7,105.2,95.4,Strong,Monitor,Monitor,Monitor
+P0753,JioMart,Rexona,Body Care,Deodorant & Body Spray,11.4,4.7,4.4,94.6,87.5,Strong,Monitor,Monitor,Monitor
+P0617,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.7,3.7,3.5,94.0,88.0,Strong,Monitor,Monitor,Monitor
+P0553,Website,Oral-B,Oral Care,Toothpaste,5.3,6.0,3.0,102.5,93.0,Strong,Monitor,Monitor,Monitor
+P1048,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,5.3,5.7,4.3,101.5,90.9,Strong,Monitor,Monitor,Monitor
+P0770,Flipkart,Sasi,Skin Care,General Product,15.8,2.0,3.4,96.1,89.0,Strong,Monitor,Monitor,Monitor
+P0278,Meesho,Dove,Hair Care,Shampoo,13.8,2.5,3.4,96.7,89.7,Strong,Monitor,Monitor,Monitor
+P0595,Meesho,Pantene,Hair Care,Hair Conditioner & Treatment,14.0,2.9,4.7,95.8,88.7,Strong,Monitor,Monitor,Monitor
+P1237,JioMart,Watsons,Oral Care,Interdental Brush,11.0,2.3,3.7,96.0,89.6,Strong,Monitor,Monitor,Monitor
+P0868,Flipkart,SHIVAMAX,Home & Kitchen,General Product,16.5,6.6,4.1,89.8,81.7,Strong,Monitor,Monitor,Monitor
+P0253,Flipkart,Dove,Hair Care,General Product,15.9,5.8,3.2,90.8,83.2,Strong,Monitor,Monitor,Monitor
+P0218,Website,Colgate,Oral Care,Toothpaste,5.2,5.4,3.9,101.5,92.5,Strong,Monitor,Monitor,Monitor
+P1042,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,11.5,6.0,3.9,93.0,86.9,Strong,Monitor,Monitor,Monitor
+P1038,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,16.5,5.2,4.1,93.1,85.6,Strong,Monitor,Monitor,Monitor
+P0566,JioMart,Pantene,Hair Care,Shampoo,11.0,4.9,3.6,95.0,88.2,Strong,Monitor,Monitor,Monitor
+P0257,Flipkart,Dove,Hair Care,General Product,16.4,4.0,4.3,92.0,85.2,Strong,Monitor,Monitor,Monitor
+P0259,Flipkart,Dove,Hair Care,General Product,15.9,3.3,3.3,94.0,86.2,Strong,Monitor,Monitor,Monitor
+P1120,JioMart,Vaseline,Skin Care,Body Scrub,11.5,2.6,4.0,96.5,90.7,Strong,Monitor,Monitor,Monitor
+P0548,Website,Oral-B,Oral Care,Toothpaste,5.2,3.3,3.3,104.5,94.0,Strong,Monitor,Monitor,Monitor
+P0605,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,11.8,7.1,4.1,91.3,86.1,Strong,Monitor,Monitor,Monitor
+P1109,JioMart,Vaseline,Body Care,Body Wash,11.9,8.6,4.3,91.4,86.1,Strong,Monitor,Monitor,Monitor
+P0262,Flipkart,Dove,Hair Care,Hair Oil & Serum,16.0,2.3,4.6,92.6,86.0,Strong,Monitor,Monitor,Monitor
+P0156,JioMart,Colgate,Oral Care,Toothpaste,11.1,0.0,4.2,97.6,93.1,Strong,Monitor,Monitor,Monitor
+P0586,Website,Pantene,Hair Care,General Product,5.0,2.5,3.6,103.6,95.0,Strong,Monitor,Monitor,Monitor
+P1003,Flipkart,Snake Brand,Body Care,General Product,16.1,1.7,3.4,96.3,88.9,Strong,Monitor,Monitor,Monitor
+P0944,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,14.5,7.7,3.8,91.9,85.8,Strong,Monitor,Monitor,Monitor
+P0922,JioMart,SHIVAMAX,Hair Care,Hair Conditioner & Treatment,11.6,8.4,4.3,90.9,85.4,Strong,Monitor,Monitor,Monitor
+P0706,Flipkart,Protex,Body Care,General Product,16.4,4.2,4.0,92.1,85.1,Strong,Monitor,Monitor,Monitor
+P0178,Meesho,Colgate,Oral Care,Toothpaste,13.3,4.9,4.0,92.7,85.7,Strong,Monitor,Monitor,Monitor
+P0573,JioMart,Pantene,Hair Care,Shampoo,11.4,2.6,4.2,94.4,91.0,Strong,Monitor,Monitor,Monitor
+P0278,Flipkart,Dove,Hair Care,Shampoo,16.1,3.7,3.8,93.2,86.0,Strong,Monitor,Monitor,Monitor
+P0753,Website,Rexona,Body Care,Deodorant & Body Spray,5.6,6.5,4.1,101.2,90.5,Strong,Monitor,Monitor,Monitor
+P0781,JioMart,Senka,Skin Care,Face Cleanser,11.5,10.0,3.0,89.9,88.0,Strong,Monitor,Review,Monitor
+P0598,Flipkart,Pantene,Hair Care,General Product,16.0,3.6,4.5,92.9,85.9,Strong,Monitor,Monitor,Monitor
+P1185,Meesho,Watsons,Oral Care,Floss Picks,14.1,2.7,3.9,96.8,88.8,Strong,Monitor,Monitor,Monitor
+P0758,Flipkart,Sasi,Lip,Sunscreen,15.6,2.1,3.5,94.8,87.8,Strong,Monitor,Monitor,Monitor
+P0175,Website,Colgate,Oral Care,Toothpaste,5.5,5.1,3.7,100.8,91.5,Strong,Monitor,Monitor,Monitor
+P1190,Meesho,Watsons,Oral Care,Dental Floss,13.9,5.9,3.1,94.7,87.1,Strong,Monitor,Monitor,Monitor
+P0039,Meesho,Axe,Body Care,Deodorant & Body Spray,14.1,4.2,3.7,94.8,87.2,Strong,Monitor,Monitor,Monitor
+P0563,JioMart,Oral-B,Oral Care,Toothpaste,11.3,4.0,4.0,95.9,88.2,Strong,Monitor,Monitor,Monitor
+P0758,Meesho,Sasi,Lip,Sunscreen,14.4,4.7,4.1,93.9,86.9,Strong,Monitor,Monitor,Monitor
+P0437,JioMart,L'Oreal Paris,Skin Care,Face Cleanser,11.2,5.3,4.7,93.9,86.4,Strong,Monitor,Monitor,Monitor
+P1176,Meesho,Wangprom,Health & Wellness,General Product,13.7,3.7,4.2,94.5,88.0,Strong,Monitor,Monitor,Monitor
+P1085,Website,Tresemme,Hair Care,Hair Conditioner & Treatment,5.2,5.3,4.3,100.7,91.9,Strong,Monitor,Monitor,Monitor
+P0534,Website,Nexcare,Skin Care,General Product,5.5,3.7,3.8,103.8,94.1,Strong,Monitor,Monitor,Monitor
+P1121,JioMart,Vaseline,Body Care,Body Wash,11.1,1.8,3.7,98.0,91.9,Strong,Monitor,Monitor,Monitor
+P1029,Flipkart,Sunsilk,Hair Care,Shampoo,16.1,2.9,3.9,94.8,87.2,Strong,Monitor,Monitor,Monitor
+P0720,Flipkart,Protex,Body Care,General Product,16.3,2.6,4.1,95.0,87.3,Strong,Monitor,Monitor,Monitor
+P0024,Meesho,AR,Skin Care,General Product,14.1,3.2,4.2,95.7,89.6,Strong,Monitor,Monitor,Monitor
+P1157,Website,Vaseline,Skin Care,Face Cleanser,5.1,6.3,4.2,100.8,93.3,Strong,Monitor,Monitor,Monitor
+P0528,Website,NEXCARE,Skin Care,General Product,6.1,10.1,4.7,96.9,89.9,Strong,Monitor,Review,Monitor
+P0022,Website,Ambi Pur,Home & Kitchen,Air Freshener,5.0,1.3,3.2,105.7,97.9,Strong,Monitor,Monitor,Monitor
+P0783,JioMart,Senka,Skin Care,Face Cleanser,11.4,3.9,4.0,96.5,91.2,Strong,Monitor,Monitor,Monitor
+P0747,Website,Rexona,Body Care,Deodorant & Body Spray,5.1,1.6,4.0,105.0,97.2,Strong,Monitor,Monitor,Monitor
+P1035,Flipkart,Sunsilk,Hair Care,Shampoo,16.3,3.0,4.2,94.5,86.9,Strong,Monitor,Monitor,Monitor
+P1100,Flipkart,Tros,Body Care,Deodorant & Body Spray,16.3,6.1,4.2,90.3,84.6,Strong,Monitor,Monitor,Monitor
+P0744,Website,Rexona,Body Care,Deodorant & Body Spray,5.0,2.0,4.6,104.4,94.8,Strong,Monitor,Monitor,Monitor
+P1080,JioMart,Tresemme,Hair Care,Hair Conditioner & Treatment,11.1,2.0,4.1,97.4,91.3,Strong,Monitor,Monitor,Monitor
+P1075,JioMart,Tresemme,Hair Care,Shampoo,11.2,3.6,3.4,95.3,89.9,Strong,Monitor,Monitor,Monitor
+P0797,JioMart,Sensodyne,Oral Care,Toothpaste,11.9,7.6,3.8,91.6,85.0,Strong,Monitor,Monitor,Monitor
+P0476,Meesho,Listerine,Oral Care,Mouthwash,14.2,7.1,4.0,90.6,83.6,Strong,Monitor,Monitor,Monitor
+P1162,JioMart,Vita Keratin,Hair Care,General Product,11.3,2.3,4.4,95.9,91.9,Strong,Monitor,Monitor,Monitor
+P1041,Flipkart,Sunsilk,Hair Care,Shampoo,16.7,5.6,4.5,93.0,85.4,Strong,Monitor,Monitor,Monitor
+P0531,Meesho,NEXCARE,Skin Care,General Product,13.8,5.2,4.7,93.7,87.2,Strong,Monitor,Monitor,Monitor
+P1070,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,17.0,6.2,4.2,92.1,84.4,Strong,Monitor,Monitor,Monitor
+P1107,JioMart,Vaseline,Body Care,General Product,11.5,1.8,4.2,97.1,90.8,Strong,Monitor,Monitor,Monitor
+P1032,Flipkart,Sunsilk,Hair Care,Shampoo,16.6,4.3,4.5,93.5,86.2,Strong,Monitor,Monitor,Monitor
+P0253,Meesho,Dove,Hair Care,General Product,14.0,1.9,3.4,96.4,90.3,Strong,Monitor,Monitor,Monitor
+P0039,Website,Axe,Body Care,Deodorant & Body Spray,5.5,2.1,3.7,105.9,95.7,Strong,Monitor,Monitor,Monitor
+P0528,JioMart,NEXCARE,Skin Care,General Product,11.2,1.4,4.2,97.4,91.6,Strong,Monitor,Monitor,Monitor
+P0534,JioMart,Nexcare,Skin Care,General Product,12.1,8.3,3.7,90.7,84.5,Strong,Monitor,Monitor,Monitor
+P1249,Flipkart,Watsons,Oral Care,Floss Picks,17.1,3.4,4.0,93.8,84.5,Strong,Monitor,Monitor,Monitor
+P0475,Flipkart,Listerine,Oral Care,Mouthwash,17.1,8.6,3.9,89.6,81.6,Strong,Monitor,Monitor,Monitor
+P1248,Meesho,Watsons,Skin Care,Lip Care,13.6,1.1,3.3,99.8,93.0,Strong,Monitor,Monitor,Monitor
+P0264,JioMart,Dove,Body Care,Deodorant & Body Spray,11.5,4.7,3.7,95.1,88.7,Strong,Monitor,Monitor,Monitor
+P0156,Website,Colgate,Oral Care,Toothpaste,5.0,3.5,3.5,102.6,93.1,Strong,Monitor,Monitor,Monitor
+P0889,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,17.3,8.0,4.3,90.9,82.6,Strong,Monitor,Monitor,Monitor
+P0308,Meesho,Dove,Hair Care,General Product,13.9,2.6,3.7,94.9,88.0,Strong,Monitor,Monitor,Monitor
+P1067,Website,Tiger Balm,Health & Wellness,Pain Relief,5.4,4.2,3.6,101.5,91.8,Strong,Monitor,Monitor,Monitor
+P1071,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,17.3,5.7,3.9,92.6,83.9,Strong,Monitor,Monitor,Monitor
+P0557,Meesho,Oral-B,Oral Care,Dental Floss,14.7,4.5,3.7,94.2,87.9,Strong,Monitor,Monitor,Monitor
+P0437,Website,L'Oreal Paris,Skin Care,Face Cleanser,5.3,3.4,4.9,103.5,93.8,Strong,Monitor,Monitor,Monitor
+P1033,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,14.0,0.8,3.8,96.9,90.6,Strong,Monitor,Monitor,Monitor
+P0246,Website,Dove,Body Care,Deodorant & Body Spray,6.0,6.5,3.7,101.5,92.2,Strong,Monitor,Monitor,Monitor
+P1176,JioMart,Wangprom,Health & Wellness,General Product,11.5,3.2,4.0,96.4,89.8,Strong,Monitor,Monitor,Monitor
+P0690,Flipkart,Protex,Body Care,General Product,17.0,5.5,3.9,90.7,83.9,Strong,Monitor,Monitor,Monitor
+P1150,JioMart,Vaseline,Body Care,Deodorant & Body Spray,11.4,3.3,3.8,95.5,89.1,Strong,Monitor,Monitor,Monitor
+P1003,Meesho,Snake Brand,Body Care,General Product,14.5,3.9,3.7,95.5,89.0,Strong,Monitor,Monitor,Monitor
+P0225,Meesho,Colgate,Oral Care,Toothpaste,14.1,3.6,4.4,94.5,89.9,Strong,Monitor,Monitor,Monitor
+P0890,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,14.0,3.9,4.6,94.6,87.1,Strong,Monitor,Monitor,Monitor
+P1100,Meesho,Tros,Body Care,Deodorant & Body Spray,13.8,5.5,3.5,93.4,87.6,Strong,Monitor,Monitor,Monitor
+P0246,JioMart,Dove,Body Care,Deodorant & Body Spray,11.4,2.7,4.0,97.1,89.7,Strong,Monitor,Monitor,Monitor
+P1251,Flipkart,Watsons,Oral Care,Floss Picks,16.6,4.6,4.1,94.7,86.6,Strong,Monitor,Monitor,Monitor
+P0840,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,13.9,3.3,3.6,96.7,90.0,Strong,Monitor,Monitor,Monitor
+P1196,Meesho,Watsons,Oral Care,Floss Picks,13.8,2.3,4.8,96.3,88.9,Strong,Monitor,Monitor,Monitor
+P0563,Website,Oral-B,Oral Care,Toothpaste,5.4,0.8,3.9,106.7,97.1,Strong,Monitor,Monitor,Monitor
+P1052,Flipkart,Sunsilk,Hair Care,Shampoo,16.4,3.3,3.3,95.8,87.9,Strong,Monitor,Monitor,Monitor
+P0271,Meesho,Dove,Hair Care,General Product,14.0,1.5,3.9,97.9,90.4,Strong,Monitor,Monitor,Monitor
+P1214,Flipkart,Watsons,Oral Care,Floss Picks,16.5,5.0,4.0,95.3,87.4,Strong,Monitor,Monitor,Monitor
+P1039,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,14.4,9.7,4.0,89.6,84.9,Strong,Monitor,Monitor,Monitor
+P0555,Meesho,Oral-B,Oral Care,Dental Floss,14.2,4.7,4.4,93.6,86.8,Strong,Monitor,Monitor,Monitor
+P1112,Meesho,Vaseline,Body Care,Deodorant & Body Spray,14.0,1.8,4.0,96.6,90.9,Strong,Monitor,Monitor,Monitor
+P1026,Flipkart,Sunsilk,Hair Care,Hair Conditioner & Treatment,16.4,3.3,4.1,94.1,85.7,Strong,Monitor,Monitor,Monitor
+P0261,Meesho,Dove,Hair Care,General Product,13.8,3.1,3.5,96.4,90.0,Strong,Monitor,Monitor,Monitor
+P1176,Website,Wangprom,Health & Wellness,General Product,6.0,5.9,3.8,101.6,91.1,Strong,Monitor,Monitor,Monitor
+P0178,Website,Colgate,Oral Care,Toothpaste,5.2,2.1,3.9,106.4,95.4,Strong,Monitor,Monitor,Monitor
+P1164,Flipkart,Wangprom,Health & Wellness,Herbal Inhaler,16.9,6.6,3.7,91.4,84.1,Strong,Monitor,Monitor,Monitor
+P0178,JioMart,Colgate,Oral Care,Toothpaste,11.9,6.2,4.7,93.6,85.8,Strong,Monitor,Monitor,Monitor
+P1218,Flipkart,Watsons,Oral Care,Floss Picks,17.2,5.7,4.4,92.3,85.0,Strong,Monitor,Monitor,Monitor
+P0034,Website,Axe,Body Care,Deodorant & Body Spray,5.0,3.6,4.4,102.0,93.2,Strong,Monitor,Monitor,Monitor
+P1067,JioMart,Tiger Balm,Health & Wellness,Pain Relief,11.3,3.3,3.9,96.6,90.6,Strong,Monitor,Monitor,Monitor
+P0679,Flipkart,Poy Sian,Health & Wellness,Herbal Inhaler,16.2,4.0,3.6,93.8,87.0,Strong,Monitor,Monitor,Monitor
+P0598,Meesho,Pantene,Hair Care,General Product,14.7,5.9,4.1,92.1,85.2,Strong,Monitor,Monitor,Monitor
+P0034,JioMart,Axe,Body Care,Deodorant & Body Spray,12.1,9.2,3.9,91.8,84.8,Strong,Monitor,Monitor,Monitor
+P0763,Meesho,Sasi,Lip,Lip Care,14.2,4.3,3.4,95.4,88.1,Strong,Monitor,Monitor,Monitor
+P0257,Meesho,Dove,Hair Care,General Product,14.8,4.6,4.4,94.4,86.1,Strong,Monitor,Monitor,Monitor
+P0259,Meesho,Dove,Hair Care,General Product,14.3,7.0,4.1,91.7,84.4,Strong,Monitor,Monitor,Monitor
+P0475,Meesho,Listerine,Oral Care,Mouthwash,14.2,4.7,3.7,95.6,88.9,Strong,Monitor,Monitor,Monitor
+P0262,Meesho,Dove,Hair Care,Hair Oil & Serum,14.0,3.4,3.4,97.2,90.5,Strong,Monitor,Monitor,Monitor
+P0931,Meesho,SHIVAMAX,Electronics & Travel Accessories,General Product,14.1,3.9,4.3,93.9,86.2,Strong,Monitor,Monitor,Monitor
+P0039,JioMart,Axe,Body Care,Deodorant & Body Spray,11.9,7.8,3.3,92.8,84.9,Strong,Monitor,Monitor,Monitor
+P0175,JioMart,Colgate,Oral Care,Toothpaste,11.3,5.5,4.5,94.5,87.9,Strong,Monitor,Monitor,Monitor
+P1200,Flipkart,Watsons,Oral Care,Dental Floss,17.4,6.7,4.0,91.4,83.5,Strong,Monitor,Monitor,Monitor
+P0170,Meesho,Colgate,Oral Care,Toothpaste,14.2,5.7,4.2,94.4,86.1,Strong,Monitor,Monitor,Monitor
+P0212,Meesho,Colgate,Oral Care,Toothpaste,14.0,2.7,4.4,95.4,88.3,Strong,Monitor,Monitor,Monitor
+P1072,Flipkart,Tiger Balm,Health & Wellness,Herbal Inhaler,16.8,7.5,4.5,90.1,82.4,Strong,Monitor,Monitor,Monitor
+P1029,Meesho,Sunsilk,Hair Care,Shampoo,14.9,9.3,4.3,90.0,83.6,Strong,Monitor,Monitor,Monitor
+P1099,Meesho,Tros,Body Care,Deodorant & Body Spray,13.7,3.3,4.5,95.7,87.7,Strong,Monitor,Monitor,Monitor
+P0082,JioMart,Biore,Skin Care,Sunscreen,12.0,6.6,4.8,92.4,85.6,Strong,Monitor,Monitor,Monitor
+P1254,Meesho,Watsons,Oral Care,Dental Floss,14.3,1.8,3.9,98.1,90.7,Strong,Monitor,Monitor,Monitor
+P0706,Meesho,Protex,Body Care,General Product,14.3,4.0,4.2,94.3,85.9,Strong,Monitor,Monitor,Monitor
+P0555,JioMart,Oral-B,Oral Care,Dental Floss,11.7,2.4,4.0,98.3,91.1,Strong,Monitor,Monitor,Monitor
+P1150,Website,Vaseline,Body Care,Deodorant & Body Spray,5.4,3.3,3.8,105.1,93.6,Strong,Monitor,Monitor,Monitor
+P0536,Flipkart,NOVOLIFE,Health & Wellness,Herbal Inhaler,17.1,4.6,3.8,93.9,86.6,Strong,Monitor,Monitor,Monitor
+P1041,Meesho,Sunsilk,Hair Care,Shampoo,14.3,6.0,3.4,93.8,86.3,Strong,Monitor,Monitor,Monitor
+P0270,Meesho,Dove,Hair Care,Hair Oil & Serum,14.0,2.8,4.3,94.1,86.7,Strong,Monitor,Monitor,Monitor
+P0212,Website,Colgate,Oral Care,Toothpaste,5.7,3.0,3.7,106.7,95.8,Strong,Monitor,Monitor,Monitor
+P0690,Meesho,Protex,Body Care,General Product,15.2,4.0,3.7,95.9,89.0,Strong,Monitor,Monitor,Monitor
+P0931,Website,SHIVAMAX,Electronics & Travel Accessories,General Product,5.8,5.2,4.0,104.0,90.7,Strong,Monitor,Monitor,Monitor
+P0427,Flipkart,Kaowmanee,Skin Care,General Product,16.8,4.9,4.0,91.9,84.4,Strong,Monitor,Monitor,Monitor
+P0705,Meesho,Protex,Body Care,General Product,14.6,6.5,3.6,93.1,85.4,Strong,Monitor,Monitor,Monitor
+P1196,Website,Watsons,Oral Care,Floss Picks,6.1,5.0,4.5,104.2,91.9,Strong,Monitor,Monitor,Monitor
+P0598,JioMart,Pantene,Hair Care,General Product,12.3,3.0,3.9,97.3,90.0,Strong,Monitor,Monitor,Monitor
+P0082,Website,Biore,Skin Care,Sunscreen,5.2,3.2,5.7,102.6,94.7,Strong,Monitor,Monitor,Monitor
+P0932,Flipkart,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,17.6,4.1,4.2,94.2,85.8,Strong,Monitor,Monitor,Monitor
+P0024,Website,AR,Skin Care,General Product,5.8,2.9,3.8,107.7,94.3,Strong,Monitor,Monitor,Monitor
+P1114,JioMart,Vaseline,Body Care,Deodorant & Body Spray,11.4,5.8,4.2,96.0,87.8,Strong,Monitor,Monitor,Monitor
+P1107,Website,Vaseline,Body Care,General Product,5.1,4.3,3.9,104.8,93.3,Strong,Monitor,Monitor,Monitor
+P0868,Meesho,SHIVAMAX,Home & Kitchen,General Product,14.3,4.4,5.0,94.9,87.1,Strong,Monitor,Monitor,Monitor
+P0233,Meesho,Counterpain,Health & Wellness,Pain Relief,14.5,2.8,4.1,95.3,87.4,Strong,Monitor,Monitor,Monitor
+P1038,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,13.8,5.1,4.1,96.9,88.5,Strong,Monitor,Monitor,Monitor
+P0720,Meesho,Protex,Body Care,General Product,14.4,4.8,4.1,94.2,86.5,Strong,Monitor,Monitor,Monitor
+P0271,JioMart,Dove,Hair Care,General Product,11.7,2.9,3.9,97.8,90.9,Strong,Monitor,Monitor,Monitor
+P0915,Flipkart,SHIVAMAX,Health & Wellness,Herbal Inhaler,17.0,2.5,4.0,97.6,87.8,Strong,Monitor,Monitor,Monitor
+P1052,Meesho,Sunsilk,Hair Care,Shampoo,14.4,3.7,4.2,95.4,87.2,Strong,Monitor,Monitor,Monitor
+P1003,Website,Snake Brand,Body Care,General Product,6.0,2.0,4.4,108.2,95.6,Strong,Monitor,Monitor,Monitor
+P1248,Website,Watsons,Skin Care,Lip Care,6.2,5.9,3.9,104.8,91.6,Strong,Monitor,Monitor,Monitor
+P1254,JioMart,Watsons,Oral Care,Dental Floss,12.6,2.5,4.6,95.9,89.4,Strong,Monitor,Monitor,Monitor
+P0476,Website,Listerine,Oral Care,Mouthwash,6.0,9.3,4.4,99.1,89.5,Strong,Monitor,Monitor,Monitor
+P1035,Meesho,Sunsilk,Hair Care,Shampoo,14.8,6.4,3.1,94.2,86.2,Strong,Monitor,Monitor,Monitor
+P1032,Meesho,Sunsilk,Hair Care,Shampoo,14.3,3.5,3.4,97.9,87.8,Strong,Monitor,Monitor,Monitor
+P1039,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,12.0,1.1,4.6,98.7,92.0,Strong,Monitor,Monitor,Monitor
+P0944,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,12.1,3.6,4.3,97.7,91.7,Strong,Monitor,Monitor,Monitor
+P1033,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,5.8,0.0,4.4,108.2,98.7,Strong,Monitor,Monitor,Monitor
+P0931,JioMart,SHIVAMAX,Electronics & Travel Accessories,General Product,11.8,4.7,3.3,94.9,89.2,Strong,Monitor,Monitor,Monitor
+P0170,JioMart,Colgate,Oral Care,Toothpaste,12.0,3.7,4.4,96.0,89.8,Strong,Monitor,Monitor,Monitor
+P0278,JioMart,Dove,Hair Care,Shampoo,12.4,6.2,4.5,93.3,87.3,Strong,Monitor,Monitor,Monitor
+P1249,Meesho,Watsons,Oral Care,Floss Picks,14.7,4.0,4.4,95.1,85.5,Strong,Monitor,Monitor,Monitor
+P1251,Meesho,Watsons,Oral Care,Floss Picks,14.9,4.7,3.6,96.8,87.0,Strong,Monitor,Monitor,Monitor
+P0308,JioMart,Dove,Hair Care,General Product,11.9,0.0,4.1,99.0,93.6,Strong,Monitor,Monitor,Monitor
+P0917,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,17.5,4.9,4.1,93.9,84.8,Strong,Monitor,Monitor,Monitor
+P0758,Website,Sasi,Lip,Sunscreen,6.4,4.9,4.6,104.1,92.2,Strong,Monitor,Monitor,Monitor
+P0476,JioMart,Listerine,Oral Care,Mouthwash,11.7,2.6,4.1,98.5,91.9,Strong,Monitor,Monitor,Monitor
+P0927,Flipkart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,17.8,0.9,3.8,97.8,88.4,Strong,Monitor,Monitor,Monitor
+P0915,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,15.6,7.2,4.2,93.7,84.2,Strong,Monitor,Monitor,Monitor
+P1164,Meesho,Wangprom,Health & Wellness,Herbal Inhaler,14.6,6.0,3.7,94.3,88.0,Strong,Monitor,Monitor,Monitor
+P0770,Meesho,Sasi,Skin Care,General Product,14.3,6.4,3.6,94.1,88.7,Strong,Monitor,Monitor,Monitor
+P0170,Website,Colgate,Oral Care,Toothpaste,6.5,6.1,4.2,103.3,92.4,Strong,Monitor,Monitor,Monitor
+P1026,Meesho,Sunsilk,Hair Care,Hair Conditioner & Treatment,14.4,2.9,3.9,98.4,89.8,Strong,Monitor,Monitor,Monitor
+P0262,Website,Dove,Hair Care,Hair Oil & Serum,5.8,4.0,4.2,105.7,94.2,Strong,Monitor,Monitor,Monitor
+P0679,Meesho,Poy Sian,Health & Wellness,Herbal Inhaler,14.4,3.7,4.1,95.3,89.2,Strong,Monitor,Monitor,Monitor
+P1218,Meesho,Watsons,Oral Care,Floss Picks,14.4,7.2,4.5,94.5,87.4,Strong,Monitor,Monitor,Monitor
+P0890,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,12.2,7.5,4.2,92.4,85.0,Strong,Monitor,Monitor,Monitor
+P1185,Website,Watsons,Oral Care,Floss Picks,6.3,9.0,3.9,100.6,88.4,Strong,Monitor,Monitor,Monitor
+P0427,Meesho,Kaowmanee,Skin Care,General Product,15.1,2.8,4.3,97.0,88.0,Strong,Monitor,Monitor,Monitor
+P1185,JioMart,Watsons,Oral Care,Floss Picks,12.8,8.4,4.1,91.7,86.3,Strong,Monitor,Monitor,Monitor
+P0758,JioMart,Sasi,Lip,Sunscreen,12.2,1.0,3.9,100.0,92.5,Strong,Monitor,Monitor,Monitor
+P0840,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,12.4,6.8,3.8,95.0,87.5,Strong,Monitor,Monitor,Monitor
+P0308,Website,Dove,Hair Care,General Product,6.3,1.6,4.4,105.1,95.8,Strong,Monitor,Monitor,Monitor
+P0770,JioMart,Sasi,Skin Care,General Product,12.7,5.7,4.0,95.5,89.2,Strong,Monitor,Monitor,Monitor
+P0225,Website,Colgate,Oral Care,Toothpaste,6.4,6.1,4.1,103.6,92.0,Strong,Monitor,Monitor,Monitor
+P0890,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,6.0,9.2,4.9,100.0,89.1,Strong,Monitor,Monitor,Monitor
+P1072,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,15.3,5.9,4.0,91.9,84.8,Strong,Monitor,Monitor,Monitor
+P0557,JioMart,Oral-B,Oral Care,Dental Floss,11.9,3.5,3.9,98.0,89.7,Strong,Monitor,Monitor,Monitor
+P0259,Website,Dove,Hair Care,General Product,5.8,4.5,3.7,105.3,92.2,Strong,Monitor,Monitor,Monitor
+P1099,JioMart,Tros,Body Care,Deodorant & Body Spray,12.3,2.9,2.8,100.1,92.0,Strong,Monitor,Monitor,Monitor
+P0944,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,6.5,5.0,4.5,104.4,92.6,Strong,Monitor,Monitor,Monitor
+P1100,Website,Tros,Body Care,Deodorant & Body Spray,5.8,1.9,3.3,108.1,94.5,Strong,Monitor,Monitor,Monitor
+P1196,JioMart,Watsons,Oral Care,Floss Picks,12.4,4.6,4.8,94.2,85.8,Strong,Monitor,Monitor,Monitor
+P1190,Website,Watsons,Oral Care,Dental Floss,5.9,4.1,3.1,106.6,92.9,Strong,Monitor,Monitor,Monitor
+P0705,Website,Protex,Body Care,General Product,6.1,2.3,4.0,107.4,94.5,Strong,Monitor,Monitor,Monitor
+P0595,Website,Pantene,Hair Care,Hair Conditioner & Treatment,5.7,6.1,4.1,103.8,91.2,Strong,Monitor,Monitor,Monitor
+P0557,Website,Oral-B,Oral Care,Dental Floss,6.2,6.9,4.6,101.8,91.0,Strong,Monitor,Monitor,Monitor
+P0024,JioMart,AR,Skin Care,General Product,12.4,4.7,3.7,96.1,86.6,Strong,Monitor,Monitor,Monitor
+P1248,JioMart,Watsons,Skin Care,Lip Care,11.8,2.6,3.9,100.6,93.1,Strong,Monitor,Monitor,Monitor
+P1070,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,14.6,4.0,4.1,97.4,88.9,Strong,Monitor,Monitor,Monitor
+P0257,Website,Dove,Hair Care,General Product,6.1,4.9,4.6,104.4,94.3,Strong,Monitor,Monitor,Monitor
+P0253,JioMart,Dove,Hair Care,General Product,12.4,5.5,4.2,93.2,85.5,Strong,Monitor,Monitor,Monitor
+P0270,Website,Dove,Hair Care,Hair Oil & Serum,6.5,7.3,4.4,102.9,91.8,Strong,Monitor,Monitor,Monitor
+P1112,Website,Vaseline,Body Care,Deodorant & Body Spray,5.9,5.0,3.6,105.2,94.1,Strong,Monitor,Monitor,Monitor
+P0212,JioMart,Colgate,Oral Care,Toothpaste,12.0,4.0,4.7,95.0,88.1,Strong,Monitor,Monitor,Monitor
+P0261,JioMart,Dove,Hair Care,General Product,12.5,5.2,3.8,98.4,87.9,Strong,Monitor,Monitor,Monitor
+P0763,JioMart,Sasi,Lip,Lip Care,12.5,5.1,3.9,95.1,89.2,Strong,Monitor,Monitor,Monitor
+P1190,JioMart,Watsons,Oral Care,Dental Floss,11.9,1.3,4.1,98.9,91.1,Strong,Monitor,Monitor,Monitor
+P1200,Meesho,Watsons,Oral Care,Dental Floss,14.7,4.1,3.8,96.0,87.1,Strong,Monitor,Monitor,Monitor
+P1041,Website,Sunsilk,Hair Care,Shampoo,6.9,8.0,4.2,103.2,89.4,Strong,Monitor,Monitor,Monitor
+P0259,JioMart,Dove,Hair Care,General Product,12.4,6.6,4.4,92.2,87.1,Strong,Monitor,Monitor,Monitor
+P0271,Website,Dove,Hair Care,General Product,6.0,2.0,4.2,107.5,94.9,Strong,Monitor,Monitor,Monitor
+P0598,Website,Pantene,Hair Care,General Product,6.2,2.6,3.6,106.1,94.8,Strong,Monitor,Monitor,Monitor
+P1214,Meesho,Watsons,Oral Care,Floss Picks,15.1,4.6,4.3,94.9,86.0,Strong,Monitor,Monitor,Monitor
+P1032,Website,Sunsilk,Hair Care,Shampoo,6.5,0.7,3.7,109.4,97.1,Strong,Monitor,Monitor,Monitor
+P0840,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,6.5,4.2,4.4,105.1,93.7,Strong,Monitor,Monitor,Monitor
+P1099,Website,Tros,Body Care,Deodorant & Body Spray,5.9,2.6,3.4,106.9,95.0,Strong,Monitor,Monitor,Monitor
+P0536,Meesho,NOVOLIFE,Health & Wellness,Herbal Inhaler,16.0,8.4,3.4,93.7,84.3,Strong,Monitor,Monitor,Monitor
+P0233,Website,Counterpain,Health & Wellness,Pain Relief,6.2,4.6,4.4,105.9,94.4,Strong,Monitor,Monitor,Monitor
+P1100,JioMart,Tros,Body Care,Deodorant & Body Spray,11.6,2.6,3.3,100.0,90.8,Strong,Monitor,Monitor,Monitor
+P0705,JioMart,Protex,Body Care,General Product,11.7,1.8,3.7,99.4,91.9,Strong,Monitor,Monitor,Monitor
+P0233,JioMart,Counterpain,Health & Wellness,Pain Relief,12.2,6.0,3.9,96.6,88.3,Strong,Monitor,Monitor,Monitor
+P0225,JioMart,Colgate,Oral Care,Toothpaste,11.9,3.8,4.1,97.9,90.7,Strong,Monitor,Monitor,Monitor
+P1039,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,6.2,5.9,4.5,102.5,90.7,Strong,Monitor,Monitor,Monitor
+P0270,JioMart,Dove,Hair Care,Hair Oil & Serum,12.5,7.3,4.3,95.9,86.9,Strong,Monitor,Monitor,Monitor
+P0531,Website,NEXCARE,Skin Care,General Product,6.1,3.5,4.7,104.8,93.5,Strong,Monitor,Monitor,Monitor
+P1254,Website,Watsons,Oral Care,Dental Floss,6.2,2.2,4.2,107.0,96.0,Strong,Monitor,Monitor,Monitor
+P0595,JioMart,Pantene,Hair Care,Hair Conditioner & Treatment,12.0,4.6,3.7,96.5,88.0,Strong,Monitor,Monitor,Monitor
+P1112,JioMart,Vaseline,Body Care,Deodorant & Body Spray,12.1,2.4,4.1,98.7,90.5,Strong,Monitor,Monitor,Monitor
+P0706,JioMart,Protex,Body Care,General Product,12.4,6.2,4.4,93.2,86.6,Strong,Monitor,Monitor,Monitor
+P1033,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,12.4,5.5,3.5,97.2,88.7,Strong,Monitor,Monitor,Monitor
+P0257,JioMart,Dove,Hair Care,General Product,12.4,5.6,3.9,93.8,88.0,Strong,Monitor,Monitor,Monitor
+P0261,Website,Dove,Hair Care,General Product,6.1,3.7,4.1,105.9,94.2,Strong,Monitor,Monitor,Monitor
+P1071,Meesho,Tiger Balm,Health & Wellness,Herbal Inhaler,14.8,4.3,3.7,97.5,88.1,Strong,Monitor,Monitor,Monitor
+P1029,JioMart,Sunsilk,Hair Care,Shampoo,13.0,3.9,3.2,98.7,91.0,Strong,Monitor,Monitor,Monitor
+P1052,JioMart,Sunsilk,Hair Care,Shampoo,12.6,6.4,4.1,94.1,85.5,Strong,Monitor,Monitor,Monitor
+P0868,JioMart,SHIVAMAX,Home & Kitchen,General Product,12.7,4.3,4.5,97.0,88.4,Strong,Monitor,Monitor,Monitor
+P0262,JioMart,Dove,Hair Care,Hair Oil & Serum,12.2,9.3,4.3,91.3,86.2,Strong,Monitor,Monitor,Monitor
+P0932,Meesho,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,15.1,3.9,4.0,94.9,86.1,Strong,Monitor,Monitor,Monitor
+P0475,JioMart,Listerine,Oral Care,Mouthwash,12.2,6.4,3.6,95.5,87.1,Strong,Monitor,Monitor,Monitor
+P1026,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,12.7,5.1,3.8,96.6,89.4,Strong,Monitor,Monitor,Monitor
+P0720,JioMart,Protex,Body Care,General Product,12.1,2.1,3.9,99.8,91.3,Strong,Monitor,Monitor,Monitor
+P1164,JioMart,Wangprom,Health & Wellness,Herbal Inhaler,12.5,10.6,4.0,92.0,84.3,Strong,Monitor,Review,Monitor
+P0917,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,15.4,6.1,3.8,95.1,84.9,Strong,Monitor,Monitor,Monitor
+P1035,Website,Sunsilk,Hair Care,Shampoo,6.1,2.4,4.0,108.2,95.0,Strong,Monitor,Monitor,Monitor
+P1038,JioMart,Sunsilk,Hair Care,Hair Conditioner & Treatment,12.5,3.1,4.0,98.7,90.0,Strong,Monitor,Monitor,Monitor
+P0868,Website,SHIVAMAX,Home & Kitchen,General Product,6.6,3.3,3.7,109.6,94.0,Strong,Monitor,Monitor,Monitor
+P1035,JioMart,Sunsilk,Hair Care,Shampoo,12.6,5.2,3.8,98.4,89.3,Strong,Monitor,Monitor,Monitor
+P0720,Website,Protex,Body Care,General Product,6.5,3.1,4.1,108.4,94.2,Strong,Monitor,Monitor,Monitor
+P1052,Website,Sunsilk,Hair Care,Shampoo,5.8,3.1,4.1,106.6,94.4,Strong,Monitor,Monitor,Monitor
+P1003,JioMart,Snake Brand,Body Care,General Product,11.8,3.6,4.1,98.3,89.5,Strong,Monitor,Monitor,Monitor
+P1032,JioMart,Sunsilk,Hair Care,Shampoo,12.6,2.4,3.6,99.3,91.1,Strong,Monitor,Monitor,Monitor
+P1164,Website,Wangprom,Health & Wellness,Herbal Inhaler,6.6,2.1,4.2,108.3,94.6,Strong,Monitor,Monitor,Monitor
+P0770,Website,Sasi,Skin Care,General Product,6.4,3.9,4.2,105.6,92.2,Strong,Monitor,Monitor,Monitor
+P0253,Website,Dove,Hair Care,General Product,6.0,5.6,3.2,103.8,92.6,Strong,Monitor,Monitor,Monitor
+P0427,Website,Kaowmanee,Skin Care,General Product,7.0,7.0,3.9,103.1,89.4,Strong,Monitor,Monitor,Monitor
+P0475,Website,Listerine,Oral Care,Mouthwash,6.7,6.3,4.2,105.7,92.0,Strong,Monitor,Monitor,Monitor
+P1038,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,6.3,3.9,3.6,105.8,93.1,Strong,Monitor,Monitor,Monitor
+P0531,JioMart,NEXCARE,Skin Care,General Product,12.0,5.3,4.5,95.5,89.7,Strong,Monitor,Monitor,Monitor
+P1249,JioMart,Watsons,Oral Care,Floss Picks,12.3,1.8,4.6,99.0,92.0,Strong,Monitor,Monitor,Monitor
+P1041,JioMart,Sunsilk,Hair Care,Shampoo,12.8,7.9,4.1,94.3,84.9,Strong,Monitor,Monitor,Monitor
+P0706,Website,Protex,Body Care,General Product,5.9,3.4,4.1,107.5,92.8,Strong,Monitor,Monitor,Monitor
+P0555,Website,Oral-B,Oral Care,Dental Floss,6.0,5.3,3.4,106.7,93.4,Strong,Monitor,Monitor,Monitor
+P0889,Meesho,SHIVAMAX,Health & Wellness,Herbal Inhaler,15.7,3.9,4.2,95.7,87.1,Strong,Monitor,Monitor,Monitor
+P0917,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,7.8,6.4,3.9,105.8,90.5,Strong,Monitor,Monitor,Monitor
+P1251,Website,Watsons,Oral Care,Floss Picks,6.9,5.3,4.6,104.9,91.4,Strong,Monitor,Monitor,Monitor
+P0679,Website,Poy Sian,Health & Wellness,Herbal Inhaler,7.3,9.7,3.9,99.7,87.6,Strong,Monitor,Monitor,Monitor
+P1029,Website,Sunsilk,Hair Care,Shampoo,6.7,2.1,4.0,108.8,94.7,Strong,Monitor,Monitor,Monitor
+P0278,Website,Dove,Hair Care,Shampoo,6.0,3.2,3.6,107.9,93.4,Strong,Monitor,Monitor,Monitor
+P1026,Website,Sunsilk,Hair Care,Hair Conditioner & Treatment,6.4,8.6,3.9,102.7,90.3,Strong,Monitor,Monitor,Monitor
+P0536,Website,NOVOLIFE,Health & Wellness,Herbal Inhaler,7.0,8.5,3.8,102.3,88.4,Strong,Monitor,Monitor,Monitor
+P1072,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,7.5,8.7,4.5,102.5,88.8,Strong,Monitor,Monitor,Monitor
+P0915,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,13.6,5.0,3.7,97.3,86.8,Strong,Monitor,Monitor,Monitor
+P1251,JioMart,Watsons,Oral Care,Floss Picks,12.6,2.4,4.2,100.5,90.6,Strong,Monitor,Monitor,Monitor
+P1072,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,13.5,5.2,3.4,97.3,89.8,Strong,Monitor,Monitor,Monitor
+P0690,JioMart,Protex,Body Care,General Product,12.7,3.5,4.1,99.8,89.6,Strong,Monitor,Monitor,Monitor
+P0763,Website,Sasi,Lip,Lip Care,5.5,2.9,3.7,106.7,95.2,Strong,Monitor,Monitor,Monitor
+P1218,JioMart,Watsons,Oral Care,Floss Picks,12.9,3.4,3.9,98.9,89.8,Strong,Monitor,Monitor,Monitor
+P1071,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,12.6,0.7,4.1,101.6,93.2,Strong,Monitor,Monitor,Monitor
+P1214,Website,Watsons,Oral Care,Floss Picks,6.6,4.5,4.1,108.1,92.5,Strong,Monitor,Monitor,Monitor
+P0427,JioMart,Kaowmanee,Skin Care,General Product,12.7,8.0,3.3,93.9,86.4,Strong,Monitor,Monitor,Monitor
+P0927,Meesho,SHIVAMAX,Home & Kitchen,Adhesive Hooks,15.6,5.3,4.2,96.9,86.3,Strong,Monitor,Monitor,Monitor
+P1070,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,6.4,5.3,4.1,108.0,92.9,Strong,Monitor,Monitor,Monitor
+P0915,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,7.7,6.1,4.3,105.3,91.3,Strong,Monitor,Monitor,Monitor
+P1070,JioMart,Tiger Balm,Health & Wellness,Herbal Inhaler,13.9,5.6,4.4,95.0,87.0,Strong,Monitor,Monitor,Monitor
+P1071,Website,Tiger Balm,Health & Wellness,Herbal Inhaler,7.7,7.2,3.5,105.6,90.5,Strong,Monitor,Monitor,Monitor
+P1200,Website,Watsons,Oral Care,Dental Floss,7.1,4.9,3.8,106.5,90.9,Strong,Monitor,Monitor,Monitor
+P0917,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,13.1,4.9,3.9,99.7,89.4,Strong,Monitor,Monitor,Monitor
+P1200,JioMart,Watsons,Oral Care,Dental Floss,13.1,5.3,3.4,97.5,88.3,Strong,Monitor,Monitor,Monitor
+P1214,JioMart,Watsons,Oral Care,Floss Picks,12.9,3.7,3.7,99.3,90.5,Strong,Monitor,Monitor,Monitor
+P1218,Website,Watsons,Oral Care,Floss Picks,5.7,0.8,3.9,112.2,97.4,Strong,Monitor,Monitor,Monitor
+P0932,JioMart,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,12.7,0.5,4.1,100.5,92.0,Strong,Monitor,Monitor,Monitor
+P1249,Website,Watsons,Oral Care,Floss Picks,7.1,5.6,4.7,106.8,92.4,Strong,Monitor,Monitor,Monitor
+P0889,Website,SHIVAMAX,Health & Wellness,Herbal Inhaler,7.0,6.5,4.4,107.2,93.5,Strong,Monitor,Monitor,Monitor
+P0679,JioMart,Poy Sian,Health & Wellness,Herbal Inhaler,11.9,3.9,3.6,98.9,88.7,Strong,Monitor,Monitor,Monitor
+P0927,Website,SHIVAMAX,Home & Kitchen,Adhesive Hooks,8.4,8.9,4.4,107.0,88.0,Strong,Monitor,Monitor,Monitor
+P0690,Website,Protex,Body Care,General Product,6.6,10.7,3.1,104.0,86.0,Strong,Monitor,Review,Monitor
+P0932,Website,SHIVAMAX,Electronics & Travel Accessories,Travel Adapter,6.5,1.1,4.9,112.4,97.3,Strong,Monitor,Monitor,Monitor
+P0536,JioMart,NOVOLIFE,Health & Wellness,Herbal Inhaler,13.3,2.4,4.1,99.4,89.9,Strong,Monitor,Monitor,Monitor
+P0889,JioMart,SHIVAMAX,Health & Wellness,Herbal Inhaler,12.9,2.4,4.4,102.1,91.1,Strong,Monitor,Monitor,Monitor
+P0927,JioMart,SHIVAMAX,Home & Kitchen,Adhesive Hooks,13.5,8.9,4.3,95.3,87.1,Strong,Monitor,Monitor,Monitor

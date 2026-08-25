@@ -1,0 +1,73 @@
+# CI uses source code, public CSV outputs, and YAML contracts.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.13"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Python syntax / import check
+        run: |
+          python -m py_compile $(git ls-files '*.py')
+
+      - name: Run full test suite
+        run: python -m pytest -q
+
+      - name: Privacy scan against committed public outputs
+        run: python python/run_privacy_scan.py
+
+      - name: Data-contract static load check
+        run: |
+          python - <<'PYEOF'
+          from shared.contracts import load_contract
+          for name in [
+              "product_master.yml",
+              "marketplace_transactions.yml",
+              "public_outputs/anonymized_master.yml",
+              "public_outputs/marketplace_summary.yml",
+              "public_outputs/product_performance.yml",
+              "public_outputs/inventory_action_review.yml",
+              "public_outputs/validation_summary.yml",
+              "public_outputs/dataset_profile.yml",
+          ]:
+              contract = load_contract(name)
+              assert "fields" in contract, f"{name} is missing 'fields'"
+          print("All contract YAML files loaded and are well-formed.")
+          PYEOF
+
+      - name: Public output schema check
+        run: |
+          python - <<'PYEOF'
+          import pandas as pd
+          from pathlib import Path
+          public_dir = Path("data/public")
+          assert public_dir.exists(), "data/public is missing from the checked-out repo"
+          csvs = list(public_dir.glob("*.csv"))
+          assert len(csvs) >= 17, f"expected at least 17 public CSVs, found {len(csvs)}"
+          for path in csvs:
+              df = pd.read_csv(path, nrows=5)
+              assert len(df.columns) > 0, f"{path.name} has no columns"
+          print(f"{len(csvs)} public CSV outputs present and readable.")
+          PYEOF

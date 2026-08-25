@@ -1,0 +1,62 @@
+# Data contract: data/public/marketplace_summary.csv
+dataset: marketplace_summary
+version: 1
+description: Marketplace x month aggregated public performance summary.
+grain: one row per (transaction_month, marketplace)
+primary_key: [transaction_month, marketplace]
+privacy_classification: public
+public: true
+fields:
+  transaction_month:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  marketplace:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  total_orders:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    privacy: public
+  sales_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  units_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  avg_fee_pct_of_gross:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 300
+    privacy: public
+  avg_net_to_gross_pct:
+    type: number
+    required: true
+    nullable: false
+    min: -300
+    max: 300
+    privacy: public
+forbidden_fields:
+  - sku
+  - order_id
+  - asin
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  forbidden_field_present: reject

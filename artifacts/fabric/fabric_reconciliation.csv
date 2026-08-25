@@ -1,0 +1,11 @@
+source_object,source_count,bronze_object,bronze_count,silver_object,silver_count,gold_object,gold_count,difference,status,notes
+analytics.dim_product,153,bronze_dim_product,153,silver_dim_product,153,,,0,OK,Used as join dimension in gold_product_performance and gold_inventory_actions; not materialized standalone in Gold by design
+analytics.dim_marketplace,6,bronze_dim_marketplace,6,silver_dim_marketplace,6,,,0,OK,Used as join dimension across all Gold fact tables; 5 real marketplaces + 1 Unknown member
+analytics.dim_month,14,bronze_dim_month,14,silver_dim_month,14,,,0,OK,Used as join dimension in gold_marketplace_performance
+analytics.dim_fulfillment,3,bronze_dim_fulfillment,3,silver_dim_fulfillment,3,,,0,OK,Landed to Bronze/Silver; no fulfillment_key present on any fact table so not required by a Gold join
+analytics.fact_marketplace_activity,65,bronze_fact_marketplace_activity,65,silver_fact_marketplace_activity,65,gold_marketplace_performance,65,0,OK,1:1 grain preserved end-to-end; verified via two independent CopyJob_1 runs with identical counts
+analytics.fact_product_performance,760,bronze_fact_product_performance,760,silver_fact_product_performance,760,gold_product_performance,760,0,OK,1:1 grain preserved end-to-end
+analytics.fact_inventory_action,760,bronze_fact_inventory_action,760,silver_fact_inventory_action,760,gold_inventory_actions,760,0,OK,1:1 grain preserved end-to-end
+analytics.fact_performance_variance,45,bronze_fact_performance_variance,45,silver_fact_performance_variance,45,gold_variance_drivers,45,0,OK,1:1 grain preserved end-to-end
+audit.audit_validation,34,bronze_audit_validation,34,silver_audit_validation,34,gold_validation_summary,34,0,OK,1:1 grain preserved end-to-end; independently re-verified via PL_AzureSQL_to_OneLake pipeline (2 successful Copy Data runs, both rowsCopied=34)
+audit.audit_dataset_profile,15,bronze_audit_dataset_profile,15,silver_audit_dataset_profile,15,,,0,OK,Landed to Bronze/Silver; not required by any Gold join

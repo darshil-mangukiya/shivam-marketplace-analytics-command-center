@@ -1,0 +1,94 @@
+# Data contract: data/public/anonymized_master.csv
+dataset: anonymized_master
+version: 1
+description: Transaction-level, privacy-safe public dashboard rows.
+grain: one row per transaction row (post-anonymization)
+primary_key: []
+privacy_classification: public
+public: true
+fields:
+  public_product_id:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  marketplace:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+  sales_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  units_index:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 100
+    privacy: public
+  fee_pct_of_gross:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 300
+    privacy: public
+  refund_pct_of_gross:
+    type: number
+    required: true
+    nullable: false
+    min: 0
+    max: 300
+    privacy: public
+  net_to_gross_pct:
+    type: number
+    required: true
+    nullable: false
+    min: -300
+    max: 300
+    privacy: public
+  margin_risk_score:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    max: 100
+    privacy: public
+  revenue_quality_score:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    max: 100
+    privacy: public
+forbidden_fields:
+  # Never allowed in this or any public output — enforced independently by
+  # shared/privacy.py; listed here for contract-level documentation.
+  - asin
+  - asin1
+  - seller_sku
+  - sku
+  - order_id
+  - listing_id
+  - product_id
+  - item_name
+  - item_description
+  - description
+  - order_postal
+  - gross_sales_private
+  - refund_amount_private
+  - promotion_amount_private
+  - net_amount_private
+  - total
+  - price
+  - maximum_retail_price
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  forbidden_field_present: reject

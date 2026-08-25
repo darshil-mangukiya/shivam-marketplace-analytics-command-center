@@ -1,0 +1,115 @@
+# Data contract: Marketplace Transaction CSV upload (private input).
+#
+# INTEGRATION STATUS: genuinely wired into the live upload path. Called by
+# app/utils/transaction_cleaner.py:clean_transaction_file() as the LAST step,
+# after the existing header/schema detection and cleaning/normalization/
+# standardization have already run — never before. This is deliberate: the
+# field names below are the pipeline's canonical, POST-normalization column
+# names (verified against python/pipeline_utils.py:TRANSACTION_EXPECTED_FIELDS
+# and the standardize_marketplace()/clean_text_series() output), not the raw
+# column names a marketplace export might use before header/alias detection.
+# Running contract validation any earlier — before normalization/aliasing —
+# would produce spurious rejections on legitimately-aliased columns.
+#
+# This contract validates SHAPE and BASIC RANGE only; it does not replace
+# the existing cleaning/normalization code, and it never overrides the
+# specific, already-tested error messages for structurally invalid files
+# (missing header, empty file, malformed dates) — those checks run first
+# and return before this contract is ever consulted.
+dataset: marketplace_transactions
+version: 1
+description: >
+  Raw marketplace transaction export rows, pre-anonymization. Never exposed
+  publicly in this form.
+grain: one row per transaction/settlement line
+primary_key: []  # order_id is not guaranteed unique across settlement line types
+privacy_classification: private
+public: false
+fields:
+  date_time:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping  # only the derived transaction_month is public
+  order_id:
+    type: string
+    required: false
+    nullable: true
+    privacy: private
+  sku:
+    type: string
+    # The SKU COLUMN is required (already enforced procedurally, before this
+    # contract ever runs, by transaction_cleaner.py's explicit "recognizable
+    # SKU column" check). Individual ROW VALUES are legitimately nullable:
+    # non-product settlement lines (service fees, refunds, adjustments,
+    # transfers) genuinely have no SKU by design — see
+    # app/utils/joiner.py:join_transactions_to_product_master, which maps
+    # exactly these blank-SKU rows to NON_PRODUCT_ID rather than treating
+    # them as a data-quality defect. Verified against the real 141K-row
+    # 12-month dataset: ~9.8% of rows are legitimate non-product activity.
+    # required=true (the COLUMN must exist — defense in depth alongside the
+    # procedural check) + nullable=true (individual row VALUES may
+    # legitimately be blank) reflects that reality; nullable=false was an
+    # authoring mistake caught during live integration (it rejected ~13,800
+    # legitimate rows on the real 141K-row dataset before this fix).
+    required: true
+    nullable: true
+    privacy: private
+  marketplace:
+    type: string
+    required: true
+    nullable: false
+    privacy: public
+    allowed_values: ["Amazon", "Flipkart", "Meesho", "JioMart", "Website"]
+  quantity:
+    type: number
+    required: false
+    nullable: true
+    min: -100000
+    max: 100000
+    privacy: private
+  product_sales:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  promotional_rebates:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  selling_fees:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  fba_fees:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  other_transaction_fees:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  total:
+    type: number
+    required: false
+    nullable: true
+    privacy: private
+  fulfillment:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  order_postal:
+    type: string
+    required: false
+    nullable: true
+    privacy: private
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  unknown_value: warn

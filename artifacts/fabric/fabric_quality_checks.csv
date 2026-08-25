@@ -1,0 +1,15 @@
+check_name,layer,scope,result,detail
+source_target_row_reconciliation,Bronze,All 10 tables,PASS,All 10 Bronze tables match Azure SQL source row counts exactly (0 difference each); verified across 2 independent runs
+delta_format_validation,Bronze+Silver+Gold,All 25 tables,PASS,DeltaTable.isDeltaTable() == True for all 10 Bronze + 10 Silver + 5 Gold tables
+null_key_validation,Silver,All 10 tables,PASS,0 null natural/surrogate keys dropped in any of the 10 Silver tables
+duplicate_key_validation,Silver,All 10 tables,PASS,0 duplicate keys dropped in any of the 10 Silver tables (source data already unique per key)
+row_count_conformance_bronze_to_silver,Silver,All 10 tables,PASS,Silver row count equals Bronze row count for every table (no unexplained row loss)
+grain_preservation_silver_to_gold,Gold,5 fact-derived Gold tables,PASS,Each Gold fact table's row count exactly matches its source Silver fact table (left joins to dimensions did not inflate or drop rows)
+business_metric_total_orders,Gold,gold_marketplace_performance,PASS,SUM(total_orders) = 120000; matches governed P8 value exactly
+business_metric_marketplace_count,Silver,silver_dim_marketplace,PASS,6 distinct marketplaces (5 real business marketplaces + 1 Unknown member); matches governed P8 value
+business_metric_product_performance_rows,Gold,gold_product_performance,PASS,760 rows; matches governed P8 value exactly
+business_metric_high_priority_actions,Gold,gold_product_performance,PASS,145 rows with action_priority = High; matches governed P8 value exactly
+idempotency_bronze,Bronze,CopyJob_1 (2 runs),PASS,Identical row counts on both runs (1855 = 1855); Overwrite write mode
+idempotency_silver_gold,Silver+Gold,Notebook (2 full runs),PASS,Identical row counts on both runs across all 15 Silver/Gold tables; overwrite mode
+controlled_failure_test,Pipeline,PL_AzureSQL_to_OneLake,PASS,Invalid table name produced a real, identifiable SqlOperationFailed error (SqlErrorNumber=208); native retry attempted and correctly failed again on the still-broken config
+recovery_rerun_test,Pipeline,PL_AzureSQL_to_OneLake,PASS,Corrected configuration produced a successful run with row count identical to the original baseline run

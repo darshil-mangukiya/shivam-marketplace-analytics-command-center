@@ -1,0 +1,117 @@
+# Data contract: Product / Cost / Channel Master upload (private input).
+#
+# INTEGRATION STATUS: genuinely wired into the live upload path. Called by
+# app/utils/product_master_cleaner.py:clean_product_master_file() as the
+# LAST step, after header/sheet detection, aliasing, cleaning, numeric
+# parsing, and band derivation have already run — never before. Field names
+# and allowed_values below are the pipeline's canonical, POST-normalization/
+# POST-derivation values (verified against python/pipeline_utils.py:
+# PRODUCT_EXPECTED_FIELDS and derive_inventory_band()/derive_price_band()),
+# not raw workbook values.
+#
+# This contract validates SHAPE and BASIC RANGE only; it does not replace
+# the existing cleaning/normalization code, and it never overrides the
+# specific, already-tested error message for a missing seller SKU column —
+# that check runs first and returns before this contract is ever consulted.
+dataset: product_master
+version: 1
+description: >
+  Raw Product / Cost / Channel Master workbook rows, pre-anonymization.
+  Never exposed publicly in this form.
+grain: one row per seller_sku
+primary_key: [seller_sku]
+privacy_classification: private
+public: false
+fields:
+  seller_sku:
+    type: string
+    required: true
+    nullable: false
+    privacy: private
+    unique: true
+  asin1:
+    type: string
+    required: false
+    nullable: true
+    privacy: private
+  item_name:
+    type: string
+    required: false
+    nullable: true
+    privacy: private
+  item_description:
+    type: string
+    required: false
+    nullable: true
+    privacy: private
+  price:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    privacy: private
+  quantity:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    privacy: private
+  maximum_retail_price:
+    type: number
+    required: false
+    nullable: true
+    min: 0
+    privacy: private
+  brand:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  category:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  subcategory:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  product_group:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  fulfillment_channel:
+    type: string
+    required: false
+    nullable: true
+    privacy: public_after_grouping
+  inventory_band:
+    type: string
+    required: false
+    nullable: true
+    privacy: public
+    # No allowed_values here, deliberately: verified against the real
+    # workbook that this field is mixed-source. When the source workbook
+    # already authors an inventory_band value (e.g. "Low (1-2)",
+    # "Medium (3-10)"), it passes through unchanged; only when it's missing
+    # does derive_inventory_band() (python/pipeline_utils.py) fill in its
+    # own scheme (e.g. "Very Low / 1-5"). An earlier version of this
+    # contract constrained this field to derive_inventory_band()'s output
+    # strings only, which incorrectly flagged ~500 of 1,264 real,
+    # legitimately workbook-authored rows as UNKNOWN_VALUE during live
+    # integration testing against the real product master. Constraining a
+    # genuinely mixed-source free-text field to one source's vocabulary was
+    # the bug, not the data. (No allowed_values key = unconstrained.)
+  listing_price_band:
+    type: string
+    required: false
+    nullable: true
+    privacy: public
+validation_severity:
+  missing_required_field: reject
+  type_mismatch: reject
+  out_of_range: warn
+  unknown_value: warn
+  duplicate_primary_key: warn

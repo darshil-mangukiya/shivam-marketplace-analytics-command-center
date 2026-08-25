@@ -1,0 +1,15 @@
+risk_id,description,probability,impact,control,status
+RISK-01,Marketplace export schema changes,Medium,High,Header alias detection and contract validation,Mitigated
+RISK-02,Marketplace-channel mapping keys remain incomplete,Medium,Medium,Channel enrichment status is Unavailable and marketplace analysis remains separate,Open
+RISK-03,Wrong-period source file is selected,Low,Medium,Dataset period is derived from loaded rows and displayed in the app,Mitigated
+RISK-04,Financial ratios contain invalid values,Medium,Medium,Contract type/range checks and documented clipping rules,Mitigated
+RISK-05,A private identifier reaches a public output,Low,Critical,Column and full-frame content scans run before UI storage or export,Mitigated
+RISK-06,Transaction SKUs fail product reconciliation,Medium,Medium,Unmatched counts are reported and non-product rows are retained,Mitigated
+RISK-07,Estimated profitability is interpreted as accounting profit,Medium,High,Metric names and definitions identify it as an estimate,Mitigated
+RISK-08,A dashboard behavior regresses,Low,High,Application regression tests and UAT cover primary workflows,Mitigated
+RISK-09,A contract rejects valid source rows,Medium,High,Contract integration tests use representative input shapes and explicit severities,Mitigated
+RISK-10,A high-priority exception receives no follow-up,Medium,Medium,Exception queue and action log provide status visibility,Mitigated
+RISK-11,An invalid workflow transition corrupts state,Low,Medium,Transition table validation raises WorkflowError before writes,Mitigated
+RISK-12,Documentation counts drift,Medium,Low,Counts are verified during release review and kept out of application runtime,Open
+RISK-13,Variance contribution is interpreted as causation,Low,Medium,Narratives use descriptive contribution language,Mitigated
+RISK-14,PBIX content changes without review,Low,High,PBIX hash and Git status are checked during release review,Mitigated
